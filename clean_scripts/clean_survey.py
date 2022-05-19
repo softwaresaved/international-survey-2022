@@ -16,6 +16,7 @@ from survey.sociodemography import read_anonymised_data
 
 SALARY_COL = 'socio4. Please select the range of your salary'
 DEVEXP_COL = 'soft1can. How many years of software development experience do you have?'
+SOFTPROJ_COL = 'proj1can. How many software projects are you currently involved in?'
 PREVEMP1_COL = 'prevEmp1. Where was your previous job based?'
 PREVEMP1_DE_COL = 'prevEmp1qde. Where was your previous job based?'
 CURRENTEMP2_COL = 'currentEmp2. Which university do you work for?'
@@ -49,8 +50,9 @@ apply_actions(fix_df, ref_df, actions_other_df)
 
 # Further cleaning - merging columns and other cleaning to match 2018 data format
 
-# Drop all nan's in software dev experience column
+# Replace 15+s in various columns
 fix_df[DEVEXP_COL] = fix_df[DEVEXP_COL].replace({'15+': '15'})
+fix_df[SOFTPROJ_COL] = fix_df[SOFTPROJ_COL].replace({'15+': '15'})
 
 # Merge prevEmp1 into single column, as per 2018.csv
 fix_df[PREVEMP1_COL] = (
