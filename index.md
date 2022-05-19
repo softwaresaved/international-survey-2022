@@ -44,21 +44,33 @@ These subjects are not necessarily  investigated under this order, neither publi
 
 ## Contributors
 
-Here is a list of contributors for the 2017/2018 version of the survey (alphabetic order). They are also mentioned in the [.zenodo.json](https://github.com/softwaresaved/international-survey/blob/master/.zenodo.json) to be automatically added to the DOI.
-* Stephan Druskat
-* Sandra Gesing
-* Martin Hammitzsch
-* Scott Henwood
-* Simon Hettrick
-* Stephan Janosch
-* Katrin Leinweber
-* Olivier Philippe
-* Nooriyah P. Lohani
-* Nicholas R. May
-* Manodeep Sinha
-* Daniel S. Katz
-* Anelda van der Walt
-* Ben van Werkhoven
+Here is a list of contributors for the 2022 version of the survey in last name alphabetic order:
+
+* Radovan Bast, Norway/Nordics
+* Alex Botzki, Belgium
+* Jeff Carver, US
+* Ian Coseden, US
+* Steve Crouch, UK
+* Florencia D'Andrea, Argentina
+* Abhishek Dasgupta, UK
+* William Godoy, US
+* Alejandra Gonzalez-Beltran, Argentina
+* Ulf Hamster, Germany
+* Scott Henwood, Canada
+* Simon Hettrick, UK
+* Patric Holmvall, Sweden/Nordics
+* Stephan Janosch, Germany
+* Thibault Lestang, France
+* Nick May, New Zealand
+* Olivier Philippe, UK
+* Johan Philips, Belgium
+* Nooriyah Poonawala-Lohani, New Zealand
+* Paul Richmond, UK
+* Manodeep Sinha, Australia
+* Florian Thiery, Germany
+* Ben van Werkhoven, Netherlands
+* Claire Wyatt, UK
+* Qian Zhang, Canada
 
 ## Licence 
 
@@ -66,8 +78,8 @@ This repository contains code and public data. We have different licences for ea
 * The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE).
 * The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE_FOR_DATA).
 
-The repository is also archived on zenodo: https://doi.org/10.5281/zenodo.1194668.
-If you want to cite this work and need a citation in a specific format, you can use the citation service on the zenodo.
+The repository will also be archived on Zenodo when finalised - Zenodo link TBC.
+If you want to cite this work and need a citation in a specific format, you can use the citation service on Zenodo.
 
 ## Reproducibility
 
