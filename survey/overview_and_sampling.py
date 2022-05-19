@@ -90,7 +90,6 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     df = df[df["socio1. In which country do you work?"] != "Canada"]
 
     # Fix: extra cleaning, to move a duplicated column's contents into the actual column
-    #df[PROJ5ZAF_GIT1_COL] = df[PROJ5ZAF_GIT1_COL] + df[PROJ5ZAF_GIT2_COL]
     df.drop(columns=[PROJ5ZAF_GIT2_COL], inplace=True)
 
     # Fix: remove superfluous previous employment ranking options
@@ -138,11 +137,16 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
         #    This makes the CSV reproducible
     )
     df_countries.columns = ["Country", "Count"]
+
     report.update(table("participant", df_countries, index=False))
     df_countries.columns = ["name", "count"]
 
     df["Date"] = df["startdate. Date started"].apply(lambda x: convert_time(x))
-    df_submission_per_country = df[["Country", "Date"]]  # .dropna()
+
+    # Fix: ensure we only get data for current survey year, not all years
+    df_submission_per_country = df.loc[df["Year"] == survey_year]
+    df_submission_per_country = df_submission_per_country[["Country", "Date"]]  # .dropna()
+
     total_per_country = (
         df_submission_per_country.groupby(["Country"])["Date"].value_counts().to_frame()
     )
@@ -150,6 +154,12 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     total_per_country = total_per_country.reset_index().sort_values(
         ["Date", "Country"], ascending=True
     )
+
+    # Fix: ensure World meta-country is moved to the end of graph, otherwise only a
+    # smaller range of dates are displayed in the labels
+    total_per_country = pd.concat([total_per_country[total_per_country["Country"] != "World"], total_per_country[total_per_country["Country"] == "World"]])
+
+    total_per_country.to_csv("test.csv")
 
     fig, axes = plt.subplots(len(set(df.Country)), 1, figsize=(7, 9), sharex=True)
     fig.tight_layout()
@@ -162,8 +172,8 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
         axes[i].set_title("{}".format(name))
         # axes[a, b].set_xticklabels(labels=idx)
 
-        axes[i].xaxis.set_major_locator(mdates.DayLocator(interval=30))  # every 10 days
-        axes[i].xaxis.set_minor_locator(mdates.DayLocator(interval=7))  # every day
+        axes[i].xaxis.set_major_locator(mdates.DayLocator(interval=7))  # every week
+        axes[i].xaxis.set_minor_locator(mdates.DayLocator(interval=1))  # every day
         for label in axes[i].get_xticklabels():
             label.set_rotation(90)
         list_plots.append(axes[i])

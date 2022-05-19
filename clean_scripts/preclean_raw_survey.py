@@ -5,6 +5,7 @@
 
 import os
 import sys
+import datetime
 import re
 import uuid
 import numpy as np
@@ -16,6 +17,14 @@ sys.path.insert(1, '.')
 from clean_scripts.cleaning import apply_actions
 from survey.overview_and_sampling import read_salary
 
+
+def convert_time(x):
+#    try:
+    return datetime.datetime.strptime(str(x), "%d/%m/%Y %H:%M").strftime("%Y-%m-%d %H:%M:00")
+#    except ValueError:
+#        return x
+
+STARTDATE_COL = 'startdate. Date started'
 
 if not os.path.exists('data/2022-raw.csv'):
     print("Error: please ensure raw 2022 survey data file '2022-raw.csv' is present in 'data'")
@@ -48,11 +57,13 @@ ref_df = ref_df.merge(read_salary('data/2018_salary.csv'), on='startdate. Date s
 # to make the 2022 data compatible with the 2018 data
 mapping_df = pd.read_csv('clean_scripts/survey_column_mapping.csv')
 
+# Convert date to match expected date format
+fix_df[STARTDATE_COL] = fix_df[STARTDATE_COL].apply(lambda x: convert_time(x))
+
 # Export salary data into separate CSV
 # We need to fix the 'startdate' column to be unique, which it isn't,
 # to ensure the salary data is merged correctly into the main dataset
 # when preparing the data for analysis
-STARTDATE_COL = 'startdate. Date started'
 fix_df[STARTDATE_COL] = fix_df[STARTDATE_COL].map(lambda x: x + '==' + str(uuid.uuid4()))
 sal_df = fix_df.loc[:, (fix_df.columns.str.startswith("socio4") | fix_df.columns.str.startswith(STARTDATE_COL))]
 sal_df = sal_df.rename(columns={STARTDATE_COL: 'startdate._.Date started'})
