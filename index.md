@@ -49,7 +49,7 @@ Here is a list of contributors for the 2022 version of the survey in last name a
 * Radovan Bast, Norway/Nordics
 * Alex Botzki, Belgium
 * Jeff Carver, US
-* Ian Coseden, US
+* Ian Cosden, US
 * Steve Crouch, UK
 * Florencia D'Andrea, Argentina
 * Abhishek Dasgupta, UK
