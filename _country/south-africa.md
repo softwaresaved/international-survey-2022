@@ -260,10 +260,10 @@ Questions in this section:
 
 ### Number of projects
 
-|   Number of software projects for South Africa |   Count |   Percentage |
-|-----------------------------------------------:|--------:|-------------:|
-|                                              3 |       1 |           50 |
-|                                              4 |       1 |           50 |
+|   Number of software projects for South Africa |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|-----------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
+|                                              3 |       1 |           50 |                   40 |                              10 |
+|                                              4 |       1 |           50 |                    5 |                              45 |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_south-africa.csv){: .button}
 

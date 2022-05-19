@@ -319,16 +319,16 @@ Questions in this section:
 
 ### Number of projects
 
-|   Number of software projects for Australia |   Count |   Percentage |
-|--------------------------------------------:|--------:|-------------:|
-|                                           0 |       2 |      6.45161 |
-|                                           1 |       4 |     12.9032  |
-|                                           2 |      10 |     32.2581  |
-|                                           3 |       5 |     16.129   |
-|                                           4 |       3 |      9.67742 |
-|                                           5 |       5 |     16.129   |
-|                                           6 |       1 |      3.22581 |
-|                                           7 |       1 |      3.22581 |
+|   Number of software projects for Australia |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|--------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
+|                                           0 |       2 |      6.45161 |            nan       |                      nan        |
+|                                           1 |       4 |     12.9032  |             20.4819  |                       -7.5787   |
+|                                           2 |      10 |     32.2581  |             21.6867  |                       10.5713   |
+|                                           3 |       5 |     16.129   |             19.2771  |                       -3.14808  |
+|                                           4 |       3 |      9.67742 |             14.4578  |                       -4.78041  |
+|                                           5 |       5 |     16.129   |             16.8675  |                       -0.738438 |
+|                                           6 |       1 |      3.22581 |            nan       |                      nan        |
+|                                           7 |       1 |      3.22581 |              2.40964 |                        0.816168 |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_australia.csv){: .button}
 

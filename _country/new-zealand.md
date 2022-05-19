@@ -311,17 +311,17 @@ Questions in this section:
 
 ### Number of projects
 
-| Number of software projects for New Zealand   |   Count |   Percentage |
-|:----------------------------------------------|--------:|-------------:|
-| 0                                             |       1 |      3.84615 |
-| 1                                             |       1 |      3.84615 |
-| 10                                            |       1 |      3.84615 |
-| 15+                                           |       1 |      3.84615 |
-| 2                                             |       6 |     23.0769  |
-| 3                                             |       7 |     26.9231  |
-| 5                                             |       6 |     23.0769  |
-| 6                                             |       2 |      7.69231 |
-| 7                                             |       1 |      3.84615 |
+|   Number of software projects for New Zealand |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|----------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
+|                                             0 |       1 |      3.84615 |                3.125 |                        0.721154 |
+|                                             1 |       1 |      3.84615 |                9.375 |                       -5.52885  |
+|                                             2 |       6 |     23.0769  |               21.875 |                        1.20192  |
+|                                             3 |       7 |     26.9231  |               31.25  |                       -4.32692  |
+|                                             5 |       6 |     23.0769  |               21.875 |                        1.20192  |
+|                                             6 |       2 |      7.69231 |                6.25  |                        1.44231  |
+|                                             7 |       1 |      3.84615 |              nan     |                      nan        |
+|                                            10 |       1 |      3.84615 |              nan     |                      nan        |
+|                                            15 |       1 |      3.84615 |              nan     |                      nan        |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_new-zealand.csv){: .button}
 
