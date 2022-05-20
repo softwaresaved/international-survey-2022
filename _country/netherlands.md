@@ -29,11 +29,11 @@ selected at least one option.
 
 | Highest level of education for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| PhD                                          |      34 |     51.5152  |             50       |                         1.51515 |
-| WO (Wetenschappelijk onderwijs) Master       |      26 |     39.3939  |             37.037   |                         2.3569  |
-| HBO (Hoger beroepsonderwijs) Master          |       3 |      4.54545 |              5.55556 |                        -1.0101  |
-| HBO (Hoger beroepsonderwijs) Bachelor        |       2 |      3.0303  |              1.85185 |                         1.17845 |
-| WO (Wetenschappelijk onderwijs) Bachelor     |       1 |      1.51515 |              5.55556 |                        -4.0404  |
+| PhD                                          |      34 |        51.52 |                50    |                            1.52 |
+| WO (Wetenschappelijk onderwijs) Master       |      26 |        39.39 |                37.04 |                            2.36 |
+| HBO (Hoger beroepsonderwijs) Master          |       3 |         4.55 |                 5.56 |                           -1.01 |
+| HBO (Hoger beroepsonderwijs) Bachelor        |       2 |         3.03 |                 1.85 |                            1.18 |
+| WO (Wetenschappelijk onderwijs) Bachelor     |       1 |         1.52 |                 5.56 |                           -4.04 |
 
 [Download CSV](/international-survey-2022/csv/education_level_netherlands.csv){: .button}
 
@@ -48,22 +48,22 @@ despite lot of overlapping in the categories.
 
 | Field of education for Netherlands       |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Computer Science                         |      16 |     24.2424  |             20.3704  |                        3.87205  |
-| Physics and Astronomy                    |      14 |     21.2121  |             33.3333  |                      -12.1212   |
-| Biological Sciences                      |      10 |     15.1515  |             14.8148  |                        0.3367   |
-| Chemistry                                |       4 |      6.06061 |              5.55556 |                        0.505051 |
-| Geography &amp; Environmental Sciences       |       4 |      6.06061 |              3.7037  |                        2.3569   |
-| Psychology                               |       3 |      4.54545 |              1.85185 |                        2.6936   |
-| Mathematics                              |       2 |      3.0303  |              1.85185 |                        1.17845  |
-| Electrical &amp; Electronic Engineering      |       2 |      3.0303  |              3.7037  |                       -0.673401 |
-| Linguistics                              |       2 |      3.0303  |            nan       |                      nan        |
-| Medicine                                 |       2 |      3.0303  |            nan       |                      nan        |
-| Communication &amp; Media Studies            |       2 |      3.0303  |              1.85185 |                        1.17845  |
-| Aeronautical &amp; Manufacturing Engineering |       1 |      1.51515 |              1.85185 |                       -0.3367   |
-| nan                                      |       1 |      1.51515 |            nan       |                      nan        |
-| Fashion                                  |       1 |      1.51515 |            nan       |                      nan        |
-| Sociology                                |       1 |      1.51515 |            nan       |                      nan        |
-| Civil Engineering                        |       1 |      1.51515 |              3.7037  |                       -2.18855  |
+| Computer Science                         |      16 |        24.24 |                20.37 |                            3.87 |
+| Physics and Astronomy                    |      14 |        21.21 |                33.33 |                          -12.12 |
+| Biological Sciences                      |      10 |        15.15 |                14.81 |                            0.34 |
+| Chemistry                                |       4 |         6.06 |                 5.56 |                            0.51 |
+| Geography &amp; Environmental Sciences       |       4 |         6.06 |                 3.7  |                            2.36 |
+| Psychology                               |       3 |         4.55 |                 1.85 |                            2.69 |
+| Mathematics                              |       2 |         3.03 |                 1.85 |                            1.18 |
+| Electrical &amp; Electronic Engineering      |       2 |         3.03 |                 3.7  |                           -0.67 |
+| Linguistics                              |       2 |         3.03 |               nan    |                          nan    |
+| Medicine                                 |       2 |         3.03 |               nan    |                          nan    |
+| Communication &amp; Media Studies            |       2 |         3.03 |                 1.85 |                            1.18 |
+| Aeronautical &amp; Manufacturing Engineering |       1 |         1.52 |                 1.85 |                           -0.34 |
+| nan                                      |       1 |         1.52 |               nan    |                          nan    |
+| Fashion                                  |       1 |         1.52 |               nan    |                          nan    |
+| Sociology                                |       1 |         1.52 |               nan    |                          nan    |
+| Civil Engineering                        |       1 |         1.52 |                 3.7  |                           -2.19 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_edu_netherlands.csv){: .button}
 
@@ -76,50 +76,50 @@ despite lot of overlapping in the categories.
 
 | field of work for Netherlands            |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Computer Science                         |      26 |     39.3939  |             37.037   |                        2.3569   |
-| Physics and Astronomy                    |      21 |     31.8182  |             27.7778  |                        4.0404   |
-| Biological Sciences                      |      21 |     31.8182  |             25.9259  |                        5.89226  |
-| Medicine                                 |      11 |     16.6667  |             20.3704  |                       -3.7037   |
-| Geography &amp; Environmental Sciences       |      11 |     16.6667  |             14.8148  |                        1.85185  |
-| Linguistics                              |       7 |     10.6061  |              7.40741 |                        3.19865  |
-| Communication &amp; Media Studies            |       7 |     10.6061  |              5.55556 |                        5.05051  |
-| Chemistry                                |       6 |      9.09091 |              9.25926 |                       -0.16835  |
-| Psychology                               |       6 |      9.09091 |              3.7037  |                        5.38721  |
-| Mathematics                              |       5 |      7.57576 |              1.85185 |                        5.72391  |
-| Materials Technology                     |       5 |      7.57576 |              0       |                        7.57576  |
-| Sociology                                |       5 |      7.57576 |              1.85185 |                        5.72391  |
-| Electrical &amp; Electronic Engineering      |       4 |      6.06061 |              1.85185 |                        4.20875  |
-| Mechanical Engineering                   |       4 |      6.06061 |              0       |                        6.06061  |
-| General Engineering                      |       3 |      4.54545 |              1.85185 |                        2.6936   |
-| Pharmacology &amp; Pharmacy                  |       3 |      4.54545 |              1.85185 |                        2.6936   |
-| History                                  |       3 |      4.54545 |              5.55556 |                       -1.0101   |
-| Food Science                             |       3 |      4.54545 |              1.85185 |                        2.6936   |
-| Politics                                 |       3 |      4.54545 |              1.85185 |                        2.6936   |
-| Philosophy                               |       2 |      3.0303  |              1.85185 |                        1.17845  |
-| Librarianship &amp; Information Management   |       2 |      3.0303  |              0       |                        3.0303   |
-| English                                  |       2 |      3.0303  |              0       |                        3.0303   |
-| Art &amp; Design                             |       2 |      3.0303  |              1.85185 |                        1.17845  |
-| Chemical Engineering                     |       2 |      3.0303  |              1.85185 |                        1.17845  |
-| Civil Engineering                        |       2 |      3.0303  |              3.7037  |                       -0.673401 |
-| Anthropology                             |       2 |      3.0303  |              0       |                        3.0303   |
-| Education                                |       1 |      1.51515 |              5.55556 |                       -4.0404   |
-| Sports Science                           |       1 |      1.51515 |              0       |                        1.51515  |
-| Accounting &amp; Finance                     |       1 |      1.51515 |              0       |                        1.51515  |
-| Aeronautical &amp; Manufacturing Engineering |       1 |      1.51515 |              0       |                        1.51515  |
-| Classics &amp; Ancient History               |       1 |      1.51515 |              1.85185 |                       -0.3367   |
-| Marketing                                |       1 |      1.51515 |              0       |                        1.51515  |
-| Agriculture &amp; Forestry                   |       1 |      1.51515 |              0       |                        1.51515  |
-| Complementary Medicine                   |       1 |      1.51515 |              0       |                        1.51515  |
-| Economics                                |       1 |      1.51515 |              0       |                        1.51515  |
-| Anatomy &amp; Physiology                     |       1 |      1.51515 |              1.85185 |                       -0.3367   |
-| Law                                      |       1 |      1.51515 |              0       |                        1.51515  |
-| History of Art, Architecture &amp; Design    |       1 |      1.51515 |              1.85185 |                       -0.3367   |
-| German                                   |       1 |      1.51515 |              0       |                        1.51515  |
-| Business &amp; Management Studies            |       1 |      1.51515 |              0       |                        1.51515  |
-| Geology                                  |       1 |      1.51515 |              0       |                        1.51515  |
-| Veterinary Medicine                      |       1 |      1.51515 |              0       |                        1.51515  |
-| Ophthalmics                              |       0 |      0       |              1.85185 |                       -1.85185  |
-| Dentistry                                |       0 |      0       |              1.85185 |                       -1.85185  |
+| Computer Science                         |      26 |        39.39 |                37.04 |                            2.36 |
+| Physics and Astronomy                    |      21 |        31.82 |                27.78 |                            4.04 |
+| Biological Sciences                      |      21 |        31.82 |                25.93 |                            5.89 |
+| Medicine                                 |      11 |        16.67 |                20.37 |                           -3.7  |
+| Geography &amp; Environmental Sciences       |      11 |        16.67 |                14.81 |                            1.85 |
+| Linguistics                              |       7 |        10.61 |                 7.41 |                            3.2  |
+| Communication &amp; Media Studies            |       7 |        10.61 |                 5.56 |                            5.05 |
+| Chemistry                                |       6 |         9.09 |                 9.26 |                           -0.17 |
+| Psychology                               |       6 |         9.09 |                 3.7  |                            5.39 |
+| Mathematics                              |       5 |         7.58 |                 1.85 |                            5.72 |
+| Materials Technology                     |       5 |         7.58 |                 0    |                            7.58 |
+| Sociology                                |       5 |         7.58 |                 1.85 |                            5.72 |
+| Electrical &amp; Electronic Engineering      |       4 |         6.06 |                 1.85 |                            4.21 |
+| Mechanical Engineering                   |       4 |         6.06 |                 0    |                            6.06 |
+| General Engineering                      |       3 |         4.55 |                 1.85 |                            2.69 |
+| Pharmacology &amp; Pharmacy                  |       3 |         4.55 |                 1.85 |                            2.69 |
+| History                                  |       3 |         4.55 |                 5.56 |                           -1.01 |
+| Food Science                             |       3 |         4.55 |                 1.85 |                            2.69 |
+| Politics                                 |       3 |         4.55 |                 1.85 |                            2.69 |
+| Philosophy                               |       2 |         3.03 |                 1.85 |                            1.18 |
+| Librarianship &amp; Information Management   |       2 |         3.03 |                 0    |                            3.03 |
+| English                                  |       2 |         3.03 |                 0    |                            3.03 |
+| Art &amp; Design                             |       2 |         3.03 |                 1.85 |                            1.18 |
+| Chemical Engineering                     |       2 |         3.03 |                 1.85 |                            1.18 |
+| Civil Engineering                        |       2 |         3.03 |                 3.7  |                           -0.67 |
+| Anthropology                             |       2 |         3.03 |                 0    |                            3.03 |
+| Education                                |       1 |         1.52 |                 5.56 |                           -4.04 |
+| Sports Science                           |       1 |         1.52 |                 0    |                            1.52 |
+| Accounting &amp; Finance                     |       1 |         1.52 |                 0    |                            1.52 |
+| Aeronautical &amp; Manufacturing Engineering |       1 |         1.52 |                 0    |                            1.52 |
+| Classics &amp; Ancient History               |       1 |         1.52 |                 1.85 |                           -0.34 |
+| Marketing                                |       1 |         1.52 |                 0    |                            1.52 |
+| Agriculture &amp; Forestry                   |       1 |         1.52 |                 0    |                            1.52 |
+| Complementary Medicine                   |       1 |         1.52 |                 0    |                            1.52 |
+| Economics                                |       1 |         1.52 |                 0    |                            1.52 |
+| Anatomy &amp; Physiology                     |       1 |         1.52 |                 1.85 |                           -0.34 |
+| Law                                      |       1 |         1.52 |                 0    |                            1.52 |
+| History of Art, Architecture &amp; Design    |       1 |         1.52 |                 1.85 |                           -0.34 |
+| German                                   |       1 |         1.52 |                 0    |                            1.52 |
+| Business &amp; Management Studies            |       1 |         1.52 |                 0    |                            1.52 |
+| Geology                                  |       1 |         1.52 |                 0    |                            1.52 |
+| Veterinary Medicine                      |       1 |         1.52 |                 0    |                            1.52 |
+| Ophthalmics                              |       0 |         0    |                 1.85 |                           -1.85 |
+| Dentistry                                |       0 |         0    |                 1.85 |                           -1.85 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_work_netherlands.csv){: .button}
 
@@ -143,8 +143,8 @@ Questions in this section:
 
 | Professional developer for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                      |      44 |        68.75 |               54.717 |                          14.033 |
-| No                                       |      20 |        31.25 |               45.283 |                         -14.033 |
+| Yes                                      |      44 |        68.75 |                54.72 |                           14.03 |
+| No                                       |      20 |        31.25 |                45.28 |                          -14.03 |
 
 [Download CSV](/international-survey-2022/csv/proportion-professional-developer_netherlands.csv){: .button}
 
@@ -154,14 +154,14 @@ Questions in this section:
 
 | How many years of software development experience for Netherlands (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:--------------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                       |           41      |          51       |
-| mean                                                                                        |            5.7561 |          10.951   |
-| std                                                                                         |            3.7268 |           6.61079 |
-| min                                                                                         |            0      |           2       |
-| 25%                                                                                         |            3      |           5       |
-| 50%                                                                                         |            5      |          10       |
-| 75%                                                                                         |            7      |          15       |
-| max                                                                                         |           14      |          25       |
+| count                                                                                       |             41    |             51    |
+| mean                                                                                        |              5.76 |             10.95 |
+| std                                                                                         |              3.73 |              6.61 |
+| min                                                                                         |              0    |              2    |
+| 25%                                                                                         |              3    |              5    |
+| 50%                                                                                         |              5    |             10    |
+| 75%                                                                                         |              7    |             15    |
+| max                                                                                         |             14    |             25    |
 
 [Download CSV](/international-survey-2022/csv/summary-years-professional-developer_netherlands.csv){: .button}
 
@@ -241,14 +241,14 @@ position among 8 different ones:
 
 | Where the previous job was based for Netherlands   |   Count |   Percentage |
 |:---------------------------------------------------|--------:|-------------:|
-| University                                         |      31 |     49.2063  |
-| Private company                                    |      14 |     22.2222  |
-| This is my first job                               |       7 |     11.1111  |
-| National laboratory                                |       4 |      6.34921 |
-| Non-profit organization                            |       3 |      4.7619  |
-| Government                                         |       2 |      3.1746  |
-| NGO                                                |       1 |      1.5873  |
-| Other                                              |       1 |      1.5873  |
+| University                                         |      31 |        49.21 |
+| Private company                                    |      14 |        22.22 |
+| This is my first job                               |       7 |        11.11 |
+| National laboratory                                |       4 |         6.35 |
+| Non-profit organization                            |       3 |         4.76 |
+| Government                                         |       2 |         3.17 |
+| NGO                                                |       1 |         1.59 |
+| Other                                              |       1 |         1.59 |
 
 [Download CSV](/international-survey-2022/csv/where-previous-job-based_netherlands.csv){: .button}
 
@@ -283,12 +283,12 @@ Questions in this section:
 
 | developing code for others for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 0 - Mostly me                                |       7 |      11.1111 |              5.55556 |                         5.55556 |
-| 1                                            |       8 |      12.6984 |             12.963   |                        -0.26455 |
-| 2                                            |       3 |       4.7619 |              9.25926 |                        -4.49735 |
-| 3                                            |       9 |      14.2857 |             24.0741  |                        -9.78836 |
-| 4                                            |      14 |      22.2222 |             25.9259  |                        -3.7037  |
-| 5 - Mostly other people                      |      22 |      34.9206 |             22.2222  |                        12.6984  |
+| 0 - Mostly me                                |       7 |        11.11 |                 5.56 |                            5.56 |
+| 1                                            |       8 |        12.7  |                12.96 |                           -0.26 |
+| 2                                            |       3 |         4.76 |                 9.26 |                           -4.5  |
+| 3                                            |       9 |        14.29 |                24.07 |                           -9.79 |
+| 4                                            |      14 |        22.22 |                25.93 |                           -3.7  |
+| 5 - Mostly other people                      |      22 |        34.92 |                22.22 |                           12.7  |
 
 [Download CSV](/international-survey-2022/csv/developing-code-for-others_netherlands.csv){: .button}
 
@@ -298,9 +298,9 @@ Questions in this section:
 
 | Working with same researchers for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Different researchers, same research group      |       9 |      15.2542 |              17.6471 |                        -2.39282 |
-| Regularly change researcher(s)                  |      34 |      57.6271 |              52.9412 |                         4.68594 |
-| Same researcher(s)                              |      16 |      27.1186 |              29.4118 |                        -2.29312 |
+| Different researchers, same research group      |       9 |        15.25 |                17.65 |                           -2.39 |
+| Regularly change researcher(s)                  |      34 |        57.63 |                52.94 |                            4.69 |
+| Same researcher(s)                              |      16 |        27.12 |                29.41 |                           -2.29 |
 
 [Download CSV](/international-survey-2022/csv/working-with-same-researchers_netherlands.csv){: .button}
 
@@ -310,8 +310,8 @@ Questions in this section:
 
 | member of a dedicated group for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No                                            |      27 |      45.7627 |              58.8235 |                        -13.0608 |
-| Yes                                           |      32 |      54.2373 |              41.1765 |                         13.0608 |
+| No                                            |      27 |        45.76 |                58.82 |                          -13.06 |
+| Yes                                           |      32 |        54.24 |                41.18 |                           13.06 |
 
 [Download CSV](/international-survey-2022/csv/member-of-a-dedicated-group_netherlands.csv){: .button}
 
@@ -321,16 +321,16 @@ Questions in this section:
 
 |   Number of software projects for Netherlands |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |----------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                             0 |       1 |      1.72414 |                  nan |                      nan        |
-|                                             1 |       9 |     15.5172  |                   16 |                       -0.482759 |
-|                                             2 |      17 |     29.3103  |                   18 |                       11.3103   |
-|                                             3 |      16 |     27.5862  |                   24 |                        3.58621  |
-|                                             4 |       4 |      6.89655 |                   20 |                      -13.1034   |
-|                                             5 |       7 |     12.069   |                    6 |                        6.06897  |
-|                                             6 |       1 |      1.72414 |                    6 |                       -4.27586  |
-|                                             7 |       1 |      1.72414 |                    2 |                       -0.275862 |
-|                                             8 |       1 |      1.72414 |                    2 |                       -0.275862 |
-|                                            10 |       1 |      1.72414 |                  nan |                      nan        |
+|                                             0 |       1 |         1.72 |                  nan |                          nan    |
+|                                             1 |       9 |        15.52 |                   16 |                           -0.48 |
+|                                             2 |      17 |        29.31 |                   18 |                           11.31 |
+|                                             3 |      16 |        27.59 |                   24 |                            3.59 |
+|                                             4 |       4 |         6.9  |                   20 |                          -13.1  |
+|                                             5 |       7 |        12.07 |                    6 |                            6.07 |
+|                                             6 |       1 |         1.72 |                    6 |                           -4.28 |
+|                                             7 |       1 |         1.72 |                    2 |                           -0.28 |
+|                                             8 |       1 |         1.72 |                    2 |                           -0.28 |
+|                                            10 |       1 |         1.72 |                  nan |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_netherlands.csv){: .button}
 
@@ -338,15 +338,15 @@ Questions in this section:
 
 |   Number of software developers per projects for Netherlands |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-------------------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                            0 |       2 |      3.50877 |            nan       |                       nan       |
-|                                                            1 |      15 |     26.3158  |             24.4898  |                         1.82599 |
-|                                                            2 |      20 |     35.0877  |             40.8163  |                        -5.72861 |
-|                                                            3 |      11 |     19.2982  |             22.449   |                        -3.15073 |
-|                                                            4 |       3 |      5.26316 |              4.08163 |                         1.18153 |
-|                                                            5 |       3 |      5.26316 |              4.08163 |                         1.18153 |
-|                                                            7 |       1 |      1.75439 |              2.04082 |                        -0.28643 |
-|                                                            8 |       1 |      1.75439 |            nan       |                       nan       |
-|                                                           10 |       1 |      1.75439 |            nan       |                       nan       |
+|                                                            0 |       2 |         3.51 |               nan    |                          nan    |
+|                                                            1 |      15 |        26.32 |                24.49 |                            1.83 |
+|                                                            2 |      20 |        35.09 |                40.82 |                           -5.73 |
+|                                                            3 |      11 |        19.3  |                22.45 |                           -3.15 |
+|                                                            4 |       3 |         5.26 |                 4.08 |                            1.18 |
+|                                                            5 |       3 |         5.26 |                 4.08 |                            1.18 |
+|                                                            7 |       1 |         1.75 |                 2.04 |                           -0.29 |
+|                                                            8 |       1 |         1.75 |               nan    |                          nan    |
+|                                                           10 |       1 |         1.75 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-developers-per-projects_netherlands.csv){: .button}
 
@@ -356,14 +356,14 @@ Questions in this section:
 
 | Number of time per year providing training for Netherlands (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:-------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                |          55       |          47       |
-| mean                                                                                 |           1.47273 |           1.25532 |
-| std                                                                                  |           1.87433 |           1.55295 |
-| min                                                                                  |           0       |           0       |
-| 25%                                                                                  |           0       |           0       |
-| 50%                                                                                  |           1       |           1       |
-| 75%                                                                                  |           2       |           2       |
-| max                                                                                  |           7       |           5       |
+| count                                                                                |             55    |             47    |
+| mean                                                                                 |              1.47 |              1.26 |
+| std                                                                                  |              1.87 |              1.55 |
+| min                                                                                  |              0    |              0    |
+| 25%                                                                                  |              0    |              0    |
+| 50%                                                                                  |              1    |              1    |
+| 75%                                                                                  |              2    |              2    |
+| max                                                                                  |              7    |              5    |
 
 [Download CSV](/international-survey-2022/csv/training-frequency_netherlands.csv){: .button}
 
@@ -395,11 +395,11 @@ Questions in the section:
 
 | Acknowledgment in paper for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Not mentioned at all                      |       8 |     14.2857  |             23.5294  |                        -9.2437  |
-| Acknowledged in the main text             |       4 |      7.14286 |             13.7255  |                        -6.58263 |
-| Acknowledged in acknowledgements section  |      10 |     17.8571  |             15.6863  |                         2.17087 |
-| Named as co-author                        |      28 |     50       |             45.098   |                         4.90196 |
-| Named as main author                      |       6 |     10.7143  |              1.96078 |                         8.7535  |
+| Not mentioned at all                      |       8 |        14.29 |                23.53 |                           -9.24 |
+| Acknowledged in the main text             |       4 |         7.14 |                13.73 |                           -6.58 |
+| Acknowledged in acknowledgements section  |      10 |        17.86 |                15.69 |                            2.17 |
+| Named as co-author                        |      28 |        50    |                45.1  |                            4.9  |
+| Named as main author                      |       6 |        10.71 |                 1.96 |                            8.75 |
 
 [Download CSV](/international-survey-2022/csv/acknowledgment-in-paper_netherlands.csv){: .button}
 
@@ -409,8 +409,8 @@ Questions in the section:
 
 | Did you participate in conference for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                 |      27 |      47.3684 |                   52 |                        -4.63158 |
-| No                                                  |      30 |      52.6316 |                   48 |                         4.63158 |
+| Yes                                                 |      27 |        47.37 |                   52 |                           -4.63 |
+| No                                                  |      30 |        52.63 |                   48 |                            4.63 |
 
 [Download CSV](/international-survey-2022/csv/did-you-participate-in-conference_netherlands.csv){: .button}
 
@@ -449,16 +449,16 @@ Questions in this section:
 
 | Open source use for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                   |     nan |    nan       |            nan       |                      nan        |
-| 2                                 |       2 |      3.44828 |              3.92157 |                       -0.473293 |
-| 3                                 |       2 |      3.44828 |              3.92157 |                       -0.473293 |
-| 4                                 |     nan |    nan       |            nan       |                      nan        |
-| 5                                 |     nan |    nan       |            nan       |                      nan        |
-| 6                                 |       1 |      1.72414 |              5.88235 |                       -4.15822  |
-| 7                                 |       2 |      3.44828 |              3.92157 |                       -0.473293 |
-| 8                                 |       7 |     12.069   |              3.92157 |                        8.1474   |
-| 9                                 |       8 |     13.7931  |              9.80392 |                        3.98918  |
-| 10 (All the time)                 |      33 |     56.8966  |             60.7843  |                       -3.88776  |
+| 1 (None at all)                   |     nan |       nan    |               nan    |                          nan    |
+| 2                                 |       2 |         3.45 |                 3.92 |                           -0.47 |
+| 3                                 |       2 |         3.45 |                 3.92 |                           -0.47 |
+| 4                                 |     nan |       nan    |               nan    |                          nan    |
+| 5                                 |     nan |       nan    |               nan    |                          nan    |
+| 6                                 |       1 |         1.72 |                 5.88 |                           -4.16 |
+| 7                                 |       2 |         3.45 |                 3.92 |                           -0.47 |
+| 8                                 |       7 |        12.07 |                 3.92 |                            8.15 |
+| 9                                 |       8 |        13.79 |                 9.8  |                            3.99 |
+| 10 (All the time)                 |      33 |        56.9  |                60.78 |                           -3.89 |
 
 [Download CSV](/international-survey-2022/csv/open-source-use_netherlands.csv){: .button}
 
@@ -468,16 +468,16 @@ Questions in this section:
 
 | Citation of software for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                        |     nan |    nan       |            nan       |                      nan        |
-| 2                                      |       2 |      4.16667 |              1.96078 |                        2.20588  |
-| 3                                      |     nan |    nan       |            nan       |                      nan        |
-| 4                                      |       2 |      4.16667 |            nan       |                      nan        |
-| 5                                      |       5 |     10.4167  |              5.88235 |                        4.53431  |
-| 6                                      |       1 |      2.08333 |              9.80392 |                       -7.72059  |
-| 7                                      |       2 |      4.16667 |              7.84314 |                       -3.67647  |
-| 8                                      |      11 |     22.9167  |             13.7255  |                        9.19118  |
-| 9                                      |       4 |      8.33333 |              3.92157 |                        4.41176  |
-| 10 (All the time)                      |      14 |     29.1667  |             29.4118  |                       -0.245098 |
+| 1 (None at all)                        |     nan |       nan    |               nan    |                          nan    |
+| 2                                      |       2 |         4.17 |                 1.96 |                            2.21 |
+| 3                                      |     nan |       nan    |               nan    |                          nan    |
+| 4                                      |       2 |         4.17 |               nan    |                          nan    |
+| 5                                      |       5 |        10.42 |                 5.88 |                            4.53 |
+| 6                                      |       1 |         2.08 |                 9.8  |                           -7.72 |
+| 7                                      |       2 |         4.17 |                 7.84 |                           -3.68 |
+| 8                                      |      11 |        22.92 |                13.73 |                            9.19 |
+| 9                                      |       4 |         8.33 |                 3.92 |                            4.41 |
+| 10 (All the time)                      |      14 |        29.17 |                29.41 |                           -0.25 |
 
 [Download CSV](/international-survey-2022/csv/citation-of-software_netherlands.csv){: .button}
 
@@ -487,16 +487,16 @@ Questions in this section:
 
 | Use of Digital Object Identifier for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                                    |     nan |    nan       |            nan       |                      nan        |
-| 2                                                  |       1 |      1.88679 |              3.92157 |                       -2.03478  |
-| 3                                                  |       4 |      7.54717 |              1.96078 |                        5.58639  |
-| 4                                                  |       2 |      3.77358 |              3.92157 |                       -0.147984 |
-| 5                                                  |       7 |     13.2075  |              5.88235 |                        7.32519  |
-| 6                                                  |       4 |      7.54717 |              1.96078 |                        5.58639  |
-| 7                                                  |       2 |      3.77358 |              9.80392 |                       -6.03034  |
-| 8                                                  |       2 |      3.77358 |              5.88235 |                       -2.10877  |
-| 9                                                  |       7 |     13.2075  |            nan       |                      nan        |
-| 10 (All the time)                                  |       8 |     15.0943  |              7.84314 |                        7.2512   |
+| 1 (None at all)                                    |     nan |       nan    |               nan    |                          nan    |
+| 2                                                  |       1 |         1.89 |                 3.92 |                           -2.03 |
+| 3                                                  |       4 |         7.55 |                 1.96 |                            5.59 |
+| 4                                                  |       2 |         3.77 |                 3.92 |                           -0.15 |
+| 5                                                  |       7 |        13.21 |                 5.88 |                            7.33 |
+| 6                                                  |       4 |         7.55 |                 1.96 |                            5.59 |
+| 7                                                  |       2 |         3.77 |                 9.8  |                           -6.03 |
+| 8                                                  |       2 |         3.77 |                 5.88 |                           -2.11 |
+| 9                                                  |       7 |        13.21 |               nan    |                          nan    |
+| 10 (All the time)                                  |       8 |        15.09 |                 7.84 |                            7.25 |
 
 [Download CSV](/international-survey-2022/csv/use-of-digital-object-identifier_netherlands.csv){: .button}
 
@@ -510,8 +510,8 @@ Questions in this section:
 
 | Using ORCID for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                           |      51 |     87.931   |                   52 |                         35.931  |
-| No                            |       3 |      5.17241 |                   20 |                        -14.8276 |
+| Yes                           |      51 |        87.93 |                   52 |                           35.93 |
+| No                            |       3 |         5.17 |                   20 |                          -14.83 |
 
 [Download CSV](/international-survey-2022/csv/using-orcid_netherlands.csv){: .button}
 
@@ -576,13 +576,13 @@ using for their most important project.
 
 |   Bus factor for Netherlands |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-----------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                          1   |      33 |     56.8966  |             52.9412  |                        3.95538  |
-|                          1.3 |       1 |      1.72414 |            nan       |                      nan        |
-|                          1.5 |       1 |      1.72414 |            nan       |                      nan        |
-|                          2   |      18 |     31.0345  |             33.3333  |                       -2.29885  |
-|                          3   |       3 |      5.17241 |              7.84314 |                       -2.67072  |
-|                          4   |       1 |      1.72414 |              1.96078 |                       -0.236646 |
-|                         10   |       1 |      1.72414 |              3.92157 |                       -2.19743  |
+|                          1   |      33 |        56.9  |                52.94 |                            3.96 |
+|                          1.3 |       1 |         1.72 |               nan    |                          nan    |
+|                          1.5 |       1 |         1.72 |               nan    |                          nan    |
+|                          2   |      18 |        31.03 |                33.33 |                           -2.3  |
+|                          3   |       3 |         5.17 |                 7.84 |                           -2.67 |
+|                          4   |       1 |         1.72 |                 1.96 |                           -0.24 |
+|                         10   |       1 |         1.72 |                 3.92 |                           -2.2  |
 
 [Download CSV](/international-survey-2022/csv/bus-factor_netherlands.csv){: .button}
 
@@ -592,8 +592,8 @@ using for their most important project.
 
 | Presence of transition plan for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                           |       7 |       12.069 |              19.6078 |                        -7.53888 |
-| No                                            |      51 |       87.931 |              80.3922 |                         7.53888 |
+| Yes                                           |       7 |        12.07 |                19.61 |                           -7.54 |
+| No                                            |      51 |        87.93 |                80.39 |                            7.54 |
 
 [Download CSV](/international-survey-2022/csv/presence-of-transition-plan_netherlands.csv){: .button}
 
@@ -603,11 +603,11 @@ using for their most important project.
 
 | Use of version control for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Git                                      |      56 |     84.8485  |             90.7407  |                        -5.89226 |
-| SVN                                      |       7 |     10.6061  |             24.0741  |                       -13.468   |
-| CVS                                      |       1 |      1.51515 |              1.85185 |                        -0.3367  |
-| None                                     |       1 |      1.51515 |              0       |                         1.51515 |
-| Mercurial                                |       0 |      0       |              5.55556 |                        -5.55556 |
+| Git                                      |      56 |        84.85 |                90.74 |                           -5.89 |
+| SVN                                      |       7 |        10.61 |                24.07 |                          -13.47 |
+| CVS                                      |       1 |         1.52 |                 1.85 |                           -0.34 |
+| None                                     |       1 |         1.52 |                 0    |                            1.52 |
+| Mercurial                                |       0 |         0    |                 5.56 |                           -5.56 |
 
 [Download CSV](/international-survey-2022/csv/use-of-version-control_netherlands.csv){: .button}
 
@@ -617,12 +617,12 @@ using for their most important project.
 
 | Testing strategies for Netherlands            |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No formal testing                             |      11 |     16.6667  |             11.1111  |                         5.55556 |
-| No formal testing but users provide feedback  |      18 |     27.2727  |             42.5926  |                       -15.3199  |
-| The developers do their own testing           |      40 |     60.6061  |             77.7778  |                       -17.1717  |
-| Test engineers conduct testing                |       2 |      3.0303  |              1.85185 |                         1.17845 |
-| Automated testing with continuous integration |      31 |     46.9697  |              0       |                        46.9697  |
-| Don't know                                    |       1 |      1.51515 |              0       |                         1.51515 |
+| No formal testing                             |      11 |        16.67 |                11.11 |                            5.56 |
+| No formal testing but users provide feedback  |      18 |        27.27 |                42.59 |                          -15.32 |
+| The developers do their own testing           |      40 |        60.61 |                77.78 |                          -17.17 |
+| Test engineers conduct testing                |       2 |         3.03 |                 1.85 |                            1.18 |
+| Automated testing with continuous integration |      31 |        46.97 |                 0    |                           46.97 |
+| Don't know                                    |       1 |         1.52 |                 0    |                            1.52 |
 
 [Download CSV](/international-survey-2022/csv/testing-strategies_netherlands.csv){: .button}
 
@@ -649,28 +649,28 @@ Questions in this section:
 
 | Programming languages for Netherlands                                               |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Python                                                                              |      51 |     77.2727  |             81.4815  |                       -4.20875  |
-| JavaScript                                                                          |      20 |     30.303   |             40.7407  |                      -10.4377   |
-| R                                                                                   |      18 |     27.2727  |             22.2222  |                        5.05051  |
-| C++                                                                                 |      17 |     25.7576  |             33.3333  |                       -7.57576  |
-| SQL                                                                                 |      16 |     24.2424  |             27.7778  |                       -3.53535  |
-| Java                                                                                |      15 |     22.7273  |             20.3704  |                        2.3569   |
-| C                                                                                   |      11 |     16.6667  |             14.8148  |                        1.85185  |
-| Fortran                                                                             |      10 |     15.1515  |              3.7037  |                       11.4478   |
-| other. What programming languages do you use at work? Please select all that apply. |       7 |     10.6061  |              0       |                       10.6061   |
-| PHP                                                                                 |       6 |      9.09091 |              9.25926 |                       -0.16835  |
-| TypeScript                                                                          |       4 |      6.06061 |              9.25926 |                       -3.19865  |
-| C#                                                                                  |       4 |      6.06061 |              0       |                        6.06061  |
-| Perl                                                                                |       3 |      4.54545 |              1.85185 |                        2.6936   |
-| Matlab                                                                              |       2 |      3.0303  |              7.40741 |                       -4.3771   |
-| Julia                                                                               |       2 |      3.0303  |              3.7037  |                       -0.673401 |
-| Rust                                                                                |       2 |      3.0303  |              3.7037  |                       -0.673401 |
-| Scala                                                                               |       1 |      1.51515 |              3.7037  |                       -2.18855  |
-| Go                                                                                  |       1 |      1.51515 |              0       |                        1.51515  |
-| Lua                                                                                 |       1 |      1.51515 |              0       |                        1.51515  |
-| Ruby                                                                                |       1 |      1.51515 |              3.7037  |                       -2.18855  |
-| Groovy                                                                              |       1 |      1.51515 |              3.7037  |                       -2.18855  |
-| Swift                                                                               |       0 |      0       |              1.85185 |                       -1.85185  |
+| Python                                                                              |      51 |        77.27 |                81.48 |                           -4.21 |
+| JavaScript                                                                          |      20 |        30.3  |                40.74 |                          -10.44 |
+| R                                                                                   |      18 |        27.27 |                22.22 |                            5.05 |
+| C++                                                                                 |      17 |        25.76 |                33.33 |                           -7.58 |
+| SQL                                                                                 |      16 |        24.24 |                27.78 |                           -3.54 |
+| Java                                                                                |      15 |        22.73 |                20.37 |                            2.36 |
+| C                                                                                   |      11 |        16.67 |                14.81 |                            1.85 |
+| Fortran                                                                             |      10 |        15.15 |                 3.7  |                           11.45 |
+| other. What programming languages do you use at work? Please select all that apply. |       7 |        10.61 |                 0    |                           10.61 |
+| PHP                                                                                 |       6 |         9.09 |                 9.26 |                           -0.17 |
+| TypeScript                                                                          |       4 |         6.06 |                 9.26 |                           -3.2  |
+| C#                                                                                  |       4 |         6.06 |                 0    |                            6.06 |
+| Perl                                                                                |       3 |         4.55 |                 1.85 |                            2.69 |
+| Matlab                                                                              |       2 |         3.03 |                 7.41 |                           -4.38 |
+| Julia                                                                               |       2 |         3.03 |                 3.7  |                           -0.67 |
+| Rust                                                                                |       2 |         3.03 |                 3.7  |                           -0.67 |
+| Scala                                                                               |       1 |         1.52 |                 3.7  |                           -2.19 |
+| Go                                                                                  |       1 |         1.52 |                 0    |                            1.52 |
+| Lua                                                                                 |       1 |         1.52 |                 0    |                            1.52 |
+| Ruby                                                                                |       1 |         1.52 |                 3.7  |                           -2.19 |
+| Groovy                                                                              |       1 |         1.52 |                 3.7  |                           -2.19 |
+| Swift                                                                               |       0 |         0    |                 1.85 |                           -1.85 |
 
 [Download CSV](/international-survey-2022/csv/programming-languages_netherlands.csv){: .button}
 
@@ -680,9 +680,9 @@ Questions in this section:
 
 | Operating systems for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| GNU/Linux                           |      36 |      63.1579 |              62.5    |                        0.657895 |
-| macOS                               |      12 |      21.0526 |             nan      |                      nan        |
-| Windows                             |       9 |      15.7895 |              20.8333 |                       -5.04386  |
+| GNU/Linux                           |      36 |        63.16 |                62.5  |                            0.66 |
+| macOS                               |      12 |        21.05 |               nan    |                          nan    |
+| Windows                             |       9 |        15.79 |                20.83 |                           -5.04 |
 
 [Download CSV](/international-survey-2022/csv/operating-systems_netherlands.csv){: .button}
 
@@ -807,8 +807,8 @@ and to acquire for their current role.
 
 | RSE Member for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                          |      33 |      61.1111 |              56.0976 |                         5.01355 |
-| No                           |      21 |      38.8889 |              43.9024 |                        -5.01355 |
+| Yes                          |      33 |        61.11 |                 56.1 |                            5.01 |
+| No                           |      21 |        38.89 |                 43.9 |                           -5.01 |
 
 [Download CSV](/international-survey-2022/csv/rse-member_netherlands.csv){: .button}
 
@@ -818,8 +818,8 @@ and to acquire for their current role.
 
 | Joining a RSE/RSD association for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                             |      10 |      58.8235 |              85.7143 |                        -26.8908 |
-| No                                              |       7 |      41.1765 |              14.2857 |                         26.8908 |
+| Yes                                             |      10 |        58.82 |                85.71 |                          -26.89 |
+| No                                              |       7 |        41.18 |                14.29 |                           26.89 |
 
 [Download CSV](/international-survey-2022/csv/joining-a-rse-rsd-association_netherlands.csv){: .button}
 
@@ -829,12 +829,12 @@ and to acquire for their current role.
 
 | What is important for such an organisation for Netherlands                            |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Networking                                                                            |      38 |     57.5758  |              18.5185 |                        39.0572  |
-| Job opportunities                                                                     |      21 |     31.8182  |              11.1111 |                        20.7071  |
-| Research software standards and interoperability definition                           |      20 |     30.303   |              12.963  |                        17.3401  |
-| Training                                                                              |      18 |     27.2727  |              14.8148 |                        12.4579  |
-| Research collaborations                                                               |      14 |     21.2121  |              11.1111 |                        10.101   |
-| other. What would you hope to get out of such an organisation (check all that apply)? |       3 |      4.54545 |               0      |                         4.54545 |
+| Networking                                                                            |      38 |        57.58 |                18.52 |                           39.06 |
+| Job opportunities                                                                     |      21 |        31.82 |                11.11 |                           20.71 |
+| Research software standards and interoperability definition                           |      20 |        30.3  |                12.96 |                           17.34 |
+| Training                                                                              |      18 |        27.27 |                14.81 |                           12.46 |
+| Research collaborations                                                               |      14 |        21.21 |                11.11 |                           10.1  |
+| other. What would you hope to get out of such an organisation (check all that apply)? |       3 |         4.55 |                 0    |                            4.55 |
 
 [Download CSV](/international-survey-2022/csv/what-is-important-for-such-an-organisation_netherlands.csv){: .button}
 
@@ -844,8 +844,8 @@ and to acquire for their current role.
 
 | Attending a national conference of RSE/RSD for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                          |      43 |      84.3137 |             93.4783  |                        -9.16454 |
-| No                                                           |       8 |      15.6863 |              6.52174 |                         9.16454 |
+| Yes                                                          |      43 |        84.31 |                93.48 |                           -9.16 |
+| No                                                           |       8 |        15.69 |                 6.52 |                            9.16 |
 
 [Download CSV](/international-survey-2022/csv/attending-a-national-conference-of-rse-rsd_netherlands.csv){: .button}
 

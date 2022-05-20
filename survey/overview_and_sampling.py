@@ -87,7 +87,7 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
         },
         inplace=True,
     )
-    df = df[df["socio1. In which country do you work?"] != "Canada"]
+    #df = df[df["socio1. In which country do you work?"] != "Canada"]
 
     # Fix: extra cleaning, to move a duplicated column's contents into the actual column
     df.drop(columns=[PROJ5ZAF_GIT2_COL], inplace=True)
@@ -158,8 +158,6 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     # Fix: ensure World meta-country is moved to the end of graph, otherwise only a
     # smaller range of dates are displayed in the labels
     total_per_country = pd.concat([total_per_country[total_per_country["Country"] != "World"], total_per_country[total_per_country["Country"] == "World"]])
-
-    total_per_country.to_csv("test.csv")
 
     fig, axes = plt.subplots(len(set(df.Country)), 1, figsize=(7, 9), sharex=True)
     fig.tight_layout()

@@ -156,7 +156,10 @@ def run(survey_year, data="data/public_merged.csv"):
             if country == "World" and category in ["Salary", "Type of funding"]:
                 continue
             multi_choice = category in ["in which field", "Type of funding"]
-            if category == "Salary":
+
+            # Fix: process salary, unless the country isn't defined in the salary_ranges data,
+            # in which case just do default
+            if category == "Salary" and country in salary_ranges:
                 order_question = salary_ranges[country]
                 try:
                     df_salary = get_sampled_df(df, salary)

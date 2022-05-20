@@ -12,6 +12,7 @@ Questions in this section:
 
 * Who uses the code that you write? (one choice)
 * Do you always work with the same researchers, or do you regularly change the
+* Do you always work with the same researchers, or do you regularly change the
   researchers you work with? (one choice)
 * Are you part of a dedicated research software group within your institution?
   (yes-no)

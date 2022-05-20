@@ -29,62 +29,63 @@ selected at least one option.
 
 | Highest level of education for World                                               |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Doctorate                                                                          |     387 |    39.2495   |            42.8862   |                    -3.63669     |
-| Master degree                                                                      |     247 |    25.0507   |            29.7764   |                    -4.72571     |
-| Undergraduate degree                                                               |      69 |     6.99797  |             9.55285  |                    -2.55487     |
-| doctorate                                                                          |      65 |     6.59229  |           nan        |                   nan           |
-| PhD                                                                                |      34 |     3.44828  |             2.7439   |                     0.704373    |
-| nan                                                                                |      31 |     3.14402  |             0.304878 |                     2.83914     |
-| doctorat                                                                           |      29 |     2.94118  |           nan        |                   nan           |
-| WO (Wetenschappelijk onderwijs) Master                                             |      26 |     2.63692  |             2.03252  |                     0.604397    |
-| AQF 10 - Doctoral Degree                                                           |      19 |     1.92698  |             6.40244  |                    -4.47546     |
-| Other                                                                              |       7 |     0.709939 |             0.813008 |                    -0.103069    |
-| AQF 8 - Bachelor Honours Degree / Graduate Certificate / Graduate Diploma          |       7 |     0.709939 |             1.32114  |                    -0.611199    |
-| Final secondary-school examinations, general qualification for university entrance |       5 |     0.507099 |             0.711382 |                    -0.204283    |
-| AQF 9 - Masters Degree                                                             |       4 |     0.40568  |             1.11789  |                    -0.712207    |
-| licentiate                                                                         |       3 |     0.30426  |           nan        |                   nan           |
-| HBO (Hoger beroepsonderwijs) Master                                                |       3 |     0.30426  |             0.304878 |                    -0.000618414 |
-| diplôme dingénieur                                                                 |       2 |     0.20284  |           nan        |                   nan           |
-| doctorat (phd)                                                                     |       2 |     0.20284  |           nan        |                   nan           |
-| bac+5                                                                              |       2 |     0.20284  |           nan        |                   nan           |
-| AQF 7 - Bachelor Degree                                                            |       2 |     0.20284  |             1.11789  |                    -0.915046    |
-| associate                                                                          |       2 |     0.20284  |           nan        |                   nan           |
-| HBO (Hoger beroepsonderwijs) Bachelor                                              |       2 |     0.20284  |             0.101626 |                     0.101214    |
-| Further Education                                                                  |       2 |     0.20284  |           nan        |                   nan           |
-| high school                                                                        |       2 |     0.20284  |           nan        |                   nan           |
-| bac +5                                                                             |       2 |     0.20284  |           nan        |                   nan           |
-| diplome dingenieur (baccalaureat +5)                                               |       1 |     0.10142  |           nan        |                   nan           |
-| bsc (currently attending; not graduated)                                           |       1 |     0.10142  |           nan        |                   nan           |
-| High School                                                                        |       1 |     0.10142  |           nan        |                   nan           |
-| None                                                                               |       1 |     0.10142  |           nan        |                   nan           |
-| magister                                                                           |       1 |     0.10142  |           nan        |                   nan           |
-| bsc in computer science                                                            |       1 |     0.10142  |           nan        |                   nan           |
-| master degree                                                                      |       1 |     0.10142  |           nan        |                   nan           |
-| Associate degree (typically from a community college)                              |       1 |     0.10142  |           nan        |                   nan           |
-| bac+2                                                                              |       1 |     0.10142  |           nan        |                   nan           |
-| ma                                                                                 |       1 |     0.10142  |           nan        |                   nan           |
-| enrolled in phd (computer science)                                                 |       1 |     0.10142  |           nan        |                   nan           |
-| masters of science                                                                 |       1 |     0.10142  |           nan        |                   nan           |
-| maestria                                                                           |       1 |     0.10142  |           nan        |                   nan           |
-| bsc                                                                                |       1 |     0.10142  |           nan        |                   nan           |
-| hochschule                                                                         |       1 |     0.10142  |           nan        |                   nan           |
-| doctorant                                                                          |       1 |     0.10142  |           nan        |                   nan           |
-| doctorat + 2ans de post-doc                                                        |       1 |     0.10142  |           nan        |                   nan           |
-| bac +3                                                                             |       1 |     0.10142  |           nan        |                   nan           |
-| btech                                                                              |       1 |     0.10142  |           nan        |                   nan           |
-| pre-bachelor                                                                       |       1 |     0.10142  |           nan        |                   nan           |
-| habilitation à diriger des thèses - thèse                                          |       1 |     0.10142  |           nan        |                   nan           |
-| Further Education (NVQ A-Level, ...)                                               |       1 |     0.10142  |             0.406504 |                    -0.305084    |
-| bac+8                                                                              |       1 |     0.10142  |           nan        |                   nan           |
-| applicable                                                                         |       1 |     0.10142  |           nan        |                   nan           |
-| graduate degree                                                                    |       1 |     0.10142  |           nan        |                   nan           |
-| phd candidate                                                                      |       1 |     0.10142  |           nan        |                   nan           |
-| bac+4                                                                              |       1 |     0.10142  |           nan        |                   nan           |
-| italian laurea (5 years with thesis) roughly master                                |       1 |     0.10142  |           nan        |                   nan           |
-| je suis actuellement en doctorat                                                   |       1 |     0.10142  |           nan        |                   nan           |
-| mastère spécialisé (bac +6)                                                        |       1 |     0.10142  |           nan        |                   nan           |
-| WO (Wetenschappelijk onderwijs) Bachelor                                           |       1 |     0.10142  |             0.304878 |                    -0.203458    |
-| GSCEs                                                                              |       1 |     0.10142  |             0.101626 |                    -0.000206138 |
+| Doctorate                                                                          |     394 |        39.52 |                43.32 |                           -3.8  |
+| Master degree                                                                      |     247 |        24.77 |                29.45 |                           -4.67 |
+| Undergraduate degree                                                               |      69 |         6.92 |                 9.45 |                           -2.53 |
+| doctorate                                                                          |      65 |         6.52 |               nan    |                          nan    |
+| PhD                                                                                |      34 |         3.41 |                 2.71 |                            0.7  |
+| nan                                                                                |      31 |         3.11 |                 0.4  |                            2.71 |
+| doctorat                                                                           |      29 |         2.91 |               nan    |                          nan    |
+| WO (Wetenschappelijk onderwijs) Master                                             |      26 |         2.61 |                 2.01 |                            0.6  |
+| AQF 10 - Doctoral Degree                                                           |      19 |         1.91 |                 6.33 |                           -4.43 |
+| AQF 8 - Bachelor Honours Degree / Graduate Certificate / Graduate Diploma          |       7 |         0.7  |                 1.31 |                           -0.6  |
+| Other                                                                              |       7 |         0.7  |                 0.8  |                           -0.1  |
+| Final secondary-school examinations, general qualification for university entrance |       5 |         0.5  |                 0.7  |                           -0.2  |
+| Masters Degree                                                                     |       4 |         0.4  |                 0.1  |                            0.3  |
+| AQF 9 - Masters Degree                                                             |       4 |         0.4  |                 1.11 |                           -0.7  |
+| licentiate                                                                         |       3 |         0.3  |               nan    |                          nan    |
+| HBO (Hoger beroepsonderwijs) Master                                                |       3 |         0.3  |                 0.3  |                           -0    |
+| diplôme dingénieur                                                                 |       2 |         0.2  |               nan    |                          nan    |
+| bac+5                                                                              |       2 |         0.2  |               nan    |                          nan    |
+| AQF 7 - Bachelor Degree                                                            |       2 |         0.2  |                 1.11 |                           -0.9  |
+| doctorat (phd)                                                                     |       2 |         0.2  |               nan    |                          nan    |
+| associate                                                                          |       2 |         0.2  |               nan    |                          nan    |
+| HBO (Hoger beroepsonderwijs) Bachelor                                              |       2 |         0.2  |                 0.1  |                            0.1  |
+| Further Education                                                                  |       2 |         0.2  |               nan    |                          nan    |
+| high school                                                                        |       2 |         0.2  |               nan    |                          nan    |
+| bac +5                                                                             |       2 |         0.2  |               nan    |                          nan    |
+| diplome dingenieur (baccalaureat +5)                                               |       1 |         0.1  |               nan    |                          nan    |
+| bsc (currently attending; not graduated)                                           |       1 |         0.1  |               nan    |                          nan    |
+| High School                                                                        |       1 |         0.1  |               nan    |                          nan    |
+| None                                                                               |       1 |         0.1  |               nan    |                          nan    |
+| magister                                                                           |       1 |         0.1  |               nan    |                          nan    |
+| bsc in computer science                                                            |       1 |         0.1  |               nan    |                          nan    |
+| master degree                                                                      |       1 |         0.1  |               nan    |                          nan    |
+| Associate degree (typically from a community college)                              |       1 |         0.1  |               nan    |                          nan    |
+| bac+2                                                                              |       1 |         0.1  |               nan    |                          nan    |
+| ma                                                                                 |       1 |         0.1  |               nan    |                          nan    |
+| enrolled in phd (computer science)                                                 |       1 |         0.1  |               nan    |                          nan    |
+| masters of science                                                                 |       1 |         0.1  |               nan    |                          nan    |
+| maestria                                                                           |       1 |         0.1  |               nan    |                          nan    |
+| bsc                                                                                |       1 |         0.1  |               nan    |                          nan    |
+| hochschule                                                                         |       1 |         0.1  |               nan    |                          nan    |
+| doctorant                                                                          |       1 |         0.1  |               nan    |                          nan    |
+| doctorat + 2ans de post-doc                                                        |       1 |         0.1  |               nan    |                          nan    |
+| WO (Wetenschappelijk onderwijs) Bachelor                                           |       1 |         0.1  |                 0.3  |                           -0.2  |
+| btech                                                                              |       1 |         0.1  |               nan    |                          nan    |
+| pre-bachelor                                                                       |       1 |         0.1  |               nan    |                          nan    |
+| habilitation à diriger des thèses - thèse                                          |       1 |         0.1  |               nan    |                          nan    |
+| Further Education (NVQ A-Level, ...)                                               |       1 |         0.1  |                 0.4  |                           -0.3  |
+| graduate degree                                                                    |       1 |         0.1  |               nan    |                          nan    |
+| bac+8                                                                              |       1 |         0.1  |               nan    |                          nan    |
+| applicable                                                                         |       1 |         0.1  |               nan    |                          nan    |
+| phd candidate                                                                      |       1 |         0.1  |               nan    |                          nan    |
+| bac+4                                                                              |       1 |         0.1  |               nan    |                          nan    |
+| mastère spécialisé (bac +6)                                                        |       1 |         0.1  |               nan    |                          nan    |
+| italian laurea (5 years with thesis) roughly master                                |       1 |         0.1  |               nan    |                          nan    |
+| je suis actuellement en doctorat                                                   |       1 |         0.1  |               nan    |                          nan    |
+| bac +3                                                                             |       1 |         0.1  |               nan    |                          nan    |
+| GSCEs                                                                              |       1 |         0.1  |                 0.1  |                           -0    |
 
 [Download CSV](/international-survey-2022/csv/education_level_world.csv){: .button}
 
@@ -99,62 +100,62 @@ despite lot of overlapping in the categories.
 
 | Field of education for World                 |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Computer Science                             |     229 |    23.2252   |            22.3577   |                     0.867429    |
-| Physics and Astronomy                        |     214 |    21.7039   |            23.6789   |                    -1.97501     |
-| Biological Sciences                          |     103 |    10.4462   |             9.65447  |                     0.791776    |
-| Mathematics                                  |      79 |     8.01217  |             7.0122   |                     0.999975    |
-| Chemistry                                    |      48 |     4.86815  |             2.23577  |                     2.63238     |
-| Geography &amp; Environmental Sciences           |      38 |     3.85396  |             4.6748   |                    -0.820841    |
-| Electrical &amp; Electronic Engineering          |      35 |     3.5497   |             3.65854  |                    -0.108841    |
-| Mechanical Engineering                       |      28 |     2.83976  |             1.72764  |                     1.11211     |
-| nan                                          |      18 |     1.82556  |             1.11789  |                     0.707672    |
-| Geology                                      |      15 |     1.5213   |             1.62602  |                    -0.104718    |
-| Civil Engineering                            |      14 |     1.41988  |             0.914634 |                     0.505244    |
-| Psychology                                   |      12 |     1.21704  |             0.711382 |                     0.505656    |
-| Agriculture &amp; Forestry                       |      10 |     1.0142   |             0.101626 |                     0.912573    |
-| General Engineering                          |      10 |     1.0142   |             1.11789  |                    -0.103687    |
-| Aeronautical &amp; Manufacturing Engineering     |       9 |     0.912779 |             0.406504 |                     0.506275    |
-| Physical sciences                            |       9 |     0.912779 |           nan        |                   nan           |
-| Chemical Engineering                         |       8 |     0.811359 |             1.01626  |                    -0.204901    |
-| History                                      |       8 |     0.811359 |             0.813008 |                    -0.0016491   |
-| Linguistics                                  |       8 |     0.811359 |             0.304878 |                     0.506481    |
-| Medicine                                     |       8 |     0.811359 |             0.406504 |                     0.404855    |
-| Information and computing sciences           |       7 |     0.709939 |           nan        |                   nan           |
-| Materials Technology                         |       6 |     0.608519 |             0.914634 |                    -0.306115    |
-| Economics                                    |       6 |     0.608519 |             0.609756 |                    -0.00123683  |
-| Earth sciences                               |       5 |     0.507099 |           nan        |                   nan           |
-| Robotics                                     |       5 |     0.507099 |             0.304878 |                     0.202221    |
-| Business &amp; Management Studies                |       4 |     0.40568  |             0.609756 |                    -0.204077    |
-| Sociology                                    |       4 |     0.40568  |             0.203252 |                     0.202427    |
-| Engineering                                  |       4 |     0.40568  |           nan        |                   nan           |
-| Philosophy                                   |       3 |     0.30426  |             0.50813  |                    -0.20387     |
-| Communication &amp; Media Studies                |       3 |     0.30426  |             0.304878 |                    -0.000618414 |
-| English                                      |       3 |     0.30426  |             0.304878 |                    -0.000618414 |
-| Music                                        |       2 |     0.20284  |             0.203252 |                    -0.000412276 |
-| German                                       |       2 |     0.20284  |             0.304878 |                    -0.102038    |
-| Classics &amp; Ancient History                   |       2 |     0.20284  |             0.203252 |                    -0.000412276 |
-| Sports Science                               |       2 |     0.20284  |           nan        |                   nan           |
-| Anthropology                                 |       2 |     0.20284  |           nan        |                   nan           |
-| Librarianship &amp; Information Management       |       2 |     0.20284  |             0.406504 |                    -0.203664    |
-| Biological sciences                          |       2 |     0.20284  |           nan        |                   nan           |
-| Politics                                     |       2 |     0.20284  |             0.203252 |                    -0.000412276 |
-| Biomedical and clinical sciences             |       1 |     0.10142  |           nan        |                   nan           |
-| Environmental sciences                       |       1 |     0.10142  |           nan        |                   nan           |
-| Town &amp; Country Planning and Landscape Design |       1 |     0.10142  |           nan        |                   nan           |
-| Dentistry                                    |       1 |     0.10142  |           nan        |                   nan           |
-| Language, communication and culture          |       1 |     0.10142  |           nan        |                   nan           |
-| Ophthalmics                                  |       1 |     0.10142  |           nan        |                   nan           |
-| East &amp; South Asian Studies                   |       1 |     0.10142  |             0.101626 |                    -0.000206138 |
-| Veterinary Medicine                          |       1 |     0.10142  |           nan        |                   nan           |
-| Middle Eastern and African Studies           |       1 |     0.10142  |           nan        |                   nan           |
-| Fashion                                      |       1 |     0.10142  |           nan        |                   nan           |
-| Art &amp; Design                                 |       1 |     0.10142  |             0.203252 |                    -0.101832    |
-| Anatomy &amp; Physiology                         |       1 |     0.10142  |           nan        |                   nan           |
-| Health sciences                              |       1 |     0.10142  |           nan        |                   nan           |
-| Education                                    |       1 |     0.10142  |             0.406504 |                    -0.305084    |
-| Theology &amp; Religious Studies                 |       1 |     0.10142  |             0.203252 |                    -0.101832    |
-| Accounting &amp; Finance                         |       1 |     0.10142  |             0.203252 |                    -0.101832    |
-| French                                       |       1 |     0.10142  |           nan        |                   nan           |
+| Computer Science                             |     233 |        23.37 |                22.11 |                            1.26 |
+| Physics and Astronomy                        |     216 |        21.66 |                23.42 |                           -1.75 |
+| Biological Sciences                          |     103 |        10.33 |                 9.55 |                            0.78 |
+| Mathematics                                  |      81 |         8.12 |                 6.93 |                            1.19 |
+| Chemistry                                    |      48 |         4.81 |                 2.21 |                            2.6  |
+| Geography &amp; Environmental Sciences           |      38 |         3.81 |                 4.62 |                           -0.81 |
+| Electrical &amp; Electronic Engineering          |      35 |         3.51 |                 3.62 |                           -0.11 |
+| Mechanical Engineering                       |      28 |         2.81 |                 1.71 |                            1.1  |
+| nan                                          |      18 |         1.81 |                 1.21 |                            0.6  |
+| Geology                                      |      15 |         1.5  |                 1.61 |                           -0.1  |
+| Civil Engineering                            |      14 |         1.4  |                 0.9  |                            0.5  |
+| Psychology                                   |      13 |         1.3  |                 0.7  |                            0.6  |
+| General Engineering                          |      11 |         1.1  |                 1.11 |                           -0    |
+| Agriculture &amp; Forestry                       |      10 |         1    |                 0.1  |                            0.9  |
+| Aeronautical &amp; Manufacturing Engineering     |       9 |         0.9  |                 0.4  |                            0.5  |
+| Physical sciences                            |       9 |         0.9  |               nan    |                          nan    |
+| Chemical Engineering                         |       8 |         0.8  |                 1.01 |                           -0.2  |
+| History                                      |       8 |         0.8  |                 0.8  |                           -0    |
+| Linguistics                                  |       8 |         0.8  |                 0.3  |                            0.5  |
+| Medicine                                     |       8 |         0.8  |                 0.4  |                            0.4  |
+| Information and computing sciences           |       7 |         0.7  |               nan    |                          nan    |
+| Materials Technology                         |       6 |         0.6  |                 0.9  |                           -0.3  |
+| Economics                                    |       6 |         0.6  |                 0.6  |                           -0    |
+| Earth sciences                               |       5 |         0.5  |               nan    |                          nan    |
+| Business &amp; Management Studies                |       5 |         0.5  |                 0.6  |                           -0.1  |
+| Robotics                                     |       5 |         0.5  |                 0.3  |                            0.2  |
+| Sociology                                    |       4 |         0.4  |                 0.2  |                            0.2  |
+| Engineering                                  |       4 |         0.4  |               nan    |                          nan    |
+| Philosophy                                   |       3 |         0.3  |                 0.5  |                           -0.2  |
+| Communication &amp; Media Studies                |       3 |         0.3  |                 0.3  |                           -0    |
+| English                                      |       3 |         0.3  |                 0.3  |                           -0    |
+| Music                                        |       2 |         0.2  |                 0.2  |                           -0    |
+| German                                       |       2 |         0.2  |                 0.3  |                           -0.1  |
+| Classics &amp; Ancient History                   |       2 |         0.2  |                 0.2  |                           -0    |
+| Sports Science                               |       2 |         0.2  |               nan    |                          nan    |
+| Anthropology                                 |       2 |         0.2  |               nan    |                          nan    |
+| Librarianship &amp; Information Management       |       2 |         0.2  |                 0.4  |                           -0.2  |
+| Biological sciences                          |       2 |         0.2  |               nan    |                          nan    |
+| Politics                                     |       2 |         0.2  |                 0.2  |                           -0    |
+| Biomedical and clinical sciences             |       1 |         0.1  |               nan    |                          nan    |
+| Environmental sciences                       |       1 |         0.1  |               nan    |                          nan    |
+| Town &amp; Country Planning and Landscape Design |       1 |         0.1  |               nan    |                          nan    |
+| Dentistry                                    |       1 |         0.1  |               nan    |                          nan    |
+| Language, communication and culture          |       1 |         0.1  |               nan    |                          nan    |
+| Ophthalmics                                  |       1 |         0.1  |               nan    |                          nan    |
+| East &amp; South Asian Studies                   |       1 |         0.1  |                 0.1  |                           -0    |
+| Veterinary Medicine                          |       1 |         0.1  |               nan    |                          nan    |
+| Middle Eastern and African Studies           |       1 |         0.1  |               nan    |                          nan    |
+| Fashion                                      |       1 |         0.1  |               nan    |                          nan    |
+| Art &amp; Design                                 |       1 |         0.1  |                 0.2  |                           -0.1  |
+| Anatomy &amp; Physiology                         |       1 |         0.1  |               nan    |                          nan    |
+| Health sciences                              |       1 |         0.1  |               nan    |                          nan    |
+| Education                                    |       1 |         0.1  |                 0.4  |                           -0.3  |
+| Theology &amp; Religious Studies                 |       1 |         0.1  |                 0.2  |                           -0.1  |
+| Accounting &amp; Finance                         |       1 |         0.1  |                 0.2  |                           -0.1  |
+| French                                       |       1 |         0.1  |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/academic_field_edu_world.csv){: .button}
 
@@ -165,117 +166,139 @@ despite lot of overlapping in the categories.
 
 ### Academic field of work
 
-| field of work for World                       |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
-|:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Computer Science                              |     418 |    42.3935   |            35.9756   |                     6.4179      |
-| Biological Sciences                           |     270 |    27.3834   |            21.8496   |                     5.53377     |
-| Physics and Astronomy                         |     245 |    24.8479   |            27.439    |                    -2.59115     |
-| Geography &amp; Environmental Sciences            |     158 |    16.0243   |            15.5488   |                     0.47556     |
-| Mathematics                                   |     143 |    14.503    |            10.1626   |                     4.34044     |
-| Medicine                                      |     109 |    11.0548   |             8.43496  |                     2.61981     |
-| Chemistry                                     |      94 |     9.53347  |             6.80894  |                     2.72453     |
-| Mechanical Engineering                        |      65 |     6.59229  |             5.89431  |                     0.697983    |
-| Education                                     |      65 |     6.59229  |             5.18293  |                     1.40937     |
-| Agriculture &amp; Forestry                        |      59 |     5.98377  |             3.25203  |                     2.73174     |
-| Materials Technology                          |      59 |     5.98377  |             4.97967  |                     1.0041      |
-| General Engineering                           |      56 |     5.67951  |             5.18293  |                     0.496586    |
-| Geology                                       |      54 |     5.47667  |             4.6748   |                     0.801877    |
-| Psychology                                    |      48 |     4.86815  |             2.43902  |                     2.42913     |
-| Electrical &amp; Electronic Engineering           |      47 |     4.76673  |             7.0122   |                    -2.24546     |
-| Civil Engineering                             |      46 |     4.66531  |             3.45528  |                     1.21003     |
-| Linguistics                                   |      45 |     4.56389  |             2.94715  |                     1.61674     |
-| Librarianship &amp; Information Management        |      45 |     4.56389  |             2.7439   |                     1.81999     |
-| Chemical Engineering                          |      40 |     4.0568   |             3.04878  |                     1.00801     |
-| History                                       |      39 |     3.95538  |             3.15041  |                     0.804969    |
-| Sociology                                     |      37 |     3.75254  |             2.3374   |                     1.41514     |
-| Aeronautical &amp; Manufacturing Engineering      |      31 |     3.14402  |             3.76016  |                    -0.616146    |
-| Economics                                     |      30 |     3.0426   |             3.04878  |                    -0.00618414  |
-| Robotics                                      |      30 |     3.0426   |             4.16667  |                    -1.12407     |
-| Business &amp; Management Studies                 |      23 |     2.33266  |             1.11789  |                     1.21477     |
-| Communication &amp; Media Studies                 |      22 |     2.23124  |             2.54065  |                    -0.309413    |
-| English                                       |      20 |     2.0284   |             1.01626  |                     1.01214     |
-| Politics                                      |      20 |     2.0284   |             1.21951  |                     0.808885    |
-| Classics &amp; Ancient History                    |      19 |     1.92698  |             2.13415  |                    -0.207169    |
-| Anthropology                                  |      17 |     1.72414  |             0.914634 |                     0.809504    |
-| Law                                           |      15 |     1.5213   |             0.914634 |                     0.606664    |
-| Food Science                                  |      15 |     1.5213   |             0.711382 |                     0.809916    |
-| Philosophy                                    |      15 |     1.5213   |             1.01626  |                     0.505038    |
-| Accounting &amp; Finance                          |      15 |     1.5213   |             1.11789  |                     0.403412    |
-| Art &amp; Design                                  |      12 |     1.21704  |             1.52439  |                    -0.307352    |
-| Information and computing sciences            |      12 |     1.21704  |             0        |                     1.21704     |
-| Music                                         |      12 |     1.21704  |             0.711382 |                     0.505656    |
-| Social Policy                                 |      11 |     1.11562  |             1.42276  |                    -0.307146    |
-| History of Art, Architecture &amp; Design         |      11 |     1.11562  |             1.11789  |                    -0.00226752  |
-| Pharmacology &amp; Pharmacy                       |      11 |     1.11562  |             1.93089  |                    -0.815276    |
-| Anatomy &amp; Physiology                          |      10 |     1.0142   |             1.32114  |                    -0.306939    |
-| Criminology                                   |      10 |     1.0142   |             0.813008 |                     0.201191    |
-| German                                        |       9 |     0.912779 |             1.52439  |                    -0.611611    |
-| East &amp; South Asian Studies                    |       9 |     0.912779 |             0.304878 |                     0.607901    |
-| Sports Science                                |       9 |     0.912779 |             0.406504 |                     0.506275    |
-| Social Work                                   |       8 |     0.811359 |             0.609756 |                     0.201603    |
-| Architecture                                  |       8 |     0.811359 |             0.711382 |                     0.0999769   |
-| Middle Eastern and African Studies            |       7 |     0.709939 |             0.711382 |                    -0.00144297  |
-| Biomedical and clinical sciences              |       7 |     0.709939 |             0        |                     0.709939    |
-| Veterinary Medicine                           |       7 |     0.709939 |             0.609756 |                     0.100183    |
-| Theology &amp; Religious Studies                  |       7 |     0.709939 |             1.21951  |                    -0.509573    |
-| French                                        |       7 |     0.709939 |             0.609756 |                     0.100183    |
-| Biological sciences                           |       6 |     0.608519 |             0        |                     0.608519    |
-| Earth sciences                                |       6 |     0.608519 |             0        |                     0.608519    |
-| Health sciences                               |       6 |     0.608519 |             0        |                     0.608519    |
-| Complementary Medicine                        |       6 |     0.608519 |             0.50813  |                     0.100389    |
-| Physical sciences                             |       6 |     0.608519 |             0        |                     0.608519    |
-| Built environment and design                  |       5 |     0.507099 |             0        |                     0.507099    |
-| Engineering                                   |       5 |     0.507099 |             0        |                     0.507099    |
-| Language, communication and culture           |       5 |     0.507099 |             0        |                     0.507099    |
-| Town &amp; Country Planning and Landscape Design  |       5 |     0.507099 |             0.609756 |                    -0.102657    |
-| Ophthalmics                                   |       5 |     0.507099 |             0.609756 |                    -0.102657    |
-| American Studies                              |       5 |     0.507099 |             0.609756 |                    -0.102657    |
-| Dentistry                                     |       5 |     0.507099 |             0.609756 |                    -0.102657    |
-| Marketing                                     |       5 |     0.507099 |             0.813008 |                    -0.305909    |
-| Counselling                                   |       4 |     0.40568  |             0.203252 |                     0.202427    |
-| History, heritage and archaeology             |       4 |     0.40568  |             0        |                     0.40568     |
-| Environmental sciences                        |       4 |     0.40568  |             0        |                     0.40568     |
-| Iberian Languages/Hispanic Studies            |       4 |     0.40568  |             0.50813  |                    -0.102451    |
-| Commerce, management, tourism and services    |       4 |     0.40568  |             0        |                     0.40568     |
-| Chemical sciences                             |       4 |     0.40568  |             0        |                     0.40568     |
-| Nursing                                       |       4 |     0.40568  |             0.406504 |                    -0.000824552 |
-| Human society                                 |       4 |     0.40568  |             0        |                     0.40568     |
-| Economics.1                                   |       3 |     0.30426  |             0        |                     0.30426     |
-| Education.1                                   |       3 |     0.30426  |             0        |                     0.30426     |
-| Physiotherapy                                 |       3 |     0.30426  |             0.203252 |                     0.101008    |
-| Mathematical sciences                         |       2 |     0.20284  |             0        |                     0.20284     |
-| Psychology.1                                  |       2 |     0.20284  |             0        |                     0.20284     |
-| Indigenous studies                            |       2 |     0.20284  |             0        |                     0.20284     |
-| Russian &amp; East European Languages             |       2 |     0.20284  |             0.203252 |                    -0.000412276 |
-| Land &amp; Property Management                    |       2 |     0.20284  |             0.609756 |                    -0.406916    |
-| Fashion                                       |       1 |     0.10142  |             0.203252 |                    -0.101832    |
-| Creative arts and writing                     |       1 |     0.10142  |             0        |                     0.10142     |
-| Law and legal studies                         |       1 |     0.10142  |             0        |                     0.10142     |
-| Philosophy and religious studies              |       1 |     0.10142  |             0        |                     0.10142     |
-| Youth Work                                    |       1 |     0.10142  |             0.406504 |                    -0.305084    |
-| Hospitality, Leisure, Recreation &amp; Tourism    |       1 |     0.10142  |             0.203252 |                    -0.101832    |
-| 02 Physical Sciences                          |       0 |     0        |             3.65854  |                    -3.65854     |
-| 01 Mathematical Sciences                      |       0 |     0        |             2.43902  |                    -2.43902     |
-| 04 Earth Sciences                             |       0 |     0        |             2.23577  |                    -2.23577     |
-| 03 Chemical Sciences                          |       0 |     0        |             1.01626  |                    -1.01626     |
-| 17 Psychology and Cognitive Sciences          |       0 |     0        |             0.304878 |                    -0.304878    |
-| 05 Environmental Sciences                     |       0 |     0        |             2.13415  |                    -2.13415     |
-| 15 Commerce, Management, Tourism and Services |       0 |     0        |             0.203252 |                    -0.203252    |
-| 22 Philosophy and Religious Studies           |       0 |     0        |             0.304878 |                    -0.304878    |
-| 21 History and Archaeology                    |       0 |     0        |             0.304878 |                    -0.304878    |
-| 20 Language, Communication and Culture        |       0 |     0        |             0.50813  |                    -0.50813     |
-| 19 Studies in Creative Arts and Writing       |       0 |     0        |             0.304878 |                    -0.304878    |
-| 18 Law and Legal Studies                      |       0 |     0        |             0.101626 |                    -0.101626    |
-| 16 Studies in Human Society                   |       0 |     0        |             0.406504 |                    -0.406504    |
-| 14 Economics                                  |       0 |     0        |             0.203252 |                    -0.203252    |
-| 06 Biological Sciences                        |       0 |     0        |             3.45528  |                    -3.45528     |
-| 13 Education                                  |       0 |     0        |             0.914634 |                    -0.914634    |
-| 12 Built Environment and Design               |       0 |     0        |             0.203252 |                    -0.203252    |
-| 11 Medical and Health Sciences                |       0 |     0        |             2.43902  |                    -2.43902     |
-| 10 Technology                                 |       0 |     0        |             2.64228  |                    -2.64228     |
-| 09 Engineering                                |       0 |     0        |             2.3374   |                    -2.3374      |
-| 08 Information and Computing Sciences         |       0 |     0        |             4.57317  |                    -4.57317     |
-| 07 Agricultural and Veterinary Sciences       |       0 |     0        |             1.01626  |                    -1.01626     |
+| field of work for World                                    |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|:-----------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
+| Computer Science                                           |     425 |        42.63 |                35.58 |                            7.05 |
+| Biological Sciences                                        |     273 |        27.38 |                21.61 |                            5.77 |
+| Physics and Astronomy                                      |     248 |        24.87 |                27.14 |                           -2.26 |
+| Geography &amp; Environmental Sciences                         |     159 |        15.95 |                15.38 |                            0.57 |
+| Mathematics                                                |     147 |        14.74 |                10.05 |                            4.69 |
+| Medicine                                                   |     111 |        11.13 |                 8.34 |                            2.79 |
+| Chemistry                                                  |      95 |         9.53 |                 6.73 |                            2.79 |
+| Mechanical Engineering                                     |      66 |         6.62 |                 5.83 |                            0.79 |
+| Education                                                  |      65 |         6.52 |                 5.13 |                            1.39 |
+| Materials Technology                                       |      59 |         5.92 |                 4.92 |                            0.99 |
+| Agriculture &amp; Forestry                                     |      59 |         5.92 |                 3.22 |                            2.7  |
+| General Engineering                                        |      57 |         5.72 |                 5.13 |                            0.59 |
+| Geology                                                    |      54 |         5.42 |                 4.62 |                            0.79 |
+| Psychology                                                 |      51 |         5.12 |                 2.41 |                            2.7  |
+| Electrical &amp; Electronic Engineering                        |      47 |         4.71 |                 6.93 |                           -2.22 |
+| Civil Engineering                                          |      46 |         4.61 |                 3.42 |                            1.2  |
+| Linguistics                                                |      45 |         4.51 |                 2.91 |                            1.6  |
+| Librarianship &amp; Information Management                     |      45 |         4.51 |                 2.71 |                            1.8  |
+| Chemical Engineering                                       |      40 |         4.01 |                 3.02 |                            1    |
+| History                                                    |      39 |         3.91 |                 3.12 |                            0.8  |
+| Sociology                                                  |      37 |         3.71 |                 2.31 |                            1.4  |
+| Aeronautical &amp; Manufacturing Engineering                   |      31 |         3.11 |                 3.72 |                           -0.61 |
+| Robotics                                                   |      30 |         3.01 |                 4.12 |                           -1.11 |
+| Economics                                                  |      30 |         3.01 |                 3.02 |                           -0.01 |
+| Business &amp; Management Studies                              |      23 |         2.31 |                 1.11 |                            1.2  |
+| Communication &amp; Media Studies                              |      22 |         2.21 |                 2.51 |                           -0.31 |
+| English                                                    |      20 |         2.01 |                 1.01 |                            1    |
+| Politics                                                   |      20 |         2.01 |                 1.21 |                            0.8  |
+| Classics &amp; Ancient History                                 |      19 |         1.91 |                 2.11 |                           -0.2  |
+| Anthropology                                               |      17 |         1.71 |                 0.9  |                            0.8  |
+| Accounting &amp; Finance                                       |      16 |         1.6  |                 1.11 |                            0.5  |
+| Food Science                                               |      15 |         1.5  |                 0.7  |                            0.8  |
+| Philosophy                                                 |      15 |         1.5  |                 1.01 |                            0.5  |
+| Law                                                        |      15 |         1.5  |                 0.9  |                            0.6  |
+| Art &amp; Design                                               |      13 |         1.3  |                 1.51 |                           -0.2  |
+| History of Art, Architecture &amp; Design                      |      12 |         1.2  |                 1.11 |                            0.1  |
+| Music                                                      |      12 |         1.2  |                 0.7  |                            0.5  |
+| Information and computing sciences                         |      12 |         1.2  |                 0    |                            1.2  |
+| Pharmacology &amp; Pharmacy                                    |      11 |         1.1  |                 1.91 |                           -0.81 |
+| Social Policy                                              |      11 |         1.1  |                 1.41 |                           -0.3  |
+| Anatomy &amp; Physiology                                       |      10 |         1    |                 1.31 |                           -0.3  |
+| Criminology                                                |      10 |         1    |                 0.8  |                            0.2  |
+| Sports Science                                             |       9 |         0.9  |                 0.4  |                            0.5  |
+| Social Work                                                |       9 |         0.9  |                 0.6  |                            0.3  |
+| German                                                     |       9 |         0.9  |                 1.51 |                           -0.6  |
+| East &amp; South Asian Studies                                 |       9 |         0.9  |                 0.3  |                            0.6  |
+| Architecture                                               |       8 |         0.8  |                 0.7  |                            0.1  |
+| Biomedical and clinical sciences                           |       7 |         0.7  |                 0    |                            0.7  |
+| Middle Eastern and African Studies                         |       7 |         0.7  |                 0.7  |                           -0    |
+| Veterinary Medicine                                        |       7 |         0.7  |                 0.6  |                            0.1  |
+| French                                                     |       7 |         0.7  |                 0.6  |                            0.1  |
+| Theology &amp; Religious Studies                               |       7 |         0.7  |                 1.21 |                           -0.5  |
+| Earth sciences                                             |       6 |         0.6  |                 0    |                            0.6  |
+| Biological sciences                                        |       6 |         0.6  |                 0    |                            0.6  |
+| Health sciences                                            |       6 |         0.6  |                 0    |                            0.6  |
+| Complementary Medicine                                     |       6 |         0.6  |                 0.5  |                            0.1  |
+| Physical sciences                                          |       6 |         0.6  |                 0    |                            0.6  |
+| Built environment and design                               |       5 |         0.5  |                 0    |                            0.5  |
+| Engineering                                                |       5 |         0.5  |                 0    |                            0.5  |
+| Language, communication and culture                        |       5 |         0.5  |                 0    |                            0.5  |
+| Town &amp; Country Planning and Landscape Design               |       5 |         0.5  |                 0.6  |                           -0.1  |
+| Ophthalmics                                                |       5 |         0.5  |                 0.6  |                           -0.1  |
+| American Studies                                           |       5 |         0.5  |                 0.6  |                           -0.1  |
+| Dentistry                                                  |       5 |         0.5  |                 0.6  |                           -0.1  |
+| Marketing                                                  |       5 |         0.5  |                 0.8  |                           -0.3  |
+| Counselling                                                |       4 |         0.4  |                 0.2  |                            0.2  |
+| History, heritage and archaeology                          |       4 |         0.4  |                 0    |                            0.4  |
+| Environmental sciences                                     |       4 |         0.4  |                 0    |                            0.4  |
+| Iberian Languages/Hispanic Studies                         |       4 |         0.4  |                 0.5  |                           -0.1  |
+| Commerce, management, tourism and services                 |       4 |         0.4  |                 0    |                            0.4  |
+| Chemical sciences                                          |       4 |         0.4  |                 0    |                            0.4  |
+| Nursing                                                    |       4 |         0.4  |                 0.4  |                           -0    |
+| Human society                                              |       4 |         0.4  |                 0    |                            0.4  |
+| Economics.1                                                |       3 |         0.3  |                 0    |                            0.3  |
+| Education.1                                                |       3 |         0.3  |                 0    |                            0.3  |
+| Physiotherapy                                              |       3 |         0.3  |                 0.2  |                            0.1  |
+| Mathematical sciences                                      |       2 |         0.2  |                 0    |                            0.2  |
+| Psychology.1                                               |       2 |         0.2  |                 0    |                            0.2  |
+| Indigenous studies                                         |       2 |         0.2  |                 0    |                            0.2  |
+| Russian &amp; East European Languages                          |       2 |         0.2  |                 0.2  |                           -0    |
+| Land &amp; Property Management                                 |       2 |         0.2  |                 0.6  |                           -0.4  |
+| Fashion                                                    |       1 |         0.1  |                 0.2  |                           -0.1  |
+| Creative arts and writing                                  |       1 |         0.1  |                 0    |                            0.1  |
+| Law and legal studies                                      |       1 |         0.1  |                 0    |                            0.1  |
+| Philosophy and religious studies                           |       1 |         0.1  |                 0    |                            0.1  |
+| Youth Work                                                 |       1 |         0.1  |                 0.4  |                           -0.3  |
+| Hospitality, Leisure, Recreation &amp; Tourism                 |       1 |         0.1  |                 0.2  |                           -0.1  |
+| 02 Physical Sciences                                       |       0 |         0    |                 3.62 |                           -3.62 |
+| 01 Mathematical Sciences                                   |       0 |         0    |                 2.41 |                           -2.41 |
+| HEALTH SCIENCES                                            |       0 |         0    |                 0.1  |                           -0.1  |
+| OTHER STUDIES IN NATURAL SCIENCES AND ENGINEERING          |       0 |         0    |                 0.2  |                           -0.2  |
+| LIFE SCIENCES RESEARCH RELATED TO HUMAN HEALTH AND DISEASE |       0 |         0    |                 0.2  |                           -0.2  |
+| PSYCHOLOGY                                                 |       0 |         0    |                 0.2  |                           -0.2  |
+| EVOLUTION AND ECOLOGY                                      |       0 |         0    |                 0.2  |                           -0.2  |
+| MICROBIOLOGY                                               |       0 |         0    |                 0.1  |                           -0.1  |
+| 04 Earth Sciences                                          |       0 |         0    |                 2.21 |                           -2.21 |
+| 03 Chemical Sciences                                       |       0 |         0    |                 1.01 |                           -1.01 |
+| 17 Psychology and Cognitive Sciences                       |       0 |         0    |                 0.3  |                           -0.3  |
+| 05 Environmental Sciences                                  |       0 |         0    |                 2.11 |                           -2.11 |
+| 15 Commerce, Management, Tourism and Services              |       0 |         0    |                 0.2  |                           -0.2  |
+| HYDROLOGY                                                  |       0 |         0    |                 0.1  |                           -0.1  |
+| 22 Philosophy and Religious Studies                        |       0 |         0    |                 0.3  |                           -0.3  |
+| 21 History and Archaeology                                 |       0 |         0    |                 0.3  |                           -0.3  |
+| 20 Language, Communication and Culture                     |       0 |         0    |                 0.5  |                           -0.5  |
+| 19 Studies in Creative Arts and Writing                    |       0 |         0    |                 0.3  |                           -0.3  |
+| 18 Law and Legal Studies                                   |       0 |         0    |                 0.1  |                           -0.1  |
+| 16 Studies in Human Society                                |       0 |         0    |                 0.4  |                           -0.4  |
+| 14 Economics                                               |       0 |         0    |                 0.2  |                           -0.2  |
+| 06 Biological Sciences                                     |       0 |         0    |                 3.42 |                           -3.42 |
+| 13 Education                                               |       0 |         0    |                 0.9  |                           -0.9  |
+| 12 Built Environment and Design                            |       0 |         0    |                 0.2  |                           -0.2  |
+| 11 Medical and Health Sciences                             |       0 |         0    |                 2.41 |                           -2.41 |
+| 10 Technology                                              |       0 |         0    |                 2.61 |                           -2.61 |
+| 09 Engineering                                             |       0 |         0    |                 2.31 |                           -2.31 |
+| 08 Information and Computing Sciences                      |       0 |         0    |                 4.52 |                           -4.52 |
+| 07 Agricultural and Veterinary Sciences                    |       0 |         0    |                 1.01 |                           -1.01 |
+| FLUID MECHANICS                                            |       0 |         0    |                 0.1  |                           -0.1  |
+| BIOMEDICAL ENGINEERING                                     |       0 |         0    |                 0.1  |                           -0.1  |
+| DESIGN AND MANUFACTURING                                   |       0 |         0    |                 0.1  |                           -0.1  |
+| INDUSTRIAL ENGINEERING                                     |       0 |         0    |                 0.1  |                           -0.1  |
+| ENVIRONMENTAL ENGINEERING                                  |       0 |         0    |                 0.1  |                           -0.1  |
+| INFORMATION TECHNOLOGY                                     |       0 |         0    |                 0.2  |                           -0.2  |
+| ARTIFICIAL INTELLIGENCE                                    |       0 |         0    |                 0.2  |                           -0.2  |
+| PHYSICAL GEOGRAPHY                                         |       0 |         0    |                 0.1  |                           -0.1  |
+| EARTH SCIENCE                                              |       0 |         0    |                 0.1  |                           -0.1  |
+| CONDENSED MATTERPHYSICS                                    |       0 |         0    |                 0.1  |                           -0.1  |
+| ASTRONOMY AND ASTROPHYSICS                                 |       0 |         0    |                 0.3  |                           -0.3  |
+| THEORETICAL PHYSICS AND CHEMISTRY                          |       0 |         0    |                 0.1  |                           -0.1  |
+| PHYSICS                                                    |       0 |         0    |                 0.1  |                           -0.1  |
+| STATISTICS AND PROBABILITY                                 |       0 |         0    |                 0.4  |                           -0.4  |
+| APPLIED MATHEMATICS                                        |       0 |         0    |                 0.1  |                           -0.1  |
 
 [Download CSV](/international-survey-2022/csv/academic_field_work_world.csv){: .button}
 
@@ -299,8 +322,8 @@ Questions in this section:
 
 | Professional developer for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                |     549 |      57.7895 |              53.8789 |                         3.91062 |
-| No                                 |     401 |      42.2105 |              46.1211 |                        -3.91062 |
+| Yes                                |     555 |        57.81 |                53.37 |                            4.44 |
+| No                                 |     405 |        42.19 |                46.63 |                           -4.44 |
 
 [Download CSV](/international-survey-2022/csv/proportion-professional-developer_world.csv){: .button}
 
@@ -310,14 +333,14 @@ Questions in this section:
 
 | How many years of software development experience for World (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:--------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                 |         173       |          52       |
-| mean                                                                                  |           6.42775 |           9.21154 |
-| std                                                                                   |           3.69502 |           5.25184 |
-| min                                                                                   |           0       |           1       |
-| 25%                                                                                   |           3       |           5       |
-| 50%                                                                                   |           6       |          10       |
-| 75%                                                                                   |          10       |          10.75    |
-| max                                                                                   |          14       |          24       |
+| count                                                                                 |            173    |             52    |
+| mean                                                                                  |              6.43 |              9.21 |
+| std                                                                                   |              3.7  |              5.25 |
+| min                                                                                   |              0    |              1    |
+| 25%                                                                                   |              3    |              5    |
+| 50%                                                                                   |              6    |             10    |
+| 75%                                                                                   |             10    |             10.75 |
+| max                                                                                   |             14    |             24    |
 
 [Download CSV](/international-survey-2022/csv/summary-years-professional-developer_world.csv){: .button}
 
@@ -397,19 +420,19 @@ position among 8 different ones:
 
 | Where the previous job was based for World       |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| University                                       |     445 |    50.4535   |            53.5797   |                       -3.12616  |
-| Private company                                  |     180 |    20.4082   |            14.3187   |                        6.08946  |
-| National laboratory                              |      51 |     5.78231  |             3.81062  |                        1.97169  |
-| This is my first job                             |      44 |     4.98866  |           nan        |                      nan        |
-| Government                                       |      43 |     4.87528  |             3.81062  |                        1.06466  |
-| Other                                            |      35 |     3.96825  |             7.73672  |                       -3.76847  |
-| Helmholtz Association of German Research Centres |      29 |     3.28798  |             3.57968  |                       -0.291695 |
-| Non-profit organization                          |      27 |     3.06122  |             2.30947  |                        0.751756 |
-| Max Planck Society                               |      14 |     1.5873   |             1.03926  |                        0.548041 |
-| NGO                                              |       4 |     0.453515 |             0.115473 |                        0.338041 |
-| University of Applied Sciences                   |       4 |     0.453515 |             0.577367 |                       -0.123852 |
-| Leibniz Association                              |       4 |     0.453515 |             1.27021  |                       -0.816693 |
-| Fraunhofer Society                               |       2 |     0.226757 |             1.15473  |                       -0.927977 |
+| University                                       |     450 |        50.45 |                53.58 |                           -3.13 |
+| Private company                                  |     182 |        20.4  |                14.32 |                            6.08 |
+| National laboratory                              |      53 |         5.94 |                 3.81 |                            2.13 |
+| This is my first job                             |      45 |         5.04 |               nan    |                          nan    |
+| Government                                       |      43 |         4.82 |                 3.81 |                            1.01 |
+| Other                                            |      35 |         3.92 |                 7.74 |                           -3.81 |
+| Helmholtz Association of German Research Centres |      29 |         3.25 |                 3.58 |                           -0.33 |
+| Non-profit organization                          |      27 |         3.03 |                 2.31 |                            0.72 |
+| Max Planck Society                               |      14 |         1.57 |                 1.04 |                            0.53 |
+| NGO                                              |       4 |         0.45 |                 0.12 |                            0.33 |
+| University of Applied Sciences                   |       4 |         0.45 |                 0.58 |                           -0.13 |
+| Leibniz Association                              |       4 |         0.45 |                 1.27 |                           -0.82 |
+| Fraunhofer Society                               |       2 |         0.22 |                 1.15 |                           -0.93 |
 
 [Download CSV](/international-survey-2022/csv/where-previous-job-based_world.csv){: .button}
 
@@ -419,15 +442,15 @@ position among 8 different ones:
 
 | Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
 |:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Desire to work in a research environment | 23.75    | 18.75    | 11.3924  |  9.72222 | 11.3514  |
-| Freedom to choose own working practices  | 21.25    | 10.4167  | 14.346   | 14.3519  |  9.72973 |
-| Desire to advance research               | 20.8333  | 19.1667  | 12.2363  | 10.6481  |  5.40541 |
-| Opportunity to develop software          | 11.25    | 10.8333  | 13.9241  | 14.3519  | 10.2703  |
-| Opportunity for career advancement       |  5.83333 |  4.16667 |  7.59494 |  7.40741 |  6.48649 |
-| Ability to work across disciplines       |  5.41667 | 12.5     |  9.70464 | 12.963   | 12.973   |
-| I want to learn new skills               |  5       | 12.9167  | 11.8143  | 12.5     | 14.5946  |
-| Flexible working hours                   |  4.58333 |  6.25    | 15.1899  | 10.6481  | 20.5405  |
-| The salary                               |  2.08333 |  5       |  3.79747 |  7.40741 |  8.64865 |
+| Desire to work in a research environment |    23.75 |    18.75 |    11.39 |     9.72 |    11.35 |
+| Freedom to choose own working practices  |    21.25 |    10.42 |    14.35 |    14.35 |     9.73 |
+| Desire to advance research               |    20.83 |    19.17 |    12.24 |    10.65 |     5.41 |
+| Opportunity to develop software          |    11.25 |    10.83 |    13.92 |    14.35 |    10.27 |
+| Opportunity for career advancement       |     5.83 |     4.17 |     7.59 |     7.41 |     6.49 |
+| Ability to work across disciplines       |     5.42 |    12.5  |     9.7  |    12.96 |    12.97 |
+| I want to learn new skills               |     5    |    12.92 |    11.81 |    12.5  |    14.59 |
+| Flexible working hours                   |     4.58 |     6.25 |    15.19 |    10.65 |    20.54 |
+| The salary                               |     2.08 |     5    |     3.8  |     7.41 |     8.65 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_world.csv){: .button}
 
@@ -453,12 +476,12 @@ Questions in this section:
 
 | developing code for others for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 0 - Mostly me                          |      72 |      7.72532 |              6.91057 |                       0.814753  |
-| 1                                      |     105 |     11.2661  |             13.4146  |                      -2.14854   |
-| 2                                      |     141 |     15.1288  |             17.7846  |                      -2.6558    |
-| 3                                      |     186 |     19.9571  |             17.9878  |                       1.96928   |
-| 4                                      |     185 |     19.8498  |             17.8862  |                       1.96361   |
-| 5 - Mostly other people                |     243 |     26.073   |             26.0163  |                       0.0567012 |
+| 0 - Mostly me                          |      72 |         7.67 |                 6.83 |                            0.83 |
+| 1                                      |     105 |        11.18 |                13.47 |                           -2.29 |
+| 2                                      |     141 |        15.02 |                17.69 |                           -2.67 |
+| 3                                      |     187 |        19.91 |                18.19 |                            1.72 |
+| 4                                      |     187 |        19.91 |                17.89 |                            2.03 |
+| 5 - Mostly other people                |     247 |        26.3  |                25.93 |                            0.37 |
 
 [Download CSV](/international-survey-2022/csv/developing-code-for-others_world.csv){: .button}
 
@@ -468,9 +491,9 @@ Questions in this section:
 
 | Working with same researchers for World    |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Different researchers, same research group |     131 |      15.5952 |              17.3273 |                        -1.73206 |
-| Regularly change researcher(s)             |     384 |      45.7143 |              38.2786 |                         7.43569 |
-| Same researcher(s)                         |     325 |      38.6905 |              44.3941 |                        -5.70363 |
+| Different researchers, same research group |     133 |        15.63 |                17.13 |                           -1.5  |
+| Regularly change researcher(s)             |     390 |        45.83 |                38.3  |                            7.53 |
+| Same researcher(s)                         |     328 |        38.54 |                44.57 |                           -6.03 |
 
 [Download CSV](/international-survey-2022/csv/working-with-same-researchers_world.csv){: .button}
 
@@ -480,8 +503,8 @@ Questions in this section:
 
 | member of a dedicated group for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No                                      |     396 |      47.1429 |              49.3213 |                        -2.17841 |
-| Yes                                     |     444 |      52.8571 |              50.6787 |                         2.17841 |
+| No                                      |     402 |        47.24 |                49.78 |                           -2.54 |
+| Yes                                     |     449 |        52.76 |                50.22 |                            2.54 |
 
 [Download CSV](/international-survey-2022/csv/member-of-a-dedicated-group_world.csv){: .button}
 
@@ -491,18 +514,18 @@ Questions in this section:
 
 |   Number of software projects for World |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |----------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                       0 |      17 |     2.06311  |             1.55131  |                       0.511794  |
-|                                       1 |     131 |    15.8981   |            16.3484   |                      -0.45039   |
-|                                       2 |     214 |    25.9709   |            25.7757   |                       0.195217  |
-|                                       3 |     208 |    25.2427   |            24.821    |                       0.421716  |
-|                                       4 |      82 |     9.95146  |            10.7399   |                      -0.7884    |
-|                                       5 |      88 |    10.6796   |            10.5012   |                       0.178418  |
-|                                       6 |      17 |     2.06311  |             3.57995  |                      -1.51685   |
-|                                       7 |      17 |     2.06311  |             0.954654 |                       1.10845   |
-|                                       8 |      10 |     1.21359  |             1.19332  |                       0.0202748 |
-|                                      10 |      17 |     2.06311  |             2.14797  |                      -0.0848646 |
-|                                      13 |       1 |     0.121359 |           nan        |                     nan         |
-|                                      15 |      22 |     2.6699   |             0.119332 |                       2.55057   |
+|                                       0 |      17 |         2.04 |                 1.53 |                            0.5  |
+|                                       1 |     133 |        15.93 |                16.27 |                           -0.35 |
+|                                       2 |     218 |        26.11 |                25.83 |                            0.28 |
+|                                       3 |     210 |        25.15 |                25    |                            0.15 |
+|                                       4 |      85 |        10.18 |                10.73 |                           -0.55 |
+|                                       5 |      88 |        10.54 |                10.5  |                            0.04 |
+|                                       6 |      17 |         2.04 |                 3.54 |                           -1.5  |
+|                                       7 |      17 |         2.04 |                 0.94 |                            1.09 |
+|                                       8 |      10 |         1.2  |                 1.18 |                            0.02 |
+|                                      10 |      17 |         2.04 |                 2.12 |                           -0.09 |
+|                                      13 |       1 |         0.12 |               nan    |                          nan    |
+|                                      15 |      22 |         2.63 |                 0.12 |                            2.52 |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_world.csv){: .button}
 
@@ -510,30 +533,30 @@ Questions in this section:
 
 |   Number of software developers per projects for World |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-------------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                    0   |      26 |     3.32907  |             1.91159  |                      1.41748    |
-|                                                    0.5 |       1 |     0.128041 |           nan        |                    nan          |
-|                                                    1   |     192 |    24.5839   |            31.4217   |                     -6.83788    |
-|                                                    1.2 |       1 |     0.128041 |           nan        |                    nan          |
-|                                                    1.5 |       2 |     0.256082 |             0.238949 |                      0.0171333  |
-|                                                    2   |     231 |    29.5775   |            29.8686   |                     -0.291113   |
-|                                                    2.5 |       1 |     0.128041 |             0.119474 |                      0.00856666 |
-|                                                    3   |     157 |    20.1024   |            15.5317   |                      4.57077    |
-|                                                    4   |      43 |     5.50576  |             6.09319  |                     -0.587428   |
-|                                                    5   |      53 |     6.78617  |             5.97372  |                      0.812456   |
-|                                                    6   |       9 |     1.15237  |             2.50896  |                     -1.35659    |
-|                                                    7   |       9 |     1.15237  |             0.716846 |                      0.435523   |
-|                                                    8   |       9 |     1.15237  |             0.83632  |                      0.316049   |
-|                                                    9   |       1 |     0.128041 |             0.238949 |                     -0.110908   |
-|                                                   10   |      23 |     2.94494  |             2.03106  |                      0.913879   |
-|                                                   12   |       2 |     0.256082 |             0.238949 |                      0.0171333  |
-|                                                   15   |       4 |     0.512164 |             0.477897 |                      0.0342666  |
-|                                                   18   |       1 |     0.128041 |           nan        |                    nan          |
-|                                                   20   |       8 |     1.02433  |             0.477897 |                      0.546431   |
-|                                                   30   |       2 |     0.256082 |             0.477897 |                     -0.221815   |
-|                                                   32   |       1 |     0.128041 |           nan        |                    nan          |
-|                                                   50   |       1 |     0.128041 |             0.119474 |                      0.00856666 |
-|                                                  100   |       3 |     0.384123 |             0.119474 |                      0.264649   |
-|                                                  200   |       1 |     0.128041 |           nan        |                    nan          |
+|                                                    0   |      26 |         3.29 |                 2.01 |                            1.28 |
+|                                                    0.5 |       1 |         0.13 |               nan    |                          nan    |
+|                                                    1   |     193 |        24.4  |                31.29 |                           -6.89 |
+|                                                    1.2 |       1 |         0.13 |               nan    |                          nan    |
+|                                                    1.5 |       2 |         0.25 |                 0.24 |                            0.02 |
+|                                                    2   |     231 |        29.2  |                29.75 |                           -0.55 |
+|                                                    2.5 |       1 |         0.13 |                 0.12 |                            0.01 |
+|                                                    3   |     160 |        20.23 |                15.82 |                            4.41 |
+|                                                    4   |      43 |         5.44 |                 6.02 |                           -0.59 |
+|                                                    5   |      56 |         7.08 |                 6.02 |                            1.06 |
+|                                                    6   |       9 |         1.14 |                 2.48 |                           -1.34 |
+|                                                    7   |      10 |         1.26 |                 0.71 |                            0.56 |
+|                                                    8   |       9 |         1.14 |                 0.83 |                            0.31 |
+|                                                    9   |       1 |         0.13 |                 0.24 |                           -0.11 |
+|                                                   10   |      24 |         3.03 |                 2.01 |                            1.03 |
+|                                                   12   |       2 |         0.25 |                 0.24 |                            0.02 |
+|                                                   15   |       5 |         0.63 |                 0.47 |                            0.16 |
+|                                                   18   |       1 |         0.13 |               nan    |                          nan    |
+|                                                   20   |       8 |         1.01 |                 0.47 |                            0.54 |
+|                                                   30   |       2 |         0.25 |                 0.47 |                           -0.22 |
+|                                                   32   |       1 |         0.13 |               nan    |                          nan    |
+|                                                   50   |       1 |         0.13 |                 0.12 |                            0.01 |
+|                                                  100   |       3 |         0.38 |                 0.12 |                            0.26 |
+|                                                  200   |       1 |         0.13 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-developers-per-projects_world.csv){: .button}
 
@@ -543,14 +566,14 @@ Questions in this section:
 
 | Number of time per year providing training for World (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:-------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                          |         197       |          38       |
-| mean                                                                           |           1.80203 |           2.07895 |
-| std                                                                            |           2.19145 |           2.70517 |
-| min                                                                            |           0       |           0       |
-| 25%                                                                            |           0       |           0       |
-| 50%                                                                            |           1       |           1       |
-| 75%                                                                            |           3       |           3       |
-| max                                                                            |          10       |          12       |
+| count                                                                          |            197    |             38    |
+| mean                                                                           |              1.8  |              2.08 |
+| std                                                                            |              2.19 |              2.71 |
+| min                                                                            |              0    |              0    |
+| 25%                                                                            |              0    |              0    |
+| 50%                                                                            |              1    |              1    |
+| 75%                                                                            |              3    |              3    |
+| max                                                                            |             10    |             12    |
 
 [Download CSV](/international-survey-2022/csv/training-frequency_world.csv){: .button}
 
@@ -582,11 +605,11 @@ Questions in the section:
 
 | Acknowledgment in paper for World        |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Not mentioned at all                     |     125 |     16.1708  |             20.9513  |                      -4.78054   |
-| Acknowledged in the main text            |      60 |      7.76197 |              8.04077 |                      -0.278804  |
-| Acknowledged in acknowledgements section |     125 |     16.1708  |             18.4598  |                      -2.28903   |
-| Named as co-author                       |     420 |     54.3338  |             46.8856  |                       7.44815   |
-| Named as main author                     |      43 |      5.56274 |              5.66251 |                      -0.0997716 |
+| Not mentioned at all                     |     126 |        16.09 |                20.85 |                           -4.76 |
+| Acknowledged in the main text            |      60 |         7.66 |                 8.07 |                           -0.41 |
+| Acknowledged in acknowledgements section |     128 |        16.35 |                18.39 |                           -2.04 |
+| Named as co-author                       |     426 |        54.41 |                47.09 |                            7.32 |
+| Named as main author                     |      43 |         5.49 |                 5.61 |                           -0.11 |
 
 [Download CSV](/international-survey-2022/csv/acknowledgment-in-paper_world.csv){: .button}
 
@@ -596,8 +619,8 @@ Questions in the section:
 
 | Did you participate in conference for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                           |     459 |      57.8815 |              56.3246 |                         1.55688 |
-| No                                            |     334 |      42.1185 |              43.6754 |                        -1.55688 |
+| Yes                                           |     464 |        57.71 |                56.01 |                             1.7 |
+| No                                            |     340 |        42.29 |                43.99 |                            -1.7 |
 
 [Download CSV](/international-survey-2022/csv/did-you-participate-in-conference_world.csv){: .button}
 
@@ -636,16 +659,16 @@ Questions in this section:
 
 | Open source use for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)             |     nan |    nan       |            nan       |                     nan         |
-| 2                           |      24 |      2.86738 |              3.96376 |                      -1.09638   |
-| 3                           |      29 |      3.46476 |              4.19026 |                      -0.725505  |
-| 4                           |      13 |      1.55317 |              2.26501 |                      -0.71184   |
-| 5                           |      39 |      4.6595  |              5.09626 |                      -0.436765  |
-| 6                           |      25 |      2.98686 |              3.05776 |                      -0.0708998 |
-| 7                           |      36 |      4.30108 |              5.54926 |                      -1.24819   |
-| 8                           |      91 |     10.8722  |              8.83352 |                       2.03864   |
-| 9                           |     100 |     11.9474  |             12.0045  |                      -0.0570987 |
-| 10 (All the time)           |     412 |     49.2234  |             43.0351  |                       6.18831   |
+| 1 (None at all)             |     nan |       nan    |               nan    |                          nan    |
+| 2                           |      24 |         2.83 |                 3.92 |                           -1.09 |
+| 3                           |      29 |         3.42 |                 4.14 |                           -0.72 |
+| 4                           |      13 |         1.53 |                 2.24 |                           -0.71 |
+| 5                           |      40 |         4.72 |                 5.04 |                           -0.32 |
+| 6                           |      25 |         2.95 |                 3.02 |                           -0.08 |
+| 7                           |      37 |         4.36 |                 5.49 |                           -1.12 |
+| 8                           |      92 |        10.85 |                 8.85 |                            2    |
+| 9                           |     102 |        12.03 |                11.87 |                            0.16 |
+| 10 (All the time)           |     417 |        49.17 |                43.45 |                            5.73 |
 
 [Download CSV](/international-survey-2022/csv/open-source-use_world.csv){: .button}
 
@@ -655,16 +678,16 @@ Questions in this section:
 
 | Citation of software for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                  |     nan |    nan       |            nan       |                      nan        |
-| 2                                |      27 |      3.86819 |              6.56852 |                       -2.70032  |
-| 3                                |      32 |      4.58453 |              5.88901 |                       -1.30449  |
-| 4                                |      28 |      4.01146 |              4.30351 |                       -0.292049 |
-| 5                                |      46 |      6.59026 |              9.62627 |                       -3.03602  |
-| 6                                |      26 |      3.72493 |              5.09626 |                       -1.37133  |
-| 7                                |      66 |      9.45559 |              6.34202 |                        3.11357  |
-| 8                                |      98 |     14.0401  |              9.73952 |                        4.30059  |
-| 9                                |      69 |      9.88539 |              5.77576 |                        4.10962  |
-| 10 (All the time)                |     248 |     35.5301  |             27.6331  |                        7.89702  |
+| 1 (None at all)                  |     nan |       nan    |               nan    |                          nan    |
+| 2                                |      27 |         3.82 |                 6.57 |                           -2.75 |
+| 3                                |      32 |         4.53 |                 5.89 |                           -1.36 |
+| 4                                |      28 |         3.96 |                 4.3  |                           -0.34 |
+| 5                                |      46 |         6.51 |                 9.63 |                           -3.12 |
+| 6                                |      27 |         3.82 |                 5.1  |                           -1.28 |
+| 7                                |      66 |         9.34 |                 6.34 |                            2.99 |
+| 8                                |      98 |        13.86 |                 9.74 |                            4.12 |
+| 9                                |      70 |         9.9  |                 5.78 |                            4.13 |
+| 10 (All the time)                |     253 |        35.79 |                27.63 |                            8.15 |
 
 [Download CSV](/international-survey-2022/csv/citation-of-software_world.csv){: .button}
 
@@ -674,16 +697,16 @@ Questions in this section:
 
 | Use of Digital Object Identifier for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                              |     nan |    nan       |            nan       |                      nan        |
-| 2                                            |      59 |      8.14917 |              6.68177 |                        1.4674   |
-| 3                                            |      53 |      7.32044 |              5.43601 |                        1.88443  |
-| 4                                            |      29 |      4.00552 |              3.39751 |                        0.608016 |
-| 5                                            |      63 |      8.70166 |              7.36127 |                        1.34039  |
-| 6                                            |      35 |      4.83425 |              3.62401 |                        1.21025  |
-| 7                                            |      43 |      5.93923 |              3.62401 |                        2.31522  |
-| 8                                            |      50 |      6.90608 |              3.05776 |                        3.84832  |
-| 9                                            |      34 |      4.69613 |              2.71801 |                        1.97813  |
-| 10 (All the time)                            |      86 |     11.8785  |              6.68177 |                        5.19669  |
+| 1 (None at all)                              |     nan |       nan    |               nan    |                          nan    |
+| 2                                            |      59 |         8.05 |                 6.68 |                            1.37 |
+| 3                                            |      54 |         7.37 |                 5.44 |                            1.93 |
+| 4                                            |      29 |         3.96 |                 3.4  |                            0.56 |
+| 5                                            |      66 |         9    |                 7.36 |                            1.64 |
+| 6                                            |      35 |         4.77 |                 3.62 |                            1.15 |
+| 7                                            |      43 |         5.87 |                 3.62 |                            2.24 |
+| 8                                            |      50 |         6.82 |                 3.06 |                            3.76 |
+| 9                                            |      34 |         4.64 |                 2.72 |                            1.92 |
+| 10 (All the time)                            |      88 |        12.01 |                 6.68 |                            5.32 |
 
 [Download CSV](/international-survey-2022/csv/use-of-digital-object-identifier_world.csv){: .button}
 
@@ -697,8 +720,8 @@ Questions in this section:
 
 | Using ORCID for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                     |     687 |      84.398  |              63.0485 |                        21.3495  |
-| No                      |      98 |      12.0393 |              15.0115 |                        -2.97224 |
+| Yes                     |     696 |        84.47 |                63.36 |                           21.11 |
+| No                      |      99 |        12.01 |                14.84 |                           -2.83 |
 
 [Download CSV](/international-survey-2022/csv/using-orcid_world.csv){: .button}
 
@@ -763,27 +786,27 @@ using for their most important project.
 
 |   Bus factor for World |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-----------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                 -1     |       1 |     0.11976  |           nan        |                     nan         |
-|                  0     |      31 |     3.71257  |             3.51474  |                       0.197836  |
-|                  1     |     441 |    52.8144   |            52.8345   |                      -0.0200959 |
-|                  1.3   |       1 |     0.11976  |           nan        |                     nan         |
-|                  1.5   |       5 |     0.598802 |             0.226757 |                       0.372045  |
-|                  2     |     221 |    26.4671   |            28.1179   |                      -1.65085   |
-|                  3     |      70 |     8.38323  |             8.04989  |                       0.333347  |
-|                  3.5   |       1 |     0.11976  |           nan        |                     nan         |
-|                  4     |      18 |     2.15569  |             3.28798  |                      -1.13229   |
-|                  5     |      21 |     2.51497  |             1.47392  |                       1.04105   |
-|                  6     |       4 |     0.479042 |             0.680272 |                      -0.20123   |
-|                  7     |       1 |     0.11976  |             0.453515 |                      -0.333754  |
-|                  8     |       2 |     0.239521 |             0.113379 |                       0.126142  |
-|                 10     |       8 |     0.958084 |             0.340136 |                       0.617948  |
-|                 18     |       1 |     0.11976  |           nan        |                     nan         |
-|                 20     |       2 |     0.239521 |             0.113379 |                       0.126142  |
-|                 50     |       2 |     0.239521 |             0.113379 |                       0.126142  |
-|                100     |       2 |     0.239521 |           nan        |                     nan         |
-|               1000     |       1 |     0.11976  |           nan        |                     nan         |
-|                  1e+10 |       1 |     0.11976  |           nan        |                     nan         |
-|                  1e+20 |       1 |     0.11976  |           nan        |                     nan         |
+|                 -1     |       1 |         0.12 |               nan    |                          nan    |
+|                  0     |      31 |         3.71 |                 3.51 |                            0.2  |
+|                  1     |     441 |        52.81 |                52.83 |                           -0.02 |
+|                  1.3   |       1 |         0.12 |               nan    |                          nan    |
+|                  1.5   |       5 |         0.6  |                 0.23 |                            0.37 |
+|                  2     |     221 |        26.47 |                28.12 |                           -1.65 |
+|                  3     |      70 |         8.38 |                 8.05 |                            0.33 |
+|                  3.5   |       1 |         0.12 |               nan    |                          nan    |
+|                  4     |      18 |         2.16 |                 3.29 |                           -1.13 |
+|                  5     |      21 |         2.51 |                 1.47 |                            1.04 |
+|                  6     |       4 |         0.48 |                 0.68 |                           -0.2  |
+|                  7     |       1 |         0.12 |                 0.45 |                           -0.33 |
+|                  8     |       2 |         0.24 |                 0.11 |                            0.13 |
+|                 10     |       8 |         0.96 |                 0.34 |                            0.62 |
+|                 18     |       1 |         0.12 |               nan    |                          nan    |
+|                 20     |       2 |         0.24 |                 0.11 |                            0.13 |
+|                 50     |       2 |         0.24 |                 0.11 |                            0.13 |
+|                100     |       2 |         0.24 |               nan    |                          nan    |
+|               1000     |       1 |         0.12 |               nan    |                          nan    |
+|                  1e+10 |       1 |         0.12 |               nan    |                          nan    |
+|                  1e+20 |       1 |         0.12 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/bus-factor_world.csv){: .button}
 
@@ -793,8 +816,8 @@ using for their most important project.
 
 | Presence of transition plan for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                     |     141 |       16.866 |              18.2333 |                        -1.36727 |
-| No                                      |     695 |       83.134 |              81.7667 |                         1.36727 |
+| Yes                                     |     145 |        17.12 |                18.25 |                           -1.13 |
+| No                                      |     702 |        82.88 |                81.75 |                            1.13 |
 
 [Download CSV](/international-survey-2022/csv/presence-of-transition-plan_world.csv){: .button}
 
@@ -804,11 +827,11 @@ using for their most important project.
 
 | Use of version control for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Git                                |     803 |    81.4402   |             82.7236  |                       -1.28341  |
-| SVN                                |      70 |     7.09939  |             22.4593  |                      -15.36     |
-| None                               |      30 |     3.0426   |              3.86179 |                       -0.819192 |
-| Mercurial                          |      10 |     1.0142   |              5.58943 |                       -4.57523  |
-| CVS                                |       9 |     0.912779 |              4.16667 |                       -3.25389  |
+| Git                                |     814 |        81.64 |                82.81 |                           -1.17 |
+| SVN                                |      70 |         7.02 |                22.41 |                          -15.39 |
+| None                               |      30 |         3.01 |                 3.82 |                           -0.81 |
+| Mercurial                          |      10 |         1    |                 5.53 |                           -4.52 |
+| CVS                                |       9 |         0.9  |                 4.12 |                           -3.22 |
 
 [Download CSV](/international-survey-2022/csv/use-of-version-control_world.csv){: .button}
 
@@ -818,12 +841,12 @@ using for their most important project.
 
 | Testing strategies for World                  |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No formal testing                             |     110 |     11.1562  |             10.9756  |                        0.180577 |
-| No formal testing but users provide feedback  |     236 |     23.9351  |             31.3008  |                       -7.36572  |
-| The developers do their own testing           |     592 |     60.0406  |             77.9472  |                      -17.9066   |
-| Test engineers conduct testing                |      33 |      3.34686 |              4.77642 |                       -1.42957  |
-| Automated testing with continuous integration |     494 |     50.1014  |              0       |                       50.1014   |
-| Don't know                                    |      10 |      1.0142  |              0       |                        1.0142   |
+| No formal testing                             |     111 |        11.13 |                10.85 |                            0.28 |
+| No formal testing but users provide feedback  |     238 |        23.87 |                31.06 |                           -7.18 |
+| The developers do their own testing           |     599 |        60.08 |                77.99 |                          -17.91 |
+| Test engineers conduct testing                |      34 |         3.41 |                 4.82 |                           -1.41 |
+| Automated testing with continuous integration |     502 |        50.35 |                 0    |                           50.35 |
+| Don't know                                    |      10 |         1    |                 0    |                            1    |
 
 [Download CSV](/international-survey-2022/csv/testing-strategies_world.csv){: .button}
 
@@ -850,41 +873,41 @@ Questions in this section:
 
 | Programming languages for World                                                     |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Python                                                                              |     697 |    70.6897   |            70.7317   |                      -0.0420521 |
-| C++                                                                                 |     297 |    30.1217   |            34.7561   |                      -4.63439   |
-| R                                                                                   |     267 |    27.0791   |            26.7276   |                       0.351465  |
-| JavaScript                                                                          |     241 |    24.4422   |            26.9309   |                      -2.4887    |
-| SQL                                                                                 |     217 |    22.0081   |            26.9309   |                      -4.92278   |
-| C                                                                                   |     191 |    19.3712   |            28.6585   |                      -9.28734   |
-| Fortran                                                                             |     168 |    17.0385   |            19.6138   |                      -2.57528   |
-| Java                                                                                |     143 |    14.503    |            20.3252   |                      -5.82216   |
-| Matlab                                                                              |     130 |    13.1846   |            17.0732   |                      -3.88859   |
-| other. What programming languages do you use at work? Please select all that apply. |     110 |    11.1562   |             0        |                      11.1562    |
-| PHP                                                                                 |      73 |     7.40365  |             8.63821  |                      -1.23456   |
-| Perl                                                                                |      68 |     6.89655  |             9.04472  |                      -2.14816   |
-| TypeScript                                                                          |      62 |     6.28803  |             3.25203  |                       3.036     |
-| Julia                                                                               |      62 |     6.28803  |             3.45528  |                       2.83275   |
-| C#                                                                                  |      41 |     4.15822  |             7.4187   |                      -3.26048   |
-| Rust                                                                                |      27 |     2.73834  |             1.82927  |                       0.909068  |
-| Ruby                                                                                |      27 |     2.73834  |             2.94715  |                      -0.208818  |
-| Go                                                                                  |      21 |     2.12982  |             2.13415  |                      -0.0043289 |
-| Scala                                                                               |      14 |     1.41988  |             1.62602  |                      -0.206138  |
-| Lua                                                                                 |      13 |     1.31846  |             1.21951  |                       0.0989462 |
-| Groovy                                                                              |      12 |     1.21704  |             1.72764  |                      -0.510604  |
-| Assembly                                                                            |      12 |     1.21704  |             2.03252  |                      -0.815482  |
-| Haskell                                                                             |       9 |     0.912779 |             0.406504 |                       0.506275  |
-| Common Lisp                                                                         |       9 |     0.912779 |             0.50813  |                       0.404649  |
-| VBA                                                                                 |       9 |     0.912779 |             2.7439   |                      -1.83112   |
-| Objective-C                                                                         |       7 |     0.709939 |             0.406504 |                       0.303435  |
-| Swift                                                                               |       7 |     0.709939 |             0.50813  |                       0.201809  |
-| VB.NET                                                                              |       6 |     0.608519 |             0.914634 |                      -0.306115  |
-| Visual Basic                                                                        |       6 |     0.608519 |             1.32114  |                      -0.712619  |
-| F#                                                                                  |       4 |     0.40568  |             0.101626 |                       0.304053  |
-| Dart                                                                                |       3 |     0.30426  |             0        |                       0.30426   |
-| Clojure                                                                             |       2 |     0.20284  |             0.406504 |                      -0.203664  |
-| CoffeeScript                                                                        |       1 |     0.10142  |             0.711382 |                      -0.609962  |
-| Elixir                                                                              |       1 |     0.10142  |             0.203252 |                      -0.101832  |
-| Erlang                                                                              |       0 |     0        |             0.304878 |                      -0.304878  |
+| Python                                                                              |     708 |        71.01 |                70.65 |                            0.36 |
+| C++                                                                                 |     301 |        30.19 |                34.87 |                           -4.68 |
+| R                                                                                   |     269 |        26.98 |                26.93 |                            0.05 |
+| JavaScript                                                                          |     246 |        24.67 |                26.73 |                           -2.06 |
+| SQL                                                                                 |     220 |        22.07 |                26.73 |                           -4.67 |
+| C                                                                                   |     193 |        19.36 |                28.64 |                           -9.29 |
+| Fortran                                                                             |     170 |        17.05 |                19.6  |                           -2.55 |
+| Java                                                                                |     143 |        14.34 |                20.1  |                           -5.76 |
+| Matlab                                                                              |     130 |        13.04 |                16.88 |                           -3.85 |
+| other. What programming languages do you use at work? Please select all that apply. |     111 |        11.13 |                 0    |                           11.13 |
+| PHP                                                                                 |      77 |         7.72 |                 8.54 |                           -0.82 |
+| Perl                                                                                |      68 |         6.82 |                 9.05 |                           -2.22 |
+| Julia                                                                               |      65 |         6.52 |                 3.52 |                            3    |
+| TypeScript                                                                          |      63 |         6.32 |                 3.22 |                            3.1  |
+| C#                                                                                  |      41 |         4.11 |                 7.34 |                           -3.22 |
+| Ruby                                                                                |      29 |         2.91 |                 2.91 |                           -0.01 |
+| Rust                                                                                |      27 |         2.71 |                 1.81 |                            0.9  |
+| Go                                                                                  |      21 |         2.11 |                 2.11 |                           -0    |
+| Scala                                                                               |      14 |         1.4  |                 1.61 |                           -0.2  |
+| Lua                                                                                 |      13 |         1.3  |                 1.21 |                            0.1  |
+| Assembly                                                                            |      13 |         1.3  |                 2.01 |                           -0.71 |
+| Groovy                                                                              |      12 |         1.2  |                 1.71 |                           -0.5  |
+| Haskell                                                                             |       9 |         0.9  |                 0.5  |                            0.4  |
+| Common Lisp                                                                         |       9 |         0.9  |                 0.5  |                            0.4  |
+| VBA                                                                                 |       9 |         0.9  |                 2.71 |                           -1.81 |
+| Objective-C                                                                         |       7 |         0.7  |                 0.4  |                            0.3  |
+| Swift                                                                               |       7 |         0.7  |                 0.5  |                            0.2  |
+| VB.NET                                                                              |       6 |         0.6  |                 0.9  |                           -0.3  |
+| Visual Basic                                                                        |       6 |         0.6  |                 1.31 |                           -0.7  |
+| F#                                                                                  |       4 |         0.4  |                 0.1  |                            0.3  |
+| Dart                                                                                |       3 |         0.3  |                 0    |                            0.3  |
+| Clojure                                                                             |       2 |         0.2  |                 0.4  |                           -0.2  |
+| CoffeeScript                                                                        |       1 |         0.1  |                 0.7  |                           -0.6  |
+| Elixir                                                                              |       1 |         0.1  |                 0.2  |                           -0.1  |
+| Erlang                                                                              |       0 |         0    |                 0.3  |                           -0.3  |
 
 [Download CSV](/international-survey-2022/csv/programming-languages_world.csv){: .button}
 
@@ -894,10 +917,10 @@ Questions in this section:
 
 | Operating systems for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| GNU/Linux                     |     503 |     63.191   |             61.7299  |                       1.4611    |
-| macOS                         |     167 |     20.9799  |            nan       |                     nan         |
-| Windows                       |     118 |     14.8241  |             20.6161  |                      -5.79199   |
-| Other                         |       8 |      1.00503 |              1.06635 |                      -0.0613256 |
+| GNU/Linux                     |     509 |        63.15 |                61.55 |                            1.6  |
+| macOS                         |     169 |        20.97 |               nan    |                          nan    |
+| Windows                       |     120 |        14.89 |                20.52 |                           -5.63 |
+| Other                         |       8 |         0.99 |                 1.06 |                           -0.06 |
 
 [Download CSV](/international-survey-2022/csv/operating-systems_world.csv){: .button}
 
@@ -1022,8 +1045,8 @@ and to acquire for their current role.
 
 | RSE Member for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                    |     329 |      42.9504 |              21.3499 |                         21.6005 |
-| No                     |     437 |      57.0496 |              78.6501 |                        -21.6005 |
+| Yes                    |     331 |        42.71 |                21.12 |                           21.59 |
+| No                     |     444 |        57.29 |                78.88 |                          -21.59 |
 
 [Download CSV](/international-survey-2022/csv/rse-member_world.csv){: .button}
 
@@ -1033,8 +1056,8 @@ and to acquire for their current role.
 
 | Joining a RSE/RSD association for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                       |     224 |      63.8177 |              70.4348 |                        -6.61712 |
-| No                                        |     127 |      36.1823 |              29.5652 |                         6.61712 |
+| Yes                                       |     231 |        64.53 |                70.66 |                           -6.14 |
+| No                                        |     127 |        35.47 |                29.34 |                            6.14 |
 
 [Download CSV](/international-survey-2022/csv/joining-a-rse-rsd-association_world.csv){: .button}
 
@@ -1044,12 +1067,12 @@ and to acquire for their current role.
 
 | What is important for such an organisation for World                                  |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Networking                                                                            |     483 |     48.9858  |              27.1341 |                        21.8517  |
-| Research software standards and interoperability definition                           |     351 |     35.5984  |              23.9837 |                        11.6146  |
-| Job opportunities                                                                     |     315 |     31.9473  |              20.3252 |                        11.6221  |
-| Training                                                                              |     307 |     31.1359  |              22.0528 |                         9.08306 |
-| Research collaborations                                                               |     269 |     27.2819  |              21.4431 |                         5.83886 |
-| other. What would you hope to get out of such an organisation (check all that apply)? |      47 |      4.76673 |               0      |                         4.76673 |
+| Networking                                                                            |     492 |        49.35 |                27.44 |                           21.91 |
+| Research software standards and interoperability definition                           |     359 |        36.01 |                24.02 |                           11.99 |
+| Job opportunities                                                                     |     319 |        32    |                20.4  |                           11.59 |
+| Training                                                                              |     313 |        31.39 |                22.11 |                            9.28 |
+| Research collaborations                                                               |     274 |        27.48 |                21.71 |                            5.77 |
+| other. What would you hope to get out of such an organisation (check all that apply)? |      48 |         4.81 |                 0    |                            4.81 |
 
 [Download CSV](/international-survey-2022/csv/what-is-important-for-such-an-organisation_world.csv){: .button}
 
@@ -1059,8 +1082,8 @@ and to acquire for their current role.
 
 | Attending a national conference of RSE/RSD for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                    |     620 |      86.7133 |              81.6167 |                          5.0966 |
-| No                                                     |      95 |      13.2867 |              18.3833 |                         -5.0966 |
+| Yes                                                    |     628 |        86.62 |                81.42 |                             5.2 |
+| No                                                     |      97 |        13.38 |                18.58 |                            -5.2 |
 
 [Download CSV](/international-survey-2022/csv/attending-a-national-conference-of-rse-rsd_world.csv){: .button}
 

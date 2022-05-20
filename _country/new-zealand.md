@@ -29,11 +29,11 @@ selected at least one option.
 
 | Highest level of education for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Doctorate                                    |      12 |     42.8571  |              37.8378 |                        5.01931  |
-| Master degree                                |       8 |     28.5714  |              27.027  |                        1.5444   |
-| Undergraduate degree                         |       5 |     17.8571  |              27.027  |                       -9.16988  |
-| Further Education                            |       2 |      7.14286 |             nan      |                      nan        |
-| Other                                        |       1 |      3.57143 |               2.7027 |                        0.868726 |
+| Doctorate                                    |      12 |        42.86 |                37.84 |                            5.02 |
+| Master degree                                |       8 |        28.57 |                27.03 |                            1.54 |
+| Undergraduate degree                         |       5 |        17.86 |                27.03 |                           -9.17 |
+| Further Education                            |       2 |         7.14 |               nan    |                          nan    |
+| Other                                        |       1 |         3.57 |                 2.7  |                            0.87 |
 
 [Download CSV](/international-survey-2022/csv/education_level_new-zealand.csv){: .button}
 
@@ -48,17 +48,17 @@ despite lot of overlapping in the categories.
 
 | Field of education for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Mathematics                          |       5 |     17.8571  |             10.8108  |                        7.04633  |
-| Physics and Astronomy                |       5 |     17.8571  |             10.8108  |                        7.04633  |
-| Biological Sciences                  |       5 |     17.8571  |             18.9189  |                       -1.06178  |
-| Electrical &amp; Electronic Engineering  |       3 |     10.7143  |              5.40541 |                        5.30888  |
-| Computer Science                     |       3 |     10.7143  |             29.7297  |                      -19.0154   |
-| Geography &amp; Environmental Sciences   |       2 |      7.14286 |              2.7027  |                        4.44015  |
-| Linguistics                          |       1 |      3.57143 |            nan       |                      nan        |
-| General Engineering                  |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| Agriculture &amp; Forestry               |       1 |      3.57143 |            nan       |                      nan        |
-| Classics &amp; Ancient History           |       1 |      3.57143 |            nan       |                      nan        |
-| Mechanical Engineering               |       1 |      3.57143 |              5.40541 |                       -1.83398  |
+| Mathematics                          |       5 |        17.86 |                10.81 |                            7.05 |
+| Physics and Astronomy                |       5 |        17.86 |                10.81 |                            7.05 |
+| Biological Sciences                  |       5 |        17.86 |                18.92 |                           -1.06 |
+| Electrical &amp; Electronic Engineering  |       3 |        10.71 |                 5.41 |                            5.31 |
+| Computer Science                     |       3 |        10.71 |                29.73 |                          -19.02 |
+| Geography &amp; Environmental Sciences   |       2 |         7.14 |                 2.7  |                            4.44 |
+| Linguistics                          |       1 |         3.57 |               nan    |                          nan    |
+| General Engineering                  |       1 |         3.57 |                 2.7  |                            0.87 |
+| Agriculture &amp; Forestry               |       1 |         3.57 |               nan    |                          nan    |
+| Classics &amp; Ancient History           |       1 |         3.57 |               nan    |                          nan    |
+| Mechanical Engineering               |       1 |         3.57 |                 5.41 |                           -1.83 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_edu_new-zealand.csv){: .button}
 
@@ -71,41 +71,41 @@ despite lot of overlapping in the categories.
 
 | field of work for New Zealand            |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Biological Sciences                      |      15 |     53.5714  |             27.027   |                       26.5444   |
-| Computer Science                         |      10 |     35.7143  |             45.9459  |                      -10.2317   |
-| Mathematics                              |       9 |     32.1429  |             18.9189  |                       13.2239   |
-| Physics and Astronomy                    |       8 |     28.5714  |             24.3243  |                        4.2471   |
-| Geography &amp; Environmental Sciences       |       8 |     28.5714  |             40.5405  |                      -11.9691   |
-| General Engineering                      |       4 |     14.2857  |             10.8108  |                        3.4749   |
-| Chemistry                                |       3 |     10.7143  |              8.10811 |                        2.60618  |
-| Agriculture &amp; Forestry                   |       3 |     10.7143  |              8.10811 |                        2.60618  |
-| Linguistics                              |       2 |      7.14286 |              5.40541 |                        1.73745  |
-| Business &amp; Management Studies            |       2 |      7.14286 |              0       |                        7.14286  |
-| Civil Engineering                        |       2 |      7.14286 |             13.5135  |                       -6.37066  |
-| Aeronautical &amp; Manufacturing Engineering |       2 |      7.14286 |              5.40541 |                        1.73745  |
-| Geology                                  |       2 |      7.14286 |              8.10811 |                       -0.965251 |
-| Food Science                             |       2 |      7.14286 |              0       |                        7.14286  |
-| Criminology                              |       2 |      7.14286 |              0       |                        7.14286  |
-| Materials Technology                     |       2 |      7.14286 |              8.10811 |                       -0.965251 |
-| Electrical &amp; Electronic Engineering      |       1 |      3.57143 |             10.8108  |                       -7.23938  |
-| Economics                                |       1 |      3.57143 |              0       |                        3.57143  |
-| Mechanical Engineering                   |       1 |      3.57143 |             10.8108  |                       -7.23938  |
-| Medicine                                 |       1 |      3.57143 |              5.40541 |                       -1.83398  |
-| Psychology                               |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| Education                                |       1 |      3.57143 |              5.40541 |                       -1.83398  |
-| Robotics                                 |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| Dentistry                                |       1 |      3.57143 |              0       |                        3.57143  |
-| Anatomy &amp; Physiology                     |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| Chemical Engineering                     |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| Complementary Medicine                   |       1 |      3.57143 |              0       |                        3.57143  |
-| Communication &amp; Media Studies            |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| Classics &amp; Ancient History               |       1 |      3.57143 |              0       |                        3.57143  |
-| Social Work                              |       0 |      0       |              2.7027  |                       -2.7027   |
-| History                                  |       0 |      0       |              2.7027  |                       -2.7027   |
-| Art &amp; Design                             |       0 |      0       |              2.7027  |                       -2.7027   |
-| Anthropology                             |       0 |      0       |              2.7027  |                       -2.7027   |
-| Accounting &amp; Finance                     |       0 |      0       |              2.7027  |                       -2.7027   |
-| Youth Work                               |       0 |      0       |              2.7027  |                       -2.7027   |
+| Biological Sciences                      |      15 |        53.57 |                27.03 |                           26.54 |
+| Computer Science                         |      10 |        35.71 |                45.95 |                          -10.23 |
+| Mathematics                              |       9 |        32.14 |                18.92 |                           13.22 |
+| Physics and Astronomy                    |       8 |        28.57 |                24.32 |                            4.25 |
+| Geography &amp; Environmental Sciences       |       8 |        28.57 |                40.54 |                          -11.97 |
+| General Engineering                      |       4 |        14.29 |                10.81 |                            3.47 |
+| Chemistry                                |       3 |        10.71 |                 8.11 |                            2.61 |
+| Agriculture &amp; Forestry                   |       3 |        10.71 |                 8.11 |                            2.61 |
+| Linguistics                              |       2 |         7.14 |                 5.41 |                            1.74 |
+| Business &amp; Management Studies            |       2 |         7.14 |                 0    |                            7.14 |
+| Civil Engineering                        |       2 |         7.14 |                13.51 |                           -6.37 |
+| Aeronautical &amp; Manufacturing Engineering |       2 |         7.14 |                 5.41 |                            1.74 |
+| Geology                                  |       2 |         7.14 |                 8.11 |                           -0.97 |
+| Food Science                             |       2 |         7.14 |                 0    |                            7.14 |
+| Criminology                              |       2 |         7.14 |                 0    |                            7.14 |
+| Materials Technology                     |       2 |         7.14 |                 8.11 |                           -0.97 |
+| Electrical &amp; Electronic Engineering      |       1 |         3.57 |                10.81 |                           -7.24 |
+| Economics                                |       1 |         3.57 |                 0    |                            3.57 |
+| Mechanical Engineering                   |       1 |         3.57 |                10.81 |                           -7.24 |
+| Medicine                                 |       1 |         3.57 |                 5.41 |                           -1.83 |
+| Psychology                               |       1 |         3.57 |                 2.7  |                            0.87 |
+| Education                                |       1 |         3.57 |                 5.41 |                           -1.83 |
+| Robotics                                 |       1 |         3.57 |                 2.7  |                            0.87 |
+| Dentistry                                |       1 |         3.57 |                 0    |                            3.57 |
+| Anatomy &amp; Physiology                     |       1 |         3.57 |                 2.7  |                            0.87 |
+| Chemical Engineering                     |       1 |         3.57 |                 2.7  |                            0.87 |
+| Complementary Medicine                   |       1 |         3.57 |                 0    |                            3.57 |
+| Communication &amp; Media Studies            |       1 |         3.57 |                 2.7  |                            0.87 |
+| Classics &amp; Ancient History               |       1 |         3.57 |                 0    |                            3.57 |
+| Social Work                              |       0 |         0    |                 2.7  |                           -2.7  |
+| History                                  |       0 |         0    |                 2.7  |                           -2.7  |
+| Art &amp; Design                             |       0 |         0    |                 2.7  |                           -2.7  |
+| Anthropology                             |       0 |         0    |                 2.7  |                           -2.7  |
+| Accounting &amp; Finance                     |       0 |         0    |                 2.7  |                           -2.7  |
+| Youth Work                               |       0 |         0    |                 2.7  |                           -2.7  |
 
 [Download CSV](/international-survey-2022/csv/academic_field_work_new-zealand.csv){: .button}
 
@@ -129,8 +129,8 @@ Questions in this section:
 
 | Professional developer for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                      |      15 |      53.5714 |              66.6667 |                        -13.0952 |
-| No                                       |      13 |      46.4286 |              33.3333 |                         13.0952 |
+| Yes                                      |      15 |        53.57 |                66.67 |                           -13.1 |
+| No                                       |      13 |        46.43 |                33.33 |                            13.1 |
 
 [Download CSV](/international-survey-2022/csv/proportion-professional-developer_new-zealand.csv){: .button}
 
@@ -140,14 +140,14 @@ Questions in this section:
 
 | How many years of software development experience for New Zealand (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:--------------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                       |           16      |          35       |
-| mean                                                                                        |            5.5    |          14.5143  |
-| std                                                                                         |            3.7238 |           9.74792 |
-| min                                                                                         |            1      |           1       |
-| 25%                                                                                         |            3      |           5.5     |
-| 50%                                                                                         |            4      |          15       |
-| 75%                                                                                         |            7.75   |          21       |
-| max                                                                                         |           12      |          30       |
+| count                                                                                       |             16    |             35    |
+| mean                                                                                        |              5.5  |             14.51 |
+| std                                                                                         |              3.72 |              9.75 |
+| min                                                                                         |              1    |              1    |
+| 25%                                                                                         |              3    |              5.5  |
+| 50%                                                                                         |              4    |             15    |
+| 75%                                                                                         |              7.75 |             21    |
+| max                                                                                         |             12    |             30    |
 
 [Download CSV](/international-survey-2022/csv/summary-years-professional-developer_new-zealand.csv){: .button}
 
@@ -227,11 +227,11 @@ position among 8 different ones:
 
 | Where the previous job was based for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| University                                         |      12 |           48 |              40      |                         8       |
-| Government                                         |       5 |           20 |              14.2857 |                         5.71429 |
-| Non-profit organization                            |       4 |           16 |              11.4286 |                         4.57143 |
-| Private company                                    |       3 |           12 |              22.8571 |                       -10.8571  |
-| This is my first job                               |       1 |            4 |             nan      |                       nan       |
+| University                                         |      12 |           48 |                40    |                            8    |
+| Government                                         |       5 |           20 |                14.29 |                            5.71 |
+| Non-profit organization                            |       4 |           16 |                11.43 |                            4.57 |
+| Private company                                    |       3 |           12 |                22.86 |                          -10.86 |
+| This is my first job                               |       1 |            4 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/where-previous-job-based_new-zealand.csv){: .button}
 
@@ -239,17 +239,17 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |   Rank 1 |    Rank 2 |   Rank 3 |    Rank 4 |    Rank 5 |
-|:-----------------------------------------|---------:|----------:|---------:|----------:|----------:|
-| Desire to advance research               | 19.2308  |  11.5385  | 19.2308  |   4.16667 |   4.54545 |
-| Desire to work in a research environment | 15.3846  |  19.2308  | 19.2308  |   4.16667 | nan       |
-| Flexible working hours                   | 11.5385  |   3.84615 | 11.5385  |   4.16667 |  31.8182  |
-| Freedom to choose own working practices  | 11.5385  |  26.9231  | 11.5385  |  12.5     |  18.1818  |
-| I want to learn new skills               | 11.5385  |   7.69231 | 11.5385  |  20.8333  |  22.7273  |
-| Opportunity to develop software          | 11.5385  |  19.2308  |  7.69231 |   8.33333 |   9.09091 |
-| The salary                               | 11.5385  | nan       |  7.69231 | nan       |   4.54545 |
-| Ability to work across disciplines       |  3.84615 | nan       |  7.69231 |  33.3333  |   9.09091 |
-| Opportunity for career advancement       |  3.84615 |  11.5385  |  3.84615 |  12.5     | nan       |
+| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
+|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
+| Desire to advance research               |    19.23 |    11.54 |    19.23 |     4.17 |     4.55 |
+| Desire to work in a research environment |    15.38 |    19.23 |    19.23 |     4.17 |   nan    |
+| Flexible working hours                   |    11.54 |     3.85 |    11.54 |     4.17 |    31.82 |
+| Freedom to choose own working practices  |    11.54 |    26.92 |    11.54 |    12.5  |    18.18 |
+| I want to learn new skills               |    11.54 |     7.69 |    11.54 |    20.83 |    22.73 |
+| Opportunity to develop software          |    11.54 |    19.23 |     7.69 |     8.33 |     9.09 |
+| The salary                               |    11.54 |   nan    |     7.69 |   nan    |     4.55 |
+| Ability to work across disciplines       |     3.85 |   nan    |     7.69 |    33.33 |     9.09 |
+| Opportunity for career advancement       |     3.85 |    11.54 |     3.85 |    12.5  |   nan    |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_new-zealand.csv){: .button}
 
@@ -275,12 +275,12 @@ Questions in this section:
 
 | developing code for others for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 0 - Mostly me                                |       2 |      7.69231 |              2.7027  |                        4.9896   |
-| 1                                            |       1 |      3.84615 |              8.10811 |                       -4.26195  |
-| 2                                            |       4 |     15.3846  |             16.2162  |                       -0.831601 |
-| 3                                            |       6 |     23.0769  |             24.3243  |                       -1.2474   |
-| 4                                            |       5 |     19.2308  |             16.2162  |                        3.01455  |
-| 5 - Mostly other people                      |       8 |     30.7692  |             32.4324  |                       -1.6632   |
+| 0 - Mostly me                                |       2 |         7.69 |                 2.7  |                            4.99 |
+| 1                                            |       1 |         3.85 |                 8.11 |                           -4.26 |
+| 2                                            |       4 |        15.38 |                16.22 |                           -0.83 |
+| 3                                            |       6 |        23.08 |                24.32 |                           -1.25 |
+| 4                                            |       5 |        19.23 |                16.22 |                            3.01 |
+| 5 - Mostly other people                      |       8 |        30.77 |                32.43 |                           -1.66 |
 
 [Download CSV](/international-survey-2022/csv/developing-code-for-others_new-zealand.csv){: .button}
 
@@ -290,9 +290,9 @@ Questions in this section:
 
 | Working with same researchers for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Different researchers, same research group      |       6 |      23.0769 |              8.82353 |                        14.2534  |
-| Regularly change researcher(s)                  |      13 |      50      |             41.1765  |                         8.82353 |
-| Same researcher(s)                              |       7 |      26.9231 |             50       |                       -23.0769  |
+| Different researchers, same research group      |       6 |        23.08 |                 8.82 |                           14.25 |
+| Regularly change researcher(s)                  |      13 |        50    |                41.18 |                            8.82 |
+| Same researcher(s)                              |       7 |        26.92 |                50    |                          -23.08 |
 
 [Download CSV](/international-survey-2022/csv/working-with-same-researchers_new-zealand.csv){: .button}
 
@@ -302,8 +302,8 @@ Questions in this section:
 
 | member of a dedicated group for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No                                            |      19 |      73.0769 |              58.8235 |                         14.2534 |
-| Yes                                           |       7 |      26.9231 |              41.1765 |                        -14.2534 |
+| No                                            |      19 |        73.08 |                58.82 |                           14.25 |
+| Yes                                           |       7 |        26.92 |                41.18 |                          -14.25 |
 
 [Download CSV](/international-survey-2022/csv/member-of-a-dedicated-group_new-zealand.csv){: .button}
 
@@ -313,15 +313,15 @@ Questions in this section:
 
 |   Number of software projects for New Zealand |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |----------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                             0 |       1 |      3.84615 |                3.125 |                        0.721154 |
-|                                             1 |       1 |      3.84615 |                9.375 |                       -5.52885  |
-|                                             2 |       6 |     23.0769  |               21.875 |                        1.20192  |
-|                                             3 |       7 |     26.9231  |               31.25  |                       -4.32692  |
-|                                             5 |       6 |     23.0769  |               21.875 |                        1.20192  |
-|                                             6 |       2 |      7.69231 |                6.25  |                        1.44231  |
-|                                             7 |       1 |      3.84615 |              nan     |                      nan        |
-|                                            10 |       1 |      3.84615 |              nan     |                      nan        |
-|                                            15 |       1 |      3.84615 |              nan     |                      nan        |
+|                                             0 |       1 |         3.85 |                 3.12 |                            0.72 |
+|                                             1 |       1 |         3.85 |                 9.38 |                           -5.53 |
+|                                             2 |       6 |        23.08 |                21.88 |                            1.2  |
+|                                             3 |       7 |        26.92 |                31.25 |                           -4.33 |
+|                                             5 |       6 |        23.08 |                21.88 |                            1.2  |
+|                                             6 |       2 |         7.69 |                 6.25 |                            1.44 |
+|                                             7 |       1 |         3.85 |               nan    |                          nan    |
+|                                            10 |       1 |         3.85 |               nan    |                          nan    |
+|                                            15 |       1 |         3.85 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_new-zealand.csv){: .button}
 
@@ -329,12 +329,12 @@ Questions in this section:
 
 |   Number of software developers per projects for New Zealand |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-------------------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                            0 |       1 |      3.84615 |             nan      |                       nan       |
-|                                                            1 |       9 |     34.6154  |              39.3939 |                        -4.77855 |
-|                                                            2 |       9 |     34.6154  |              45.4545 |                       -10.8392  |
-|                                                            3 |       5 |     19.2308  |               3.0303 |                        16.2005  |
-|                                                            4 |       1 |      3.84615 |             nan      |                       nan       |
-|                                                           20 |       1 |      3.84615 |             nan      |                       nan       |
+|                                                            0 |       1 |         3.85 |               nan    |                          nan    |
+|                                                            1 |       9 |        34.62 |                39.39 |                           -4.78 |
+|                                                            2 |       9 |        34.62 |                45.45 |                          -10.84 |
+|                                                            3 |       5 |        19.23 |                 3.03 |                           16.2  |
+|                                                            4 |       1 |         3.85 |               nan    |                          nan    |
+|                                                           20 |       1 |         3.85 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-developers-per-projects_new-zealand.csv){: .button}
 
@@ -344,14 +344,14 @@ Questions in this section:
 
 | Number of time per year providing training for New Zealand (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:-------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                |          24       |          32       |
-| mean                                                                                 |           1.39583 |           1.07812 |
-| std                                                                                  |           1.56719 |           1.23203 |
-| min                                                                                  |           0       |           0       |
-| 25%                                                                                  |           0       |           0       |
-| 50%                                                                                  |           1       |           1       |
-| 75%                                                                                  |           2       |           2       |
-| max                                                                                  |           5       |           5       |
+| count                                                                                |             24    |             32    |
+| mean                                                                                 |              1.4  |              1.08 |
+| std                                                                                  |              1.57 |              1.23 |
+| min                                                                                  |              0    |              0    |
+| 25%                                                                                  |              0    |              0    |
+| 50%                                                                                  |              1    |              1    |
+| 75%                                                                                  |              2    |              2    |
+| max                                                                                  |              5    |              5    |
 
 [Download CSV](/international-survey-2022/csv/training-frequency_new-zealand.csv){: .button}
 
@@ -383,11 +383,11 @@ Questions in the section:
 
 | Acknowledgment in paper for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Not mentioned at all                      |       1 |      4.16667 |             17.6471  |                      -13.4804   |
-| Acknowledged in the main text             |       2 |      8.33333 |              8.82353 |                       -0.490196 |
-| Acknowledged in acknowledgements section  |       6 |     25       |             20.5882  |                        4.41176  |
-| Named as co-author                        |      15 |     62.5     |             44.1176  |                       18.3824   |
-| Named as main author                      |     nan |    nan       |            nan       |                      nan        |
+| Not mentioned at all                      |       1 |         4.17 |                17.65 |                          -13.48 |
+| Acknowledged in the main text             |       2 |         8.33 |                 8.82 |                           -0.49 |
+| Acknowledged in acknowledgements section  |       6 |        25    |                20.59 |                            4.41 |
+| Named as co-author                        |      15 |        62.5  |                44.12 |                           18.38 |
+| Named as main author                      |     nan |       nan    |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/acknowledgment-in-paper_new-zealand.csv){: .button}
 
@@ -397,8 +397,8 @@ Questions in the section:
 
 | Did you participate in conference for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                 |      13 |      54.1667 |                56.25 |                        -2.08333 |
-| No                                                  |      11 |      45.8333 |                43.75 |                         2.08333 |
+| Yes                                                 |      13 |        54.17 |                56.25 |                           -2.08 |
+| No                                                  |      11 |        45.83 |                43.75 |                            2.08 |
 
 [Download CSV](/international-survey-2022/csv/did-you-participate-in-conference_new-zealand.csv){: .button}
 
@@ -437,16 +437,16 @@ Questions in this section:
 
 | Open source use for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                   |     nan |    nan       |            nan       |                      nan        |
-| 2                                 |     nan |    nan       |            nan       |                      nan        |
-| 3                                 |       1 |      3.84615 |              2.94118 |                        0.904977 |
-| 4                                 |       1 |      3.84615 |            nan       |                      nan        |
-| 5                                 |       3 |     11.5385  |              2.94118 |                        8.59729  |
-| 6                                 |       1 |      3.84615 |              5.88235 |                       -2.0362   |
-| 7                                 |     nan |    nan       |            nan       |                      nan        |
-| 8                                 |       2 |      7.69231 |              5.88235 |                        1.80995  |
-| 9                                 |       5 |     19.2308  |             14.7059  |                        4.52489  |
-| 10 (All the time)                 |      13 |     50       |             50       |                        0        |
+| 1 (None at all)                   |     nan |       nan    |               nan    |                          nan    |
+| 2                                 |     nan |       nan    |               nan    |                          nan    |
+| 3                                 |       1 |         3.85 |                 2.94 |                            0.9  |
+| 4                                 |       1 |         3.85 |               nan    |                          nan    |
+| 5                                 |       3 |        11.54 |                 2.94 |                            8.6  |
+| 6                                 |       1 |         3.85 |                 5.88 |                           -2.04 |
+| 7                                 |     nan |       nan    |               nan    |                          nan    |
+| 8                                 |       2 |         7.69 |                 5.88 |                            1.81 |
+| 9                                 |       5 |        19.23 |                14.71 |                            4.52 |
+| 10 (All the time)                 |      13 |        50    |                50    |                            0    |
 
 [Download CSV](/international-survey-2022/csv/open-source-use_new-zealand.csv){: .button}
 
@@ -456,16 +456,16 @@ Questions in this section:
 
 | Citation of software for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                        |     nan |    nan       |            nan       |                       nan       |
-| 2                                      |     nan |    nan       |            nan       |                       nan       |
-| 3                                      |       1 |      4.7619  |             11.7647  |                        -7.0028  |
-| 4                                      |       3 |     14.2857  |              2.94118 |                        11.3445  |
-| 5                                      |       2 |      9.52381 |             11.7647  |                        -2.2409  |
-| 6                                      |     nan |    nan       |            nan       |                       nan       |
-| 7                                      |       1 |      4.7619  |              2.94118 |                         1.82073 |
-| 8                                      |       3 |     14.2857  |              8.82353 |                         5.46218 |
-| 9                                      |       3 |     14.2857  |              2.94118 |                        11.3445  |
-| 10 (All the time)                      |       7 |     33.3333  |             29.4118  |                         3.92157 |
+| 1 (None at all)                        |     nan |       nan    |               nan    |                          nan    |
+| 2                                      |     nan |       nan    |               nan    |                          nan    |
+| 3                                      |       1 |         4.76 |                11.76 |                           -7    |
+| 4                                      |       3 |        14.29 |                 2.94 |                           11.34 |
+| 5                                      |       2 |         9.52 |                11.76 |                           -2.24 |
+| 6                                      |     nan |       nan    |               nan    |                          nan    |
+| 7                                      |       1 |         4.76 |                 2.94 |                            1.82 |
+| 8                                      |       3 |        14.29 |                 8.82 |                            5.46 |
+| 9                                      |       3 |        14.29 |                 2.94 |                           11.34 |
+| 10 (All the time)                      |       7 |        33.33 |                29.41 |                            3.92 |
 
 [Download CSV](/international-survey-2022/csv/citation-of-software_new-zealand.csv){: .button}
 
@@ -475,16 +475,16 @@ Questions in this section:
 
 | Use of Digital Object Identifier for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                                    |     nan |    nan       |            nan       |                       nan       |
-| 2                                                  |       1 |      4.7619  |              2.94118 |                         1.82073 |
-| 3                                                  |       1 |      4.7619  |             11.7647  |                        -7.0028  |
-| 4                                                  |       1 |      4.7619  |              2.94118 |                         1.82073 |
-| 5                                                  |     nan |    nan       |            nan       |                       nan       |
-| 6                                                  |       1 |      4.7619  |              5.88235 |                        -1.12045 |
-| 7                                                  |     nan |    nan       |            nan       |                       nan       |
-| 8                                                  |     nan |    nan       |            nan       |                       nan       |
-| 9                                                  |       1 |      4.7619  |              5.88235 |                        -1.12045 |
-| 10 (All the time)                                  |       2 |      9.52381 |              2.94118 |                         6.58263 |
+| 1 (None at all)                                    |     nan |       nan    |               nan    |                          nan    |
+| 2                                                  |       1 |         4.76 |                 2.94 |                            1.82 |
+| 3                                                  |       1 |         4.76 |                11.76 |                           -7    |
+| 4                                                  |       1 |         4.76 |                 2.94 |                            1.82 |
+| 5                                                  |     nan |       nan    |               nan    |                          nan    |
+| 6                                                  |       1 |         4.76 |                 5.88 |                           -1.12 |
+| 7                                                  |     nan |       nan    |               nan    |                          nan    |
+| 8                                                  |     nan |       nan    |               nan    |                          nan    |
+| 9                                                  |       1 |         4.76 |                 5.88 |                           -1.12 |
+| 10 (All the time)                                  |       2 |         9.52 |                 2.94 |                            6.58 |
 
 [Download CSV](/international-survey-2022/csv/use-of-digital-object-identifier_new-zealand.csv){: .button}
 
@@ -498,8 +498,8 @@ Questions in this section:
 
 | Using ORCID for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                           |      20 |      76.9231 |                62.5  |                       14.4231   |
-| No                            |       5 |      19.2308 |                18.75 |                        0.480769 |
+| Yes                           |      20 |        76.92 |                62.5  |                           14.42 |
+| No                            |       5 |        19.23 |                18.75 |                            0.48 |
 
 [Download CSV](/international-survey-2022/csv/using-orcid_new-zealand.csv){: .button}
 
@@ -564,12 +564,12 @@ using for their most important project.
 
 |   Bus factor for New Zealand |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-----------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                            0 |       4 |     15.3846  |            nan       |                       nan       |
-|                            1 |      13 |     50       |             67.6471  |                       -17.6471  |
-|                            2 |       5 |     19.2308  |             17.6471  |                         1.58371 |
-|                            3 |       1 |      3.84615 |              8.82353 |                        -4.97738 |
-|                            5 |       2 |      7.69231 |              2.94118 |                         4.75113 |
-|                            6 |       1 |      3.84615 |            nan       |                       nan       |
+|                            0 |       4 |        15.38 |               nan    |                          nan    |
+|                            1 |      13 |        50    |                67.65 |                          -17.65 |
+|                            2 |       5 |        19.23 |                17.65 |                            1.58 |
+|                            3 |       1 |         3.85 |                 8.82 |                           -4.98 |
+|                            5 |       2 |         7.69 |                 2.94 |                            4.75 |
+|                            6 |       1 |         3.85 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/bus-factor_new-zealand.csv){: .button}
 
@@ -579,8 +579,8 @@ using for their most important project.
 
 | Presence of transition plan for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                           |       6 |      23.0769 |              8.82353 |                         14.2534 |
-| No                                            |      20 |      76.9231 |             91.1765  |                        -14.2534 |
+| Yes                                           |       6 |        23.08 |                 8.82 |                           14.25 |
+| No                                            |      20 |        76.92 |                91.18 |                          -14.25 |
 
 [Download CSV](/international-survey-2022/csv/presence-of-transition-plan_new-zealand.csv){: .button}
 
@@ -590,10 +590,10 @@ using for their most important project.
 
 | Use of version control for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Git                                      |      25 |     89.2857  |              89.1892 |                       0.0965251 |
-| SVN                                      |       3 |     10.7143  |              24.3243 |                     -13.61      |
-| None                                     |       1 |      3.57143 |               0      |                       3.57143   |
-| Mercurial                                |       0 |      0       |               2.7027 |                      -2.7027    |
+| Git                                      |      25 |        89.29 |                89.19 |                            0.1  |
+| SVN                                      |       3 |        10.71 |                24.32 |                          -13.61 |
+| None                                     |       1 |         3.57 |                 0    |                            3.57 |
+| Mercurial                                |       0 |         0    |                 2.7  |                           -2.7  |
 
 [Download CSV](/international-survey-2022/csv/use-of-version-control_new-zealand.csv){: .button}
 
@@ -603,12 +603,12 @@ using for their most important project.
 
 | Testing strategies for New Zealand            |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No formal testing                             |       3 |     10.7143  |              16.2162 |                        -5.50193 |
-| No formal testing but users provide feedback  |       9 |     32.1429  |              40.5405 |                        -8.39768 |
-| The developers do their own testing           |      17 |     60.7143  |              78.3784 |                       -17.6641  |
-| Test engineers conduct testing                |       3 |     10.7143  |               0      |                        10.7143  |
-| Automated testing with continuous integration |      15 |     53.5714  |               0      |                        53.5714  |
-| Don't know                                    |       1 |      3.57143 |               0      |                         3.57143 |
+| No formal testing                             |       3 |        10.71 |                16.22 |                           -5.5  |
+| No formal testing but users provide feedback  |       9 |        32.14 |                40.54 |                           -8.4  |
+| The developers do their own testing           |      17 |        60.71 |                78.38 |                          -17.66 |
+| Test engineers conduct testing                |       3 |        10.71 |                 0    |                           10.71 |
+| Automated testing with continuous integration |      15 |        53.57 |                 0    |                           53.57 |
+| Don't know                                    |       1 |         3.57 |                 0    |                            3.57 |
 
 [Download CSV](/international-survey-2022/csv/testing-strategies_new-zealand.csv){: .button}
 
@@ -635,33 +635,33 @@ Questions in this section:
 
 | Programming languages for New Zealand                                               |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Python                                                                              |      21 |     75       |             78.3784  |                       -3.37838  |
-| R                                                                                   |      14 |     50       |             40.5405  |                        9.45946  |
-| SQL                                                                                 |      10 |     35.7143  |             40.5405  |                       -4.82625  |
-| Fortran                                                                             |      10 |     35.7143  |             27.027   |                        8.68726  |
-| C                                                                                   |       9 |     32.1429  |             35.1351  |                       -2.99228  |
-| C++                                                                                 |       7 |     25       |             29.7297  |                       -4.72973  |
-| JavaScript                                                                          |       7 |     25       |             37.8378  |                      -12.8378   |
-| Perl                                                                                |       5 |     17.8571  |             21.6216  |                       -3.76448  |
-| Matlab                                                                              |       4 |     14.2857  |             16.2162  |                       -1.9305   |
-| Rust                                                                                |       3 |     10.7143  |              2.7027  |                        8.01158  |
-| Julia                                                                               |       3 |     10.7143  |              8.10811 |                        2.60618  |
-| Java                                                                                |       2 |      7.14286 |             27.027   |                      -19.8842   |
-| TypeScript                                                                          |       2 |      7.14286 |              5.40541 |                        1.73745  |
-| VB.NET                                                                              |       2 |      7.14286 |              0       |                        7.14286  |
-| VBA                                                                                 |       2 |      7.14286 |              2.7027  |                        4.44015  |
-| C#                                                                                  |       2 |      7.14286 |              5.40541 |                        1.73745  |
-| Go                                                                                  |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| Visual Basic                                                                        |       1 |      3.57143 |              2.7027  |                        0.868726 |
-| other. What programming languages do you use at work? Please select all that apply. |       1 |      3.57143 |              0       |                        3.57143  |
-| Lua                                                                                 |       1 |      3.57143 |              0       |                        3.57143  |
-| Objective-C                                                                         |       1 |      3.57143 |              0       |                        3.57143  |
-| Clojure                                                                             |       1 |      3.57143 |              0       |                        3.57143  |
-| Swift                                                                               |       0 |      0       |              2.7027  |                       -2.7027   |
-| PHP                                                                                 |       0 |      0       |              8.10811 |                       -8.10811  |
-| Assembly                                                                            |       0 |      0       |              2.7027  |                       -2.7027   |
-| Erlang                                                                              |       0 |      0       |              2.7027  |                       -2.7027   |
-| Common Lisp                                                                         |       0 |      0       |              2.7027  |                       -2.7027   |
+| Python                                                                              |      21 |        75    |                78.38 |                           -3.38 |
+| R                                                                                   |      14 |        50    |                40.54 |                            9.46 |
+| SQL                                                                                 |      10 |        35.71 |                40.54 |                           -4.83 |
+| Fortran                                                                             |      10 |        35.71 |                27.03 |                            8.69 |
+| C                                                                                   |       9 |        32.14 |                35.14 |                           -2.99 |
+| C++                                                                                 |       7 |        25    |                29.73 |                           -4.73 |
+| JavaScript                                                                          |       7 |        25    |                37.84 |                          -12.84 |
+| Perl                                                                                |       5 |        17.86 |                21.62 |                           -3.76 |
+| Matlab                                                                              |       4 |        14.29 |                16.22 |                           -1.93 |
+| Rust                                                                                |       3 |        10.71 |                 2.7  |                            8.01 |
+| Julia                                                                               |       3 |        10.71 |                 8.11 |                            2.61 |
+| Java                                                                                |       2 |         7.14 |                27.03 |                          -19.88 |
+| TypeScript                                                                          |       2 |         7.14 |                 5.41 |                            1.74 |
+| VB.NET                                                                              |       2 |         7.14 |                 0    |                            7.14 |
+| VBA                                                                                 |       2 |         7.14 |                 2.7  |                            4.44 |
+| C#                                                                                  |       2 |         7.14 |                 5.41 |                            1.74 |
+| Go                                                                                  |       1 |         3.57 |                 2.7  |                            0.87 |
+| Visual Basic                                                                        |       1 |         3.57 |                 2.7  |                            0.87 |
+| other. What programming languages do you use at work? Please select all that apply. |       1 |         3.57 |                 0    |                            3.57 |
+| Lua                                                                                 |       1 |         3.57 |                 0    |                            3.57 |
+| Objective-C                                                                         |       1 |         3.57 |                 0    |                            3.57 |
+| Clojure                                                                             |       1 |         3.57 |                 0    |                            3.57 |
+| Swift                                                                               |       0 |         0    |                 2.7  |                           -2.7  |
+| PHP                                                                                 |       0 |         0    |                 8.11 |                           -8.11 |
+| Assembly                                                                            |       0 |         0    |                 2.7  |                           -2.7  |
+| Erlang                                                                              |       0 |         0    |                 2.7  |                           -2.7  |
+| Common Lisp                                                                         |       0 |         0    |                 2.7  |                           -2.7  |
 
 [Download CSV](/international-survey-2022/csv/programming-languages_new-zealand.csv){: .button}
 
@@ -671,9 +671,9 @@ Questions in this section:
 
 | Operating systems for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| GNU/Linux                           |      20 |     76.9231  |              67.6471 |                        9.27602  |
-| Windows                             |       4 |     15.3846  |              14.7059 |                        0.678733 |
-| macOS                               |       2 |      7.69231 |             nan      |                      nan        |
+| GNU/Linux                           |      20 |        76.92 |                67.65 |                            9.28 |
+| Windows                             |       4 |        15.38 |                14.71 |                            0.68 |
+| macOS                               |       2 |         7.69 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/operating-systems_new-zealand.csv){: .button}
 
@@ -798,8 +798,8 @@ and to acquire for their current role.
 
 | RSE Member for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                          |      12 |           48 |              22.2222 |                         25.7778 |
-| No                           |      13 |           52 |              77.7778 |                        -25.7778 |
+| Yes                          |      12 |           48 |                22.22 |                           25.78 |
+| No                           |      13 |           52 |                77.78 |                          -25.78 |
 
 [Download CSV](/international-survey-2022/csv/rse-member_new-zealand.csv){: .button}
 
@@ -809,8 +809,8 @@ and to acquire for their current role.
 
 | Joining a RSE/RSD association for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                             |       7 |      58.3333 |                43.75 |                         14.5833 |
-| No                                              |       5 |      41.6667 |                56.25 |                        -14.5833 |
+| Yes                                             |       7 |        58.33 |                43.75 |                           14.58 |
+| No                                              |       5 |        41.67 |                56.25 |                          -14.58 |
 
 [Download CSV](/international-survey-2022/csv/joining-a-rse-rsd-association_new-zealand.csv){: .button}
 
@@ -820,12 +820,12 @@ and to acquire for their current role.
 
 | What is important for such an organisation for New Zealand                            |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Networking                                                                            |      16 |      57.1429 |             16.2162  |                         40.9266 |
-| Research collaborations                                                               |      12 |      42.8571 |             10.8108  |                         32.0463 |
-| Training                                                                              |      10 |      35.7143 |              5.40541 |                         30.3089 |
-| Research software standards and interoperability definition                           |       8 |      28.5714 |              8.10811 |                         20.4633 |
-| Job opportunities                                                                     |       8 |      28.5714 |              8.10811 |                         20.4633 |
-| other. What would you hope to get out of such an organisation (check all that apply)? |       3 |      10.7143 |              0       |                         10.7143 |
+| Networking                                                                            |      16 |        57.14 |                16.22 |                           40.93 |
+| Research collaborations                                                               |      12 |        42.86 |                10.81 |                           32.05 |
+| Training                                                                              |      10 |        35.71 |                 5.41 |                           30.31 |
+| Research software standards and interoperability definition                           |       8 |        28.57 |                 8.11 |                           20.46 |
+| Job opportunities                                                                     |       8 |        28.57 |                 8.11 |                           20.46 |
+| other. What would you hope to get out of such an organisation (check all that apply)? |       3 |        10.71 |                 0    |                           10.71 |
 
 [Download CSV](/international-survey-2022/csv/what-is-important-for-such-an-organisation_new-zealand.csv){: .button}
 
@@ -835,8 +835,8 @@ and to acquire for their current role.
 
 | Attending a national conference of RSE/RSD for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                          |      20 |           80 |              67.7419 |                         12.2581 |
-| No                                                           |       5 |           20 |              32.2581 |                        -12.2581 |
+| Yes                                                          |      20 |           80 |                67.74 |                           12.26 |
+| No                                                           |       5 |           20 |                32.26 |                          -12.26 |
 
 [Download CSV](/international-survey-2022/csv/attending-a-national-conference-of-rse-rsd_new-zealand.csv){: .button}
 

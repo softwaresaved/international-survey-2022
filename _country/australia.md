@@ -29,10 +29,10 @@ selected at least one option.
 
 | Highest level of education for Australia                                  |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| AQF 10 - Doctoral Degree                                                  |      19 |       59.375 |              63.6364 |                        -4.26136 |
-| AQF 8 - Bachelor Honours Degree / Graduate Certificate / Graduate Diploma |       7 |       21.875 |              13.1313 |                         8.74369 |
-| AQF 9 - Masters Degree                                                    |       4 |       12.5   |              11.1111 |                         1.38889 |
-| AQF 7 - Bachelor Degree                                                   |       2 |        6.25  |              11.1111 |                        -4.86111 |
+| AQF 10 - Doctoral Degree                                                  |      19 |        59.38 |                63.64 |                           -4.26 |
+| AQF 8 - Bachelor Honours Degree / Graduate Certificate / Graduate Diploma |       7 |        21.88 |                13.13 |                            8.74 |
+| AQF 9 - Masters Degree                                                    |       4 |        12.5  |                11.11 |                            1.39 |
+| AQF 7 - Bachelor Degree                                                   |       2 |         6.25 |                11.11 |                           -4.86 |
 
 [Download CSV](/international-survey-2022/csv/education_level_australia.csv){: .button}
 
@@ -47,16 +47,16 @@ despite lot of overlapping in the categories.
 
 | Field of education for Australia    |   Count |   Percentage |
 |:------------------------------------|--------:|-------------:|
-| Physical sciences                   |       9 |       28.125 |
-| Information and computing sciences  |       7 |       21.875 |
-| Earth sciences                      |       5 |       15.625 |
-| Engineering                         |       4 |       12.5   |
-| Biological sciences                 |       2 |        6.25  |
-| Health sciences                     |       1 |        3.125 |
-| Psychology                          |       1 |        3.125 |
-| Biomedical and clinical sciences    |       1 |        3.125 |
-| Environmental sciences              |       1 |        3.125 |
-| Language, communication and culture |       1 |        3.125 |
+| Physical sciences                   |       9 |        28.12 |
+| Information and computing sciences  |       7 |        21.88 |
+| Earth sciences                      |       5 |        15.62 |
+| Engineering                         |       4 |        12.5  |
+| Biological sciences                 |       2 |         6.25 |
+| Health sciences                     |       1 |         3.12 |
+| Psychology                          |       1 |         3.12 |
+| Biomedical and clinical sciences    |       1 |         3.12 |
+| Environmental sciences              |       1 |         3.12 |
+| Language, communication and culture |       1 |         3.12 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_edu_australia.csv){: .button}
 
@@ -69,50 +69,50 @@ despite lot of overlapping in the categories.
 
 | field of work for Australia                   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Information and computing sciences            |      12 |       37.5   |              0       |                        37.5     |
-| Biomedical and clinical sciences              |       7 |       21.875 |              0       |                        21.875   |
-| Biological sciences                           |       6 |       18.75  |              0       |                        18.75    |
-| Earth sciences                                |       6 |       18.75  |              0       |                        18.75    |
-| Physical sciences                             |       6 |       18.75  |              0       |                        18.75    |
-| Health sciences                               |       6 |       18.75  |              0       |                        18.75    |
-| Language, communication and culture           |       5 |       15.625 |              0       |                        15.625   |
-| Built environment and design                  |       5 |       15.625 |              0       |                        15.625   |
-| Engineering                                   |       5 |       15.625 |              0       |                        15.625   |
-| Human society                                 |       4 |       12.5   |              0       |                        12.5     |
-| Chemical sciences                             |       4 |       12.5   |              0       |                        12.5     |
-| Environmental sciences                        |       4 |       12.5   |              0       |                        12.5     |
-| History, heritage and archaeology             |       4 |       12.5   |              0       |                        12.5     |
-| Commerce, management, tourism and services    |       4 |       12.5   |              0       |                        12.5     |
-| Education.1                                   |       3 |        9.375 |              0       |                         9.375   |
-| Economics.1                                   |       3 |        9.375 |              0       |                         9.375   |
-| Indigenous studies                            |       2 |        6.25  |              0       |                         6.25    |
-| Mathematical sciences                         |       2 |        6.25  |              0       |                         6.25    |
-| Psychology.1                                  |       2 |        6.25  |              0       |                         6.25    |
-| Law and legal studies                         |       1 |        3.125 |              0       |                         3.125   |
-| Philosophy and religious studies              |       1 |        3.125 |              0       |                         3.125   |
-| Creative arts and writing                     |       1 |        3.125 |              0       |                         3.125   |
-| 12 Built Environment and Design               |       0 |        0     |              2.0202  |                        -2.0202  |
-| 03 Chemical Sciences                          |       0 |        0     |             10.101   |                       -10.101   |
-| 04 Earth Sciences                             |       0 |        0     |             22.2222  |                       -22.2222  |
-| 05 Environmental Sciences                     |       0 |        0     |             21.2121  |                       -21.2121  |
-| 06 Biological Sciences                        |       0 |        0     |             34.3434  |                       -34.3434  |
-| 07 Agricultural and Veterinary Sciences       |       0 |        0     |             10.101   |                       -10.101   |
-| 08 Information and Computing Sciences         |       0 |        0     |             45.4545  |                       -45.4545  |
-| 09 Engineering                                |       0 |        0     |             23.2323  |                       -23.2323  |
-| 10 Technology                                 |       0 |        0     |             26.2626  |                       -26.2626  |
-| 11 Medical and Health Sciences                |       0 |        0     |             24.2424  |                       -24.2424  |
-| 13 Education                                  |       0 |        0     |              9.09091 |                        -9.09091 |
-| 14 Economics                                  |       0 |        0     |              2.0202  |                        -2.0202  |
-| 15 Commerce, Management, Tourism and Services |       0 |        0     |              2.0202  |                        -2.0202  |
-| 16 Studies in Human Society                   |       0 |        0     |              4.0404  |                        -4.0404  |
-| 17 Psychology and Cognitive Sciences          |       0 |        0     |              3.0303  |                        -3.0303  |
-| 18 Law and Legal Studies                      |       0 |        0     |              1.0101  |                        -1.0101  |
-| 19 Studies in Creative Arts and Writing       |       0 |        0     |              3.0303  |                        -3.0303  |
-| 20 Language, Communication and Culture        |       0 |        0     |              5.05051 |                        -5.05051 |
-| 21 History and Archaeology                    |       0 |        0     |              3.0303  |                        -3.0303  |
-| 22 Philosophy and Religious Studies           |       0 |        0     |              3.0303  |                        -3.0303  |
-| 02 Physical Sciences                          |       0 |        0     |             36.3636  |                       -36.3636  |
-| 01 Mathematical Sciences                      |       0 |        0     |             24.2424  |                       -24.2424  |
+| Information and computing sciences            |      12 |        37.5  |                 0    |                           37.5  |
+| Biomedical and clinical sciences              |       7 |        21.88 |                 0    |                           21.88 |
+| Biological sciences                           |       6 |        18.75 |                 0    |                           18.75 |
+| Earth sciences                                |       6 |        18.75 |                 0    |                           18.75 |
+| Physical sciences                             |       6 |        18.75 |                 0    |                           18.75 |
+| Health sciences                               |       6 |        18.75 |                 0    |                           18.75 |
+| Language, communication and culture           |       5 |        15.62 |                 0    |                           15.62 |
+| Built environment and design                  |       5 |        15.62 |                 0    |                           15.62 |
+| Engineering                                   |       5 |        15.62 |                 0    |                           15.62 |
+| Human society                                 |       4 |        12.5  |                 0    |                           12.5  |
+| Chemical sciences                             |       4 |        12.5  |                 0    |                           12.5  |
+| Environmental sciences                        |       4 |        12.5  |                 0    |                           12.5  |
+| History, heritage and archaeology             |       4 |        12.5  |                 0    |                           12.5  |
+| Commerce, management, tourism and services    |       4 |        12.5  |                 0    |                           12.5  |
+| Education.1                                   |       3 |         9.38 |                 0    |                            9.38 |
+| Economics.1                                   |       3 |         9.38 |                 0    |                            9.38 |
+| Indigenous studies                            |       2 |         6.25 |                 0    |                            6.25 |
+| Mathematical sciences                         |       2 |         6.25 |                 0    |                            6.25 |
+| Psychology.1                                  |       2 |         6.25 |                 0    |                            6.25 |
+| Law and legal studies                         |       1 |         3.12 |                 0    |                            3.12 |
+| Philosophy and religious studies              |       1 |         3.12 |                 0    |                            3.12 |
+| Creative arts and writing                     |       1 |         3.12 |                 0    |                            3.12 |
+| 12 Built Environment and Design               |       0 |         0    |                 2.02 |                           -2.02 |
+| 03 Chemical Sciences                          |       0 |         0    |                10.1  |                          -10.1  |
+| 04 Earth Sciences                             |       0 |         0    |                22.22 |                          -22.22 |
+| 05 Environmental Sciences                     |       0 |         0    |                21.21 |                          -21.21 |
+| 06 Biological Sciences                        |       0 |         0    |                34.34 |                          -34.34 |
+| 07 Agricultural and Veterinary Sciences       |       0 |         0    |                10.1  |                          -10.1  |
+| 08 Information and Computing Sciences         |       0 |         0    |                45.45 |                          -45.45 |
+| 09 Engineering                                |       0 |         0    |                23.23 |                          -23.23 |
+| 10 Technology                                 |       0 |         0    |                26.26 |                          -26.26 |
+| 11 Medical and Health Sciences                |       0 |         0    |                24.24 |                          -24.24 |
+| 13 Education                                  |       0 |         0    |                 9.09 |                           -9.09 |
+| 14 Economics                                  |       0 |         0    |                 2.02 |                           -2.02 |
+| 15 Commerce, Management, Tourism and Services |       0 |         0    |                 2.02 |                           -2.02 |
+| 16 Studies in Human Society                   |       0 |         0    |                 4.04 |                           -4.04 |
+| 17 Psychology and Cognitive Sciences          |       0 |         0    |                 3.03 |                           -3.03 |
+| 18 Law and Legal Studies                      |       0 |         0    |                 1.01 |                           -1.01 |
+| 19 Studies in Creative Arts and Writing       |       0 |         0    |                 3.03 |                           -3.03 |
+| 20 Language, Communication and Culture        |       0 |         0    |                 5.05 |                           -5.05 |
+| 21 History and Archaeology                    |       0 |         0    |                 3.03 |                           -3.03 |
+| 22 Philosophy and Religious Studies           |       0 |         0    |                 3.03 |                           -3.03 |
+| 02 Physical Sciences                          |       0 |         0    |                36.36 |                          -36.36 |
+| 01 Mathematical Sciences                      |       0 |         0    |                24.24 |                          -24.24 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_work_australia.csv){: .button}
 
@@ -136,8 +136,8 @@ Questions in this section:
 
 | Professional developer for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                    |      15 |       46.875 |              46.2366 |                        0.638441 |
-| No                                     |      17 |       53.125 |              53.7634 |                       -0.638441 |
+| Yes                                    |      15 |        46.88 |                46.24 |                            0.64 |
+| No                                     |      17 |        53.12 |                53.76 |                           -0.64 |
 
 [Download CSV](/international-survey-2022/csv/proportion-professional-developer_australia.csv){: .button}
 
@@ -147,14 +147,14 @@ Questions in this section:
 
 | How many years of software development experience for Australia (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:------------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                     |          18       |          90       |
-| mean                                                                                      |           5.94444 |          12.2089  |
-| std                                                                                       |           3.22622 |           8.15662 |
-| min                                                                                       |           2       |           0       |
-| 25%                                                                                       |           3.25    |           5       |
-| 50%                                                                                       |           5       |          10       |
-| 75%                                                                                       |           8.75    |          20       |
-| max                                                                                       |          12       |          28       |
+| count                                                                                     |             18    |             90    |
+| mean                                                                                      |              5.94 |             12.21 |
+| std                                                                                       |              3.23 |              8.16 |
+| min                                                                                       |              2    |              0    |
+| 25%                                                                                       |              3.25 |              5    |
+| 50%                                                                                       |              5    |             10    |
+| 75%                                                                                       |              8.75 |             20    |
+| max                                                                                       |             12    |             28    |
 
 [Download CSV](/international-survey-2022/csv/summary-years-professional-developer_australia.csv){: .button}
 
@@ -234,12 +234,12 @@ position among 8 different ones:
 
 | Where the previous job was based for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| University                                       |      15 |     48.3871  |             58.5106  |                       -10.1235  |
-| Private company                                  |       7 |     22.5806  |             22.3404  |                         0.24022 |
-| This is my first job                             |       4 |     12.9032  |            nan       |                       nan       |
-| National laboratory                              |       3 |      9.67742 |              5.31915 |                         4.35827 |
-| Government                                       |       1 |      3.22581 |              9.57447 |                        -6.34866 |
-| NGO                                              |       1 |      3.22581 |            nan       |                       nan       |
+| University                                       |      15 |        48.39 |                58.51 |                          -10.12 |
+| Private company                                  |       7 |        22.58 |                22.34 |                            0.24 |
+| This is my first job                             |       4 |        12.9  |               nan    |                          nan    |
+| National laboratory                              |       3 |         9.68 |                 5.32 |                            4.36 |
+| Government                                       |       1 |         3.23 |                 9.57 |                           -6.35 |
+| NGO                                              |       1 |         3.23 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/where-previous-job-based_australia.csv){: .button}
 
@@ -247,17 +247,17 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |    Rank 1 |   Rank 2 |    Rank 3 |    Rank 4 |    Rank 5 |
-|:-----------------------------------------|----------:|---------:|----------:|----------:|----------:|
-| Desire to work in a research environment |  29.0323  | 16.6667  |  17.2414  |   3.7037  | nan       |
-| Desire to advance research               |  25.8065  | 20       |   6.89655 |  18.5185  |   5.26316 |
-| Freedom to choose own working practices  |  19.3548  | 13.3333  |  10.3448  |  18.5185  |  21.0526  |
-| The salary                               |  12.9032  |  3.33333 | nan       | nan       |  15.7895  |
-| I want to learn new skills               |   9.67742 | 13.3333  |   6.89655 |  11.1111  |  21.0526  |
-| Opportunity to develop software          |   3.22581 | 10       |  20.6897  |   7.40741 |  10.5263  |
-| Ability to work across disciplines       | nan       | 10       |   6.89655 |  22.2222  |  10.5263  |
-| Flexible working hours                   | nan       |  6.66667 |  20.6897  |  18.5185  |  10.5263  |
-| Opportunity for career advancement       | nan       |  6.66667 |  10.3448  | nan       |   5.26316 |
+| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
+|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
+| Desire to work in a research environment |    29.03 |    16.67 |    17.24 |     3.7  |   nan    |
+| Desire to advance research               |    25.81 |    20    |     6.9  |    18.52 |     5.26 |
+| Freedom to choose own working practices  |    19.35 |    13.33 |    10.34 |    18.52 |    21.05 |
+| The salary                               |    12.9  |     3.33 |   nan    |   nan    |    15.79 |
+| I want to learn new skills               |     9.68 |    13.33 |     6.9  |    11.11 |    21.05 |
+| Opportunity to develop software          |     3.23 |    10    |    20.69 |     7.41 |    10.53 |
+| Ability to work across disciplines       |   nan    |    10    |     6.9  |    22.22 |    10.53 |
+| Flexible working hours                   |   nan    |     6.67 |    20.69 |    18.52 |    10.53 |
+| Opportunity for career advancement       |   nan    |     6.67 |    10.34 |   nan    |     5.26 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_australia.csv){: .button}
 
@@ -283,12 +283,12 @@ Questions in this section:
 
 | developing code for others for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 0 - Mostly me                              |       3 |     10       |              7.07071 |                        2.92929  |
-| 1                                          |       6 |     20       |             15.1515  |                        4.84848  |
-| 2                                          |       5 |     16.6667  |             14.1414  |                        2.52525  |
-| 3                                          |       1 |      3.33333 |             19.1919  |                      -15.8586   |
-| 4                                          |       6 |     20       |             19.1919  |                        0.808081 |
-| 5 - Mostly other people                    |       9 |     30       |             25.2525  |                        4.74747  |
+| 0 - Mostly me                              |       3 |        10    |                 7.07 |                            2.93 |
+| 1                                          |       6 |        20    |                15.15 |                            4.85 |
+| 2                                          |       5 |        16.67 |                14.14 |                            2.53 |
+| 3                                          |       1 |         3.33 |                19.19 |                          -15.86 |
+| 4                                          |       6 |        20    |                19.19 |                            0.81 |
+| 5 - Mostly other people                    |       9 |        30    |                25.25 |                            4.75 |
 
 [Download CSV](/international-survey-2022/csv/developing-code-for-others_australia.csv){: .button}
 
@@ -298,9 +298,9 @@ Questions in this section:
 
 | Working with same researchers for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Different researchers, same research group    |       5 |      16.129  |              20.2247 |                       -4.09569  |
-| Regularly change researcher(s)                |      17 |      54.8387 |              50.5618 |                        4.27691  |
-| Same researcher(s)                            |       9 |      29.0323 |              29.2135 |                       -0.181225 |
+| Different researchers, same research group    |       5 |        16.13 |                20.22 |                           -4.1  |
+| Regularly change researcher(s)                |      17 |        54.84 |                50.56 |                            4.28 |
+| Same researcher(s)                            |       9 |        29.03 |                29.21 |                           -0.18 |
 
 [Download CSV](/international-survey-2022/csv/working-with-same-researchers_australia.csv){: .button}
 
@@ -310,8 +310,8 @@ Questions in this section:
 
 | member of a dedicated group for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No                                          |      24 |      77.4194 |              64.0449 |                         13.3744 |
-| Yes                                         |       7 |      22.5806 |              35.9551 |                        -13.3744 |
+| No                                          |      24 |        77.42 |                64.04 |                           13.37 |
+| Yes                                         |       7 |        22.58 |                35.96 |                          -13.37 |
 
 [Download CSV](/international-survey-2022/csv/member-of-a-dedicated-group_australia.csv){: .button}
 
@@ -321,14 +321,14 @@ Questions in this section:
 
 |   Number of software projects for Australia |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |--------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                           0 |       2 |      6.45161 |            nan       |                      nan        |
-|                                           1 |       4 |     12.9032  |             20.4819  |                       -7.5787   |
-|                                           2 |      10 |     32.2581  |             21.6867  |                       10.5713   |
-|                                           3 |       5 |     16.129   |             19.2771  |                       -3.14808  |
-|                                           4 |       3 |      9.67742 |             14.4578  |                       -4.78041  |
-|                                           5 |       5 |     16.129   |             16.8675  |                       -0.738438 |
-|                                           6 |       1 |      3.22581 |            nan       |                      nan        |
-|                                           7 |       1 |      3.22581 |              2.40964 |                        0.816168 |
+|                                           0 |       2 |         6.45 |               nan    |                          nan    |
+|                                           1 |       4 |        12.9  |                20.48 |                           -7.58 |
+|                                           2 |      10 |        32.26 |                21.69 |                           10.57 |
+|                                           3 |       5 |        16.13 |                19.28 |                           -3.15 |
+|                                           4 |       3 |         9.68 |                14.46 |                           -4.78 |
+|                                           5 |       5 |        16.13 |                16.87 |                           -0.74 |
+|                                           6 |       1 |         3.23 |               nan    |                          nan    |
+|                                           7 |       1 |         3.23 |                 2.41 |                            0.82 |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_australia.csv){: .button}
 
@@ -336,14 +336,14 @@ Questions in this section:
 
 |   Number of software developers per projects for Australia |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-----------------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                          0 |       1 |      3.57143 |              2.40964 |                       1.16179   |
-|                                                          1 |      11 |     39.2857  |             42.1687  |                      -2.88296   |
-|                                                          2 |       8 |     28.5714  |             19.2771  |                       9.29432   |
-|                                                          3 |       2 |      7.14286 |             20.4819  |                     -13.3391    |
-|                                                          4 |       1 |      3.57143 |              3.61446 |                      -0.0430293 |
-|                                                          5 |       3 |     10.7143  |              3.61446 |                       7.09983   |
-|                                                         10 |       1 |      3.57143 |              1.20482 |                       2.36661   |
-|                                                        100 |       1 |      3.57143 |            nan       |                     nan         |
+|                                                          0 |       1 |         3.57 |                 2.41 |                            1.16 |
+|                                                          1 |      11 |        39.29 |                42.17 |                           -2.88 |
+|                                                          2 |       8 |        28.57 |                19.28 |                            9.29 |
+|                                                          3 |       2 |         7.14 |                20.48 |                          -13.34 |
+|                                                          4 |       1 |         3.57 |                 3.61 |                           -0.04 |
+|                                                          5 |       3 |        10.71 |                 3.61 |                            7.1  |
+|                                                         10 |       1 |         3.57 |                 1.2  |                            2.37 |
+|                                                        100 |       1 |         3.57 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-developers-per-projects_australia.csv){: .button}
 
@@ -353,14 +353,14 @@ Questions in this section:
 
 | Number of time per year providing training for Australia (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:-----------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                              |          28       |          83       |
-| mean                                                                               |           2.75    |           2.09036 |
-| std                                                                                |           3.47078 |           2.54849 |
-| min                                                                                |           0       |           0       |
-| 25%                                                                                |           0       |           0       |
-| 50%                                                                                |           2       |           1       |
-| 75%                                                                                |           3.25    |           3       |
-| max                                                                                |          15       |          10       |
+| count                                                                              |             28    |             83    |
+| mean                                                                               |              2.75 |              2.09 |
+| std                                                                                |              3.47 |              2.55 |
+| min                                                                                |              0    |              0    |
+| 25%                                                                                |              0    |              0    |
+| 50%                                                                                |              2    |              1    |
+| 75%                                                                                |              3.25 |              3    |
+| max                                                                                |             15    |             10    |
 
 [Download CSV](/international-survey-2022/csv/training-frequency_australia.csv){: .button}
 
@@ -392,11 +392,11 @@ Questions in the section:
 
 | Acknowledgment in paper for Australia    |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Not mentioned at all                     |       6 |     20       |             20.2247  |                       -0.224719 |
-| Acknowledged in the main text            |       3 |     10       |              3.37079 |                        6.62921  |
-| Acknowledged in acknowledgements section |       9 |     30       |             20.2247  |                        9.77528  |
-| Named as co-author                       |      11 |     36.6667  |             50.5618  |                      -13.8951   |
-| Named as main author                     |       1 |      3.33333 |              5.61798 |                       -2.28464  |
+| Not mentioned at all                     |       6 |        20    |                20.22 |                           -0.22 |
+| Acknowledged in the main text            |       3 |        10    |                 3.37 |                            6.63 |
+| Acknowledged in acknowledgements section |       9 |        30    |                20.22 |                            9.78 |
+| Named as co-author                       |      11 |        36.67 |                50.56 |                          -13.9  |
+| Named as main author                     |       1 |         3.33 |                 5.62 |                           -2.28 |
 
 [Download CSV](/international-survey-2022/csv/acknowledgment-in-paper_australia.csv){: .button}
 
@@ -406,8 +406,8 @@ Questions in the section:
 
 | Did you participate in conference for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                               |      19 |      61.2903 |              55.5556 |                         5.73477 |
-| No                                                |      12 |      38.7097 |              44.4444 |                        -5.73477 |
+| Yes                                               |      19 |        61.29 |                55.56 |                            5.73 |
+| No                                                |      12 |        38.71 |                44.44 |                           -5.73 |
 
 [Download CSV](/international-survey-2022/csv/did-you-participate-in-conference_australia.csv){: .button}
 
@@ -446,16 +446,16 @@ Questions in this section:
 
 | Open source use for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                 |     nan |    nan       |            nan       |                       nan       |
-| 2                               |     nan |    nan       |            nan       |                       nan       |
-| 3                               |       1 |      3.22581 |              4.54545 |                        -1.31965 |
-| 4                               |       2 |      6.45161 |            nan       |                       nan       |
-| 5                               |       1 |      3.22581 |              6.81818 |                        -3.59238 |
-| 6                               |     nan |    nan       |            nan       |                       nan       |
-| 7                               |       2 |      6.45161 |              3.40909 |                         3.04252 |
-| 8                               |       7 |     22.5806  |             15.9091  |                         6.67155 |
-| 9                               |       2 |      6.45161 |             11.3636  |                        -4.91202 |
-| 10 (All the time)               |      14 |     45.1613  |             39.7727  |                         5.38856 |
+| 1 (None at all)                 |     nan |       nan    |               nan    |                          nan    |
+| 2                               |     nan |       nan    |               nan    |                          nan    |
+| 3                               |       1 |         3.23 |                 4.55 |                           -1.32 |
+| 4                               |       2 |         6.45 |               nan    |                          nan    |
+| 5                               |       1 |         3.23 |                 6.82 |                           -3.59 |
+| 6                               |     nan |       nan    |               nan    |                          nan    |
+| 7                               |       2 |         6.45 |                 3.41 |                            3.04 |
+| 8                               |       7 |        22.58 |                15.91 |                            6.67 |
+| 9                               |       2 |         6.45 |                11.36 |                           -4.91 |
+| 10 (All the time)               |      14 |        45.16 |                39.77 |                            5.39 |
 
 [Download CSV](/international-survey-2022/csv/open-source-use_australia.csv){: .button}
 
@@ -465,16 +465,16 @@ Questions in this section:
 
 | Citation of software for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                      |     nan |    nan       |            nan       |                      nan        |
-| 2                                    |       1 |      3.57143 |              3.40909 |                        0.162338 |
-| 3                                    |       3 |     10.7143  |              9.09091 |                        1.62338  |
-| 4                                    |     nan |    nan       |            nan       |                      nan        |
-| 5                                    |       1 |      3.57143 |              5.68182 |                       -2.11039  |
-| 6                                    |       2 |      7.14286 |              2.27273 |                        4.87013  |
-| 7                                    |       2 |      7.14286 |              3.40909 |                        3.73377  |
-| 8                                    |       4 |     14.2857  |             11.3636  |                        2.92208  |
-| 9                                    |       3 |     10.7143  |              9.09091 |                        1.62338  |
-| 10 (All the time)                    |      10 |     35.7143  |             31.8182  |                        3.8961   |
+| 1 (None at all)                      |     nan |       nan    |               nan    |                          nan    |
+| 2                                    |       1 |         3.57 |                 3.41 |                            0.16 |
+| 3                                    |       3 |        10.71 |                 9.09 |                            1.62 |
+| 4                                    |     nan |       nan    |               nan    |                          nan    |
+| 5                                    |       1 |         3.57 |                 5.68 |                           -2.11 |
+| 6                                    |       2 |         7.14 |                 2.27 |                            4.87 |
+| 7                                    |       2 |         7.14 |                 3.41 |                            3.73 |
+| 8                                    |       4 |        14.29 |                11.36 |                            2.92 |
+| 9                                    |       3 |        10.71 |                 9.09 |                            1.62 |
+| 10 (All the time)                    |      10 |        35.71 |                31.82 |                            3.9  |
 
 [Download CSV](/international-survey-2022/csv/citation-of-software_australia.csv){: .button}
 
@@ -484,16 +484,16 @@ Questions in this section:
 
 | Use of Digital Object Identifier for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                                  |     nan |     nan      |            nan       |                      nan        |
-| 2                                                |       4 |      14.8148 |              5.68182 |                        9.133    |
-| 3                                                |       3 |      11.1111 |              5.68182 |                        5.42929  |
-| 4                                                |       1 |       3.7037 |              7.95455 |                       -4.25084  |
-| 5                                                |       3 |      11.1111 |              5.68182 |                        5.42929  |
-| 6                                                |       1 |       3.7037 |              6.81818 |                       -3.11448  |
-| 7                                                |       3 |      11.1111 |              3.40909 |                        7.70202  |
-| 8                                                |       1 |       3.7037 |              3.40909 |                        0.294613 |
-| 9                                                |     nan |     nan      |            nan       |                      nan        |
-| 10 (All the time)                                |       3 |      11.1111 |              6.81818 |                        4.29293  |
+| 1 (None at all)                                  |     nan |       nan    |               nan    |                          nan    |
+| 2                                                |       4 |        14.81 |                 5.68 |                            9.13 |
+| 3                                                |       3 |        11.11 |                 5.68 |                            5.43 |
+| 4                                                |       1 |         3.7  |                 7.95 |                           -4.25 |
+| 5                                                |       3 |        11.11 |                 5.68 |                            5.43 |
+| 6                                                |       1 |         3.7  |                 6.82 |                           -3.11 |
+| 7                                                |       3 |        11.11 |                 3.41 |                            7.7  |
+| 8                                                |       1 |         3.7  |                 3.41 |                            0.29 |
+| 9                                                |     nan |       nan    |               nan    |                          nan    |
+| 10 (All the time)                                |       3 |        11.11 |                 6.82 |                            4.29 |
 
 [Download CSV](/international-survey-2022/csv/use-of-digital-object-identifier_australia.csv){: .button}
 
@@ -507,8 +507,8 @@ Questions in this section:
 
 | Using ORCID for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                         |      31 |          100 |              78.1609 |                         21.8391 |
-| No                          |     nan |          nan |               9.1954 |                        nan      |
+| Yes                         |      31 |          100 |                78.16 |                           21.84 |
+| No                          |     nan |          nan |                 9.2  |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/using-orcid_australia.csv){: .button}
 
@@ -573,11 +573,11 @@ using for their most important project.
 
 |   Bus factor for Australia |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |---------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                          1 |      15 |     48.3871  |             68.1818  |                      -19.7947   |
-|                          2 |      10 |     32.2581  |             18.1818  |                       14.0762   |
-|                          3 |       4 |     12.9032  |              5.68182 |                        7.22141  |
-|                          5 |       1 |      3.22581 |              3.40909 |                       -0.183284 |
-|                         10 |       1 |      3.22581 |            nan       |                      nan        |
+|                          1 |      15 |        48.39 |                68.18 |                          -19.79 |
+|                          2 |      10 |        32.26 |                18.18 |                           14.08 |
+|                          3 |       4 |        12.9  |                 5.68 |                            7.22 |
+|                          5 |       1 |         3.23 |                 3.41 |                           -0.18 |
+|                         10 |       1 |         3.23 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/bus-factor_australia.csv){: .button}
 
@@ -587,8 +587,8 @@ using for their most important project.
 
 | Presence of transition plan for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                         |       8 |      25.8065 |              10.2273 |                         15.5792 |
-| No                                          |      23 |      74.1935 |              89.7727 |                        -15.5792 |
+| Yes                                         |       8 |        25.81 |                10.23 |                           15.58 |
+| No                                          |      23 |        74.19 |                89.77 |                          -15.58 |
 
 [Download CSV](/international-survey-2022/csv/presence-of-transition-plan_australia.csv){: .button}
 
@@ -598,11 +598,11 @@ using for their most important project.
 
 | Use of version control for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Git                                    |      30 |       93.75  |             81.8182  |                        11.9318  |
-| None                                   |       1 |        3.125 |              2.0202  |                         1.1048  |
-| CVS                                    |       0 |        0     |              7.07071 |                        -7.07071 |
-| SVN                                    |       0 |        0     |             20.202   |                       -20.202   |
-| Mercurial                              |       0 |        0     |              4.0404  |                        -4.0404  |
+| Git                                    |      30 |        93.75 |                81.82 |                           11.93 |
+| None                                   |       1 |         3.12 |                 2.02 |                            1.1  |
+| CVS                                    |       0 |         0    |                 7.07 |                           -7.07 |
+| SVN                                    |       0 |         0    |                20.2  |                          -20.2  |
+| Mercurial                              |       0 |         0    |                 4.04 |                           -4.04 |
 
 [Download CSV](/international-survey-2022/csv/use-of-version-control_australia.csv){: .button}
 
@@ -612,12 +612,12 @@ using for their most important project.
 
 | Testing strategies for Australia              |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No formal testing                             |       3 |        9.375 |              12.1212 |                        -2.74621 |
-| No formal testing but users provide feedback  |       9 |       28.125 |              33.3333 |                        -5.20833 |
-| The developers do their own testing           |      20 |       62.5   |              73.7374 |                       -11.2374  |
-| Test engineers conduct testing                |       3 |        9.375 |               4.0404 |                         5.3346  |
-| Automated testing with continuous integration |      15 |       46.875 |               0      |                        46.875   |
-| Don't know                                    |     nan |      nan     |             nan      |                       nan       |
+| No formal testing                             |       3 |         9.38 |                12.12 |                           -2.75 |
+| No formal testing but users provide feedback  |       9 |        28.12 |                33.33 |                           -5.21 |
+| The developers do their own testing           |      20 |        62.5  |                73.74 |                          -11.24 |
+| Test engineers conduct testing                |       3 |         9.38 |                 4.04 |                            5.33 |
+| Automated testing with continuous integration |      15 |        46.88 |                 0    |                           46.88 |
+| Don't know                                    |     nan |       nan    |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/testing-strategies_australia.csv){: .button}
 
@@ -644,34 +644,34 @@ Questions in this section:
 
 | Programming languages for Australia                                                 |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Python                                                                              |      23 |       71.875 |             68.6869  |                         3.18813 |
-| R                                                                                   |      12 |       37.5   |             39.3939  |                        -1.89394 |
-| SQL                                                                                 |       8 |       25     |             34.3434  |                        -9.34343 |
-| C++                                                                                 |       7 |       21.875 |             32.3232  |                       -10.4482  |
-| C                                                                                   |       6 |       18.75  |             31.3131  |                       -12.5631  |
-| JavaScript                                                                          |       6 |       18.75  |             26.2626  |                        -7.51263 |
-| Fortran                                                                             |       6 |       18.75  |             22.2222  |                        -3.47222 |
-| Julia                                                                               |       4 |       12.5   |              3.0303  |                         9.4697  |
-| Perl                                                                                |       3 |        9.375 |              8.08081 |                         1.29419 |
-| other. What programming languages do you use at work? Please select all that apply. |       3 |        9.375 |              0       |                         9.375   |
-| Java                                                                                |       3 |        9.375 |             20.202   |                       -10.827   |
-| PHP                                                                                 |       2 |        6.25  |              9.09091 |                        -2.84091 |
-| Assembly                                                                            |       2 |        6.25  |              0       |                         6.25    |
-| Rust                                                                                |       1 |        3.125 |              1.0101  |                         2.1149  |
-| Matlab                                                                              |       1 |        3.125 |             12.1212  |                        -8.99621 |
-| Groovy                                                                              |       1 |        3.125 |              2.0202  |                         1.1048  |
-| Ruby                                                                                |       0 |        0     |              5.05051 |                        -5.05051 |
-| TypeScript                                                                          |       0 |        0     |              1.0101  |                        -1.0101  |
-| VB.NET                                                                              |       0 |        0     |              2.0202  |                        -2.0202  |
-| Scala                                                                               |       0 |        0     |              1.0101  |                        -1.0101  |
-| VBA                                                                                 |       0 |        0     |              2.0202  |                        -2.0202  |
-| Visual Basic                                                                        |       0 |        0     |              2.0202  |                        -2.0202  |
-| Lua                                                                                 |       0 |        0     |              2.0202  |                        -2.0202  |
-| Haskell                                                                             |       0 |        0     |              1.0101  |                        -1.0101  |
-| Go                                                                                  |       0 |        0     |              5.05051 |                        -5.05051 |
-| F#                                                                                  |       0 |        0     |              1.0101  |                        -1.0101  |
-| Clojure                                                                             |       0 |        0     |              1.0101  |                        -1.0101  |
-| C#                                                                                  |       0 |        0     |             12.1212  |                       -12.1212  |
+| Python                                                                              |      23 |        71.88 |                68.69 |                            3.19 |
+| R                                                                                   |      12 |        37.5  |                39.39 |                           -1.89 |
+| SQL                                                                                 |       8 |        25    |                34.34 |                           -9.34 |
+| C++                                                                                 |       7 |        21.88 |                32.32 |                          -10.45 |
+| C                                                                                   |       6 |        18.75 |                31.31 |                          -12.56 |
+| JavaScript                                                                          |       6 |        18.75 |                26.26 |                           -7.51 |
+| Fortran                                                                             |       6 |        18.75 |                22.22 |                           -3.47 |
+| Julia                                                                               |       4 |        12.5  |                 3.03 |                            9.47 |
+| Perl                                                                                |       3 |         9.38 |                 8.08 |                            1.29 |
+| other. What programming languages do you use at work? Please select all that apply. |       3 |         9.38 |                 0    |                            9.38 |
+| Java                                                                                |       3 |         9.38 |                20.2  |                          -10.83 |
+| PHP                                                                                 |       2 |         6.25 |                 9.09 |                           -2.84 |
+| Assembly                                                                            |       2 |         6.25 |                 0    |                            6.25 |
+| Rust                                                                                |       1 |         3.12 |                 1.01 |                            2.11 |
+| Matlab                                                                              |       1 |         3.12 |                12.12 |                           -9    |
+| Groovy                                                                              |       1 |         3.12 |                 2.02 |                            1.1  |
+| Ruby                                                                                |       0 |         0    |                 5.05 |                           -5.05 |
+| TypeScript                                                                          |       0 |         0    |                 1.01 |                           -1.01 |
+| VB.NET                                                                              |       0 |         0    |                 2.02 |                           -2.02 |
+| Scala                                                                               |       0 |         0    |                 1.01 |                           -1.01 |
+| VBA                                                                                 |       0 |         0    |                 2.02 |                           -2.02 |
+| Visual Basic                                                                        |       0 |         0    |                 2.02 |                           -2.02 |
+| Lua                                                                                 |       0 |         0    |                 2.02 |                           -2.02 |
+| Haskell                                                                             |       0 |         0    |                 1.01 |                           -1.01 |
+| Go                                                                                  |       0 |         0    |                 5.05 |                           -5.05 |
+| F#                                                                                  |       0 |         0    |                 1.01 |                           -1.01 |
+| Clojure                                                                             |       0 |         0    |                 1.01 |                           -1.01 |
+| C#                                                                                  |       0 |         0    |                12.12 |                          -12.12 |
 
 [Download CSV](/international-survey-2022/csv/programming-languages_australia.csv){: .button}
 
@@ -681,10 +681,10 @@ Questions in this section:
 
 | Operating systems for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| GNU/Linux                         |      18 |     58.0645  |             60       |                       -1.93548  |
-| macOS                             |       7 |     22.5806  |            nan       |                      nan        |
-| Windows                           |       5 |     16.129   |             17.6471  |                       -1.51803  |
-| Other                             |       1 |      3.22581 |              2.35294 |                        0.872865 |
+| GNU/Linux                         |      18 |        58.06 |                60    |                           -1.94 |
+| macOS                             |       7 |        22.58 |               nan    |                          nan    |
+| Windows                           |       5 |        16.13 |                17.65 |                           -1.52 |
+| Other                             |       1 |         3.23 |                 2.35 |                            0.87 |
 
 [Download CSV](/international-survey-2022/csv/operating-systems_australia.csv){: .button}
 
@@ -809,8 +809,8 @@ and to acquire for their current role.
 
 | RSE Member for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                        |      15 |           50 |              18.1818 |                         31.8182 |
-| No                         |      15 |           50 |              81.8182 |                        -31.8182 |
+| Yes                        |      15 |           50 |                18.18 |                           31.82 |
+| No                         |      15 |           50 |                81.82 |                          -31.82 |
 
 [Download CSV](/international-survey-2022/csv/rse-member_australia.csv){: .button}
 
@@ -820,8 +820,8 @@ and to acquire for their current role.
 
 | Joining a RSE/RSD association for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                           |       7 |      63.6364 |              73.1707 |                        -9.53437 |
-| No                                            |       4 |      36.3636 |              26.8293 |                         9.53437 |
+| Yes                                           |       7 |        63.64 |                73.17 |                           -9.53 |
+| No                                            |       4 |        36.36 |                26.83 |                            9.53 |
 
 [Download CSV](/international-survey-2022/csv/joining-a-rse-rsd-association_australia.csv){: .button}
 
@@ -831,12 +831,12 @@ and to acquire for their current role.
 
 | What is important for such an organisation for Australia                              |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Networking                                                                            |      16 |       50     |              26.2626 |                        23.7374  |
-| Job opportunities                                                                     |      14 |       43.75  |              21.2121 |                        22.5379  |
-| Research software standards and interoperability definition                           |      13 |       40.625 |              16.1616 |                        24.4634  |
-| Training                                                                              |       9 |       28.125 |              17.1717 |                        10.9533  |
-| Research collaborations                                                               |       8 |       25     |              19.1919 |                         5.80808 |
-| other. What would you hope to get out of such an organisation (check all that apply)? |       3 |        9.375 |               0      |                         9.375   |
+| Networking                                                                            |      16 |        50    |                26.26 |                           23.74 |
+| Job opportunities                                                                     |      14 |        43.75 |                21.21 |                           22.54 |
+| Research software standards and interoperability definition                           |      13 |        40.62 |                16.16 |                           24.46 |
+| Training                                                                              |       9 |        28.12 |                17.17 |                           10.95 |
+| Research collaborations                                                               |       8 |        25    |                19.19 |                            5.81 |
+| other. What would you hope to get out of such an organisation (check all that apply)? |       3 |         9.38 |                 0    |                            9.38 |
 
 [Download CSV](/international-survey-2022/csv/what-is-important-for-such-an-organisation_australia.csv){: .button}
 
@@ -846,8 +846,8 @@ and to acquire for their current role.
 
 | Attending a national conference of RSE/RSD for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                        |      26 |     92.8571  |              74.6667 |                         18.1905 |
-| No                                                         |       2 |      7.14286 |              25.3333 |                        -18.1905 |
+| Yes                                                        |      26 |        92.86 |                74.67 |                           18.19 |
+| No                                                         |       2 |         7.14 |                25.33 |                          -18.19 |
 
 [Download CSV](/international-survey-2022/csv/attending-a-national-conference-of-rse-rsd_australia.csv){: .button}
 

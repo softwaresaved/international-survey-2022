@@ -29,12 +29,12 @@ selected at least one option.
 
 | Highest level of education for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Doctorate                                       |     124 |    70.8571   |            70.339    |                        0.51816  |
-| Master degree                                   |      35 |    20        |            20.339    |                       -0.338983 |
-| Undergraduate degree                            |      13 |     7.42857  |             8.89831  |                       -1.46973  |
-| Further Education (NVQ A-Level, ...)            |       1 |     0.571429 |           nan        |                      nan        |
-| Other                                           |       1 |     0.571429 |           nan        |                      nan        |
-| GSCEs                                           |       1 |     0.571429 |             0.423729 |                        0.1477   |
+| Doctorate                                       |     124 |        70.86 |                70.34 |                            0.52 |
+| Master degree                                   |      35 |        20    |                20.34 |                           -0.34 |
+| Undergraduate degree                            |      13 |         7.43 |                 8.9  |                           -1.47 |
+| Further Education (NVQ A-Level, ...)            |       1 |         0.57 |               nan    |                          nan    |
+| Other                                           |       1 |         0.57 |               nan    |                          nan    |
+| GSCEs                                           |       1 |         0.57 |                 0.42 |                            0.15 |
 
 [Download CSV](/international-survey-2022/csv/education_level_united-kingdom.csv){: .button}
 
@@ -49,26 +49,26 @@ despite lot of overlapping in the categories.
 
 | Field of education for United Kingdom    |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Physics and Astronomy                    |      55 |    31.4286   |            34.322    |                      -2.89346   |
-| Computer Science                         |      49 |    28        |            23.7288   |                       4.27119   |
-| Mathematics                              |      15 |     8.57143  |             7.62712  |                       0.94431   |
-| Biological Sciences                      |      13 |     7.42857  |            11.8644   |                      -4.43584   |
-| Chemistry                                |      10 |     5.71429  |             5.08475  |                       0.62954   |
-| Geography &amp; Environmental Sciences       |       8 |     4.57143  |             4.66102  |                      -0.0895884 |
-| Electrical &amp; Electronic Engineering      |       6 |     3.42857  |             2.54237  |                       0.886199  |
-| Mechanical Engineering                   |       4 |     2.28571  |             0.847458 |                       1.43826   |
-| English                                  |       2 |     1.14286  |             0.847458 |                       0.2954    |
-| nan                                      |       2 |     1.14286  |             0.423729 |                       0.719128  |
-| Medicine                                 |       2 |     1.14286  |             0.847458 |                       0.2954    |
-| Theology &amp; Religious Studies             |       1 |     0.571429 |             0.423729 |                       0.1477    |
-| Geology                                  |       1 |     0.571429 |             1.69492  |                      -1.12349   |
-| Robotics                                 |       1 |     0.571429 |             0.423729 |                       0.1477    |
-| History                                  |       1 |     0.571429 |             0.423729 |                       0.1477    |
-| Ophthalmics                              |       1 |     0.571429 |           nan        |                     nan         |
-| Economics                                |       1 |     0.571429 |           nan        |                     nan         |
-| French                                   |       1 |     0.571429 |           nan        |                     nan         |
-| Music                                    |       1 |     0.571429 |           nan        |                     nan         |
-| Aeronautical &amp; Manufacturing Engineering |       1 |     0.571429 |             0.847458 |                      -0.276029  |
+| Physics and Astronomy                    |      55 |        31.43 |                34.32 |                           -2.89 |
+| Computer Science                         |      49 |        28    |                23.73 |                            4.27 |
+| Mathematics                              |      15 |         8.57 |                 7.63 |                            0.94 |
+| Biological Sciences                      |      13 |         7.43 |                11.86 |                           -4.44 |
+| Chemistry                                |      10 |         5.71 |                 5.08 |                            0.63 |
+| Geography &amp; Environmental Sciences       |       8 |         4.57 |                 4.66 |                           -0.09 |
+| Electrical &amp; Electronic Engineering      |       6 |         3.43 |                 2.54 |                            0.89 |
+| Mechanical Engineering                   |       4 |         2.29 |                 0.85 |                            1.44 |
+| English                                  |       2 |         1.14 |                 0.85 |                            0.3  |
+| nan                                      |       2 |         1.14 |                 0.42 |                            0.72 |
+| Medicine                                 |       2 |         1.14 |                 0.85 |                            0.3  |
+| Theology &amp; Religious Studies             |       1 |         0.57 |                 0.42 |                            0.15 |
+| Geology                                  |       1 |         0.57 |                 1.69 |                           -1.12 |
+| Robotics                                 |       1 |         0.57 |                 0.42 |                            0.15 |
+| History                                  |       1 |         0.57 |                 0.42 |                            0.15 |
+| Ophthalmics                              |       1 |         0.57 |               nan    |                          nan    |
+| Economics                                |       1 |         0.57 |               nan    |                          nan    |
+| French                                   |       1 |         0.57 |               nan    |                          nan    |
+| Music                                    |       1 |         0.57 |               nan    |                          nan    |
+| Aeronautical &amp; Manufacturing Engineering |       1 |         0.57 |                 0.85 |                           -0.28 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_edu_united-kingdom.csv){: .button}
 
@@ -81,71 +81,71 @@ despite lot of overlapping in the categories.
 
 | field of work for United Kingdom             |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Computer Science                             |      83 |    47.4286   |            37.2881   |                      10.1404    |
-| Physics and Astronomy                        |      59 |    33.7143   |            38.1356   |                      -4.42131   |
-| Biological Sciences                          |      54 |    30.8571   |            28.3898   |                       2.46731   |
-| Medicine                                     |      48 |    27.4286   |            16.5254   |                      10.9031    |
-| Mathematics                                  |      42 |    24        |            12.7119   |                      11.2881    |
-| Geography &amp; Environmental Sciences           |      37 |    21.1429   |            18.2203   |                       2.92252   |
-| Chemistry                                    |      28 |    16        |            15.678    |                       0.322034  |
-| Mechanical Engineering                       |      23 |    13.1429   |             8.47458  |                       4.66828   |
-| Education                                    |      23 |    13.1429   |             7.20339  |                       5.93947   |
-| General Engineering                          |      19 |    10.8571   |             7.20339  |                       3.65375   |
-| Materials Technology                         |      19 |    10.8571   |             7.20339  |                       3.65375   |
-| Aeronautical &amp; Manufacturing Engineering     |      19 |    10.8571   |             6.77966  |                       4.07748   |
-| Psychology                                   |      18 |    10.2857   |             3.38983  |                       6.89588   |
-| Electrical &amp; Electronic Engineering          |      17 |     9.71429  |             5.08475  |                       4.62954   |
-| Civil Engineering                            |      14 |     8        |             5.50847  |                       2.49153   |
-| Geology                                      |      11 |     6.28571  |             5.08475  |                       1.20097   |
-| Chemical Engineering                         |      11 |     6.28571  |             5.9322   |                       0.353511  |
-| Librarianship &amp; Information Management       |      11 |     6.28571  |             3.38983  |                       2.89588   |
-| History                                      |      10 |     5.71429  |             4.23729  |                       1.477     |
-| Robotics                                     |      10 |     5.71429  |             4.66102  |                       1.05327   |
-| English                                      |       9 |     5.14286  |             2.54237  |                       2.60048   |
-| Linguistics                                  |       9 |     5.14286  |             3.81356  |                       1.3293    |
-| Sociology                                    |       9 |     5.14286  |             4.66102  |                       0.48184   |
-| Economics                                    |       7 |     4        |             4.66102  |                      -0.661017  |
-| Business &amp; Management Studies                |       7 |     4        |             1.27119  |                       2.72881   |
-| Agriculture &amp; Forestry                       |       7 |     4        |             5.08475  |                      -1.08475   |
-| Classics &amp; Ancient History                   |       6 |     3.42857  |             3.38983  |                       0.0387409 |
-| Pharmacology &amp; Pharmacy                      |       6 |     3.42857  |             3.38983  |                       0.0387409 |
-| Art &amp; Design                                 |       6 |     3.42857  |             2.54237  |                       0.886199  |
-| Architecture                                 |       6 |     3.42857  |             1.27119  |                       2.15738   |
-| Accounting &amp; Finance                         |       6 |     3.42857  |             2.11864  |                       1.30993   |
-| Sports Science                               |       5 |     2.85714  |             1.27119  |                       1.58596   |
-| Music                                        |       5 |     2.85714  |             1.69492  |                       1.16223   |
-| Anthropology                                 |       5 |     2.85714  |             0.847458 |                       2.00969   |
-| Anatomy &amp; Physiology                         |       5 |     2.85714  |             2.11864  |                       0.738499  |
-| Social Work                                  |       5 |     2.85714  |             0.847458 |                       2.00969   |
-| Ophthalmics                                  |       4 |     2.28571  |             1.27119  |                       1.01453   |
-| Social Policy                                |       4 |     2.28571  |             2.9661   |                      -0.680387  |
-| Criminology                                  |       4 |     2.28571  |             1.69492  |                       0.590799  |
-| Food Science                                 |       4 |     2.28571  |             1.27119  |                       1.01453   |
-| Law                                          |       3 |     1.71429  |             0.847458 |                       0.866828  |
-| Nursing                                      |       3 |     1.71429  |             1.27119  |                       0.443099  |
-| Theology &amp; Religious Studies                 |       3 |     1.71429  |             1.27119  |                       0.443099  |
-| Dentistry                                    |       3 |     1.71429  |             1.69492  |                       0.0193705 |
-| Politics                                     |       3 |     1.71429  |             0.423729 |                       1.29056   |
-| Physiotherapy                                |       3 |     1.71429  |             0.423729 |                       1.29056   |
-| Philosophy                                   |       3 |     1.71429  |             0.847458 |                       0.866828  |
-| Veterinary Medicine                          |       3 |     1.71429  |             0.847458 |                       0.866828  |
-| History of Art, Architecture &amp; Design        |       3 |     1.71429  |             2.11864  |                      -0.404358  |
-| Marketing                                    |       3 |     1.71429  |             0.847458 |                       0.866828  |
-| Town &amp; Country Planning and Landscape Design |       2 |     1.14286  |             1.69492  |                      -0.552058  |
-| Complementary Medicine                       |       2 |     1.14286  |             1.27119  |                      -0.128329  |
-| French                                       |       1 |     0.571429 |             1.69492  |                      -1.12349   |
-| Counselling                                  |       1 |     0.571429 |             0.423729 |                       0.1477    |
-| American Studies                             |       1 |     0.571429 |             0.423729 |                       0.1477    |
-| Middle Eastern and African Studies           |       1 |     0.571429 |             0.847458 |                      -0.276029  |
-| Youth Work                                   |       1 |     0.571429 |             0.847458 |                      -0.276029  |
-| Land &amp; Property Management                   |       1 |     0.571429 |             1.27119  |                      -0.699758  |
-| Communication &amp; Media Studies                |       1 |     0.571429 |             2.11864  |                      -1.54722   |
-| Iberian Languages/Hispanic Studies           |       1 |     0.571429 |             1.27119  |                      -0.699758  |
-| Russian &amp; East European Languages            |       1 |     0.571429 |             0.423729 |                       0.1477    |
-| Hospitality, Leisure, Recreation &amp; Tourism   |       1 |     0.571429 |             0.423729 |                       0.1477    |
-| German                                       |       1 |     0.571429 |             0.847458 |                      -0.276029  |
-| East &amp; South Asian Studies                   |       1 |     0.571429 |             0.847458 |                      -0.276029  |
-| Fashion                                      |       1 |     0.571429 |             0.423729 |                       0.1477    |
+| Computer Science                             |      83 |        47.43 |                37.29 |                           10.14 |
+| Physics and Astronomy                        |      59 |        33.71 |                38.14 |                           -4.42 |
+| Biological Sciences                          |      54 |        30.86 |                28.39 |                            2.47 |
+| Medicine                                     |      48 |        27.43 |                16.53 |                           10.9  |
+| Mathematics                                  |      42 |        24    |                12.71 |                           11.29 |
+| Geography &amp; Environmental Sciences           |      37 |        21.14 |                18.22 |                            2.92 |
+| Chemistry                                    |      28 |        16    |                15.68 |                            0.32 |
+| Mechanical Engineering                       |      23 |        13.14 |                 8.47 |                            4.67 |
+| Education                                    |      23 |        13.14 |                 7.2  |                            5.94 |
+| General Engineering                          |      19 |        10.86 |                 7.2  |                            3.65 |
+| Materials Technology                         |      19 |        10.86 |                 7.2  |                            3.65 |
+| Aeronautical &amp; Manufacturing Engineering     |      19 |        10.86 |                 6.78 |                            4.08 |
+| Psychology                                   |      18 |        10.29 |                 3.39 |                            6.9  |
+| Electrical &amp; Electronic Engineering          |      17 |         9.71 |                 5.08 |                            4.63 |
+| Civil Engineering                            |      14 |         8    |                 5.51 |                            2.49 |
+| Geology                                      |      11 |         6.29 |                 5.08 |                            1.2  |
+| Chemical Engineering                         |      11 |         6.29 |                 5.93 |                            0.35 |
+| Librarianship &amp; Information Management       |      11 |         6.29 |                 3.39 |                            2.9  |
+| History                                      |      10 |         5.71 |                 4.24 |                            1.48 |
+| Robotics                                     |      10 |         5.71 |                 4.66 |                            1.05 |
+| English                                      |       9 |         5.14 |                 2.54 |                            2.6  |
+| Linguistics                                  |       9 |         5.14 |                 3.81 |                            1.33 |
+| Sociology                                    |       9 |         5.14 |                 4.66 |                            0.48 |
+| Economics                                    |       7 |         4    |                 4.66 |                           -0.66 |
+| Business &amp; Management Studies                |       7 |         4    |                 1.27 |                            2.73 |
+| Agriculture &amp; Forestry                       |       7 |         4    |                 5.08 |                           -1.08 |
+| Classics &amp; Ancient History                   |       6 |         3.43 |                 3.39 |                            0.04 |
+| Pharmacology &amp; Pharmacy                      |       6 |         3.43 |                 3.39 |                            0.04 |
+| Art &amp; Design                                 |       6 |         3.43 |                 2.54 |                            0.89 |
+| Architecture                                 |       6 |         3.43 |                 1.27 |                            2.16 |
+| Accounting &amp; Finance                         |       6 |         3.43 |                 2.12 |                            1.31 |
+| Sports Science                               |       5 |         2.86 |                 1.27 |                            1.59 |
+| Music                                        |       5 |         2.86 |                 1.69 |                            1.16 |
+| Anthropology                                 |       5 |         2.86 |                 0.85 |                            2.01 |
+| Anatomy &amp; Physiology                         |       5 |         2.86 |                 2.12 |                            0.74 |
+| Social Work                                  |       5 |         2.86 |                 0.85 |                            2.01 |
+| Ophthalmics                                  |       4 |         2.29 |                 1.27 |                            1.01 |
+| Social Policy                                |       4 |         2.29 |                 2.97 |                           -0.68 |
+| Criminology                                  |       4 |         2.29 |                 1.69 |                            0.59 |
+| Food Science                                 |       4 |         2.29 |                 1.27 |                            1.01 |
+| Law                                          |       3 |         1.71 |                 0.85 |                            0.87 |
+| Nursing                                      |       3 |         1.71 |                 1.27 |                            0.44 |
+| Theology &amp; Religious Studies                 |       3 |         1.71 |                 1.27 |                            0.44 |
+| Dentistry                                    |       3 |         1.71 |                 1.69 |                            0.02 |
+| Politics                                     |       3 |         1.71 |                 0.42 |                            1.29 |
+| Physiotherapy                                |       3 |         1.71 |                 0.42 |                            1.29 |
+| Philosophy                                   |       3 |         1.71 |                 0.85 |                            0.87 |
+| Veterinary Medicine                          |       3 |         1.71 |                 0.85 |                            0.87 |
+| History of Art, Architecture &amp; Design        |       3 |         1.71 |                 2.12 |                           -0.4  |
+| Marketing                                    |       3 |         1.71 |                 0.85 |                            0.87 |
+| Town &amp; Country Planning and Landscape Design |       2 |         1.14 |                 1.69 |                           -0.55 |
+| Complementary Medicine                       |       2 |         1.14 |                 1.27 |                           -0.13 |
+| French                                       |       1 |         0.57 |                 1.69 |                           -1.12 |
+| Counselling                                  |       1 |         0.57 |                 0.42 |                            0.15 |
+| American Studies                             |       1 |         0.57 |                 0.42 |                            0.15 |
+| Middle Eastern and African Studies           |       1 |         0.57 |                 0.85 |                           -0.28 |
+| Youth Work                                   |       1 |         0.57 |                 0.85 |                           -0.28 |
+| Land &amp; Property Management                   |       1 |         0.57 |                 1.27 |                           -0.7  |
+| Communication &amp; Media Studies                |       1 |         0.57 |                 2.12 |                           -1.55 |
+| Iberian Languages/Hispanic Studies           |       1 |         0.57 |                 1.27 |                           -0.7  |
+| Russian &amp; East European Languages            |       1 |         0.57 |                 0.42 |                            0.15 |
+| Hospitality, Leisure, Recreation &amp; Tourism   |       1 |         0.57 |                 0.42 |                            0.15 |
+| German                                       |       1 |         0.57 |                 0.85 |                           -0.28 |
+| East &amp; South Asian Studies                   |       1 |         0.57 |                 0.85 |                           -0.28 |
+| Fashion                                      |       1 |         0.57 |                 0.42 |                            0.15 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_work_united-kingdom.csv){: .button}
 
@@ -169,8 +169,8 @@ Questions in this section:
 
 | Professional developer for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                         |     118 |      69.4118 |              62.7193 |                         6.69247 |
-| No                                          |      52 |      30.5882 |              37.2807 |                        -6.69247 |
+| Yes                                         |     118 |        69.41 |                62.72 |                            6.69 |
+| No                                          |      52 |        30.59 |                37.28 |                           -6.69 |
 
 [Download CSV](/international-survey-2022/csv/proportion-professional-developer_united-kingdom.csv){: .button}
 
@@ -180,14 +180,14 @@ Questions in this section:
 
 | How many years of software development experience for United Kingdom (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:-----------------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                          |          97       |         216       |
-| mean                                                                                           |           7.2268  |          10.7778  |
-| std                                                                                            |           3.65862 |           6.61757 |
-| min                                                                                            |           0       |           0       |
-| 25%                                                                                            |           4       |           5       |
-| 50%                                                                                            |           8       |          10       |
-| 75%                                                                                            |          10       |          16       |
-| max                                                                                            |          14       |          28       |
+| count                                                                                          |             97    |            216    |
+| mean                                                                                           |              7.23 |             10.78 |
+| std                                                                                            |              3.66 |              6.62 |
+| min                                                                                            |              0    |              0    |
+| 25%                                                                                            |              4    |              5    |
+| 50%                                                                                            |              8    |             10    |
+| 75%                                                                                            |             10    |             16    |
+| max                                                                                            |             14    |             28    |
 
 [Download CSV](/international-survey-2022/csv/summary-years-professional-developer_united-kingdom.csv){: .button}
 
@@ -267,13 +267,13 @@ position among 8 different ones:
 
 | Where the previous job was based for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| University                                            |      96 |       60     |             64.7887  |                       -4.78873  |
-| Private company                                       |      29 |       18.125 |             20.1878  |                       -2.06279  |
-| This is my first job                                  |      12 |        7.5   |            nan       |                      nan        |
-| National laboratory                                   |       8 |        5     |              4.22535 |                        0.774648 |
-| Non-profit organization                               |       7 |        4.375 |              1.87793 |                        2.49707  |
-| Government                                            |       5 |        3.125 |              2.8169  |                        0.308099 |
-| Other                                                 |       3 |        1.875 |              6.10329 |                       -4.22829  |
+| University                                            |      96 |        60    |                64.79 |                           -4.79 |
+| Private company                                       |      29 |        18.12 |                20.19 |                           -2.06 |
+| This is my first job                                  |      12 |         7.5  |               nan    |                          nan    |
+| National laboratory                                   |       8 |         5    |                 4.23 |                            0.77 |
+| Non-profit organization                               |       7 |         4.38 |                 1.88 |                            2.5  |
+| Government                                            |       5 |         3.12 |                 2.82 |                            0.31 |
+| Other                                                 |       3 |         1.88 |                 6.1  |                           -4.23 |
 
 [Download CSV](/international-survey-2022/csv/where-previous-job-based_united-kingdom.csv){: .button}
 
@@ -283,15 +283,15 @@ position among 8 different ones:
 
 | Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
 |:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Desire to work in a research environment | 24.6914  | 24.2236  | 13.6364  | 11.5108  |  9.67742 |
-| Opportunity to develop software          | 20.9877  | 12.4224  | 15.5844  |  7.91367 |  7.25806 |
-| Desire to advance research               | 16.0494  | 15.528   | 15.5844  | 12.9496  |  8.06452 |
-| Freedom to choose own working practices  | 12.963   | 11.8012  | 12.3377  | 12.9496  |  7.25806 |
-| Flexible working hours                   |  7.40741 |  8.07453 |  3.24675 | 15.8273  | 15.3226  |
-| I want to learn new skills               |  6.79012 |  9.93789 | 13.6364  | 12.9496  | 12.0968  |
-| Opportunity for career advancement       |  6.79012 |  6.8323  |  6.49351 |  7.19424 | 10.4839  |
-| Ability to work across disciplines       |  3.08642 |  9.31677 | 14.9351  | 11.5108  | 19.3548  |
-| The salary                               |  1.23457 |  1.86335 |  4.54545 |  7.19424 | 10.4839  |
+| Desire to work in a research environment |    24.69 |    24.22 |    13.64 |    11.51 |     9.68 |
+| Opportunity to develop software          |    20.99 |    12.42 |    15.58 |     7.91 |     7.26 |
+| Desire to advance research               |    16.05 |    15.53 |    15.58 |    12.95 |     8.06 |
+| Freedom to choose own working practices  |    12.96 |    11.8  |    12.34 |    12.95 |     7.26 |
+| Flexible working hours                   |     7.41 |     8.07 |     3.25 |    15.83 |    15.32 |
+| I want to learn new skills               |     6.79 |     9.94 |    13.64 |    12.95 |    12.1  |
+| Opportunity for career advancement       |     6.79 |     6.83 |     6.49 |     7.19 |    10.48 |
+| Ability to work across disciplines       |     3.09 |     9.32 |    14.94 |    11.51 |    19.35 |
+| The salary                               |     1.23 |     1.86 |     4.55 |     7.19 |    10.48 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_united-kingdom.csv){: .button}
 
@@ -317,12 +317,12 @@ Questions in this section:
 
 | developing code for others for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 0 - Mostly me                                   |      12 |      7.36196 |              5.50847 |                         1.85349 |
-| 1                                               |      12 |      7.36196 |             11.4407  |                        -4.07871 |
-| 2                                               |      18 |     11.0429  |             19.0678  |                        -8.02485 |
-| 3                                               |      36 |     22.0859  |             15.678   |                         6.40792 |
-| 4                                               |      39 |     23.9264  |             17.3729  |                         6.5535  |
-| 5 - Mostly other people                         |      46 |     28.2209  |             30.9322  |                        -2.71134 |
+| 0 - Mostly me                                   |      12 |         7.36 |                 5.51 |                            1.85 |
+| 1                                               |      12 |         7.36 |                11.44 |                           -4.08 |
+| 2                                               |      18 |        11.04 |                19.07 |                           -8.02 |
+| 3                                               |      36 |        22.09 |                15.68 |                            6.41 |
+| 4                                               |      39 |        23.93 |                17.37 |                            6.55 |
+| 5 - Mostly other people                         |      46 |        28.22 |                30.93 |                           -2.71 |
 
 [Download CSV](/international-survey-2022/csv/developing-code-for-others_united-kingdom.csv){: .button}
 
@@ -332,9 +332,9 @@ Questions in this section:
 
 | Working with same researchers for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Different researchers, same research group         |      19 |      12.4183 |              15.8879 |                        -3.46955 |
-| Regularly change researcher(s)                     |      81 |      52.9412 |              38.785  |                        14.1561  |
-| Same researcher(s)                                 |      53 |      34.6405 |              45.3271 |                       -10.6866  |
+| Different researchers, same research group         |      19 |        12.42 |                15.89 |                           -3.47 |
+| Regularly change researcher(s)                     |      81 |        52.94 |                38.79 |                           14.16 |
+| Same researcher(s)                                 |      53 |        34.64 |                45.33 |                          -10.69 |
 
 [Download CSV](/international-survey-2022/csv/working-with-same-researchers_united-kingdom.csv){: .button}
 
@@ -344,8 +344,8 @@ Questions in this section:
 
 | member of a dedicated group for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No                                               |      73 |      47.7124 |              51.4019 |                        -3.68945 |
-| Yes                                              |      80 |      52.2876 |              48.5981 |                         3.68945 |
+| No                                               |      73 |        47.71 |                 51.4 |                           -3.69 |
+| Yes                                              |      80 |        52.29 |                 48.6 |                            3.69 |
 
 [Download CSV](/international-survey-2022/csv/member-of-a-dedicated-group_united-kingdom.csv){: .button}
 
@@ -355,17 +355,17 @@ Questions in this section:
 
 |   Number of software projects for United Kingdom |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                0 |       2 |     1.30719  |             0.985222 |                        0.321968 |
-|                                                1 |      27 |    17.6471   |            18.2266   |                       -0.579542 |
-|                                                2 |      42 |    27.451    |            23.1527   |                        4.29827  |
-|                                                3 |      32 |    20.915    |            24.6305   |                       -3.71551  |
-|                                                4 |      20 |    13.0719   |             6.89655  |                        6.17534  |
-|                                                5 |      15 |     9.80392  |            10.3448   |                       -0.540906 |
-|                                                6 |       3 |     1.96078  |             5.41872  |                       -3.45793  |
-|                                                7 |       5 |     3.26797  |             0.985222 |                        2.28275  |
-|                                                8 |       1 |     0.653595 |             0.985222 |                       -0.331627 |
-|                                               10 |       2 |     1.30719  |             3.94089  |                       -2.6337   |
-|                                               15 |       4 |     2.61438  |             0.492611 |                        2.12177  |
+|                                                0 |       2 |         1.31 |                 0.99 |                            0.32 |
+|                                                1 |      27 |        17.65 |                18.23 |                           -0.58 |
+|                                                2 |      42 |        27.45 |                23.15 |                            4.3  |
+|                                                3 |      32 |        20.92 |                24.63 |                           -3.72 |
+|                                                4 |      20 |        13.07 |                 6.9  |                            6.18 |
+|                                                5 |      15 |         9.8  |                10.34 |                           -0.54 |
+|                                                6 |       3 |         1.96 |                 5.42 |                           -3.46 |
+|                                                7 |       5 |         3.27 |                 0.99 |                            2.28 |
+|                                                8 |       1 |         0.65 |                 0.99 |                           -0.33 |
+|                                               10 |       2 |         1.31 |                 3.94 |                           -2.63 |
+|                                               15 |       4 |         2.61 |                 0.49 |                            2.12 |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_united-kingdom.csv){: .button}
 
@@ -373,20 +373,20 @@ Questions in this section:
 
 |   Number of software developers per projects for United Kingdom |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |----------------------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                             0   |       4 |     2.8169   |             1.99005  |                        0.826852 |
-|                                                             1   |      26 |    18.3099   |            32.8358   |                      -14.526    |
-|                                                             1.2 |       1 |     0.704225 |           nan        |                      nan        |
-|                                                             1.5 |       1 |     0.704225 |             0.497512 |                        0.206713 |
-|                                                             2   |      52 |    36.6197   |            27.3632   |                        9.25653  |
-|                                                             2.5 |       1 |     0.704225 |             0.497512 |                        0.206713 |
-|                                                             3   |      27 |    19.0141   |            12.4378   |                        6.57627  |
-|                                                             4   |       9 |     6.33803  |             3.48259  |                        2.85544  |
-|                                                             5   |       8 |     5.6338   |             6.96517  |                       -1.33137  |
-|                                                             6   |       3 |     2.11268  |             3.9801   |                       -1.86742  |
-|                                                             7   |       2 |     1.40845  |             0.497512 |                        0.910938 |
-|                                                             8   |       1 |     0.704225 |             1.49254  |                       -0.788312 |
-|                                                            10   |       6 |     4.22535  |             2.48756  |                        1.73779  |
-|                                                           100   |       1 |     0.704225 |           nan        |                      nan        |
+|                                                             0   |       4 |         2.82 |                 1.99 |                            0.83 |
+|                                                             1   |      26 |        18.31 |                32.84 |                          -14.53 |
+|                                                             1.2 |       1 |         0.7  |               nan    |                          nan    |
+|                                                             1.5 |       1 |         0.7  |                 0.5  |                            0.21 |
+|                                                             2   |      52 |        36.62 |                27.36 |                            9.26 |
+|                                                             2.5 |       1 |         0.7  |                 0.5  |                            0.21 |
+|                                                             3   |      27 |        19.01 |                12.44 |                            6.58 |
+|                                                             4   |       9 |         6.34 |                 3.48 |                            2.86 |
+|                                                             5   |       8 |         5.63 |                 6.97 |                           -1.33 |
+|                                                             6   |       3 |         2.11 |                 3.98 |                           -1.87 |
+|                                                             7   |       2 |         1.41 |                 0.5  |                            0.91 |
+|                                                             8   |       1 |         0.7  |                 1.49 |                           -0.79 |
+|                                                            10   |       6 |         4.23 |                 2.49 |                            1.74 |
+|                                                           100   |       1 |         0.7  |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-developers-per-projects_united-kingdom.csv){: .button}
 
@@ -396,14 +396,14 @@ Questions in this section:
 
 | Number of time per year providing training for United Kingdom (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:----------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                   |         136       |         202       |
-| mean                                                                                    |           1.92132 |           2.36139 |
-| std                                                                                     |           1.95704 |           2.59028 |
-| min                                                                                     |           0       |           0       |
-| 25%                                                                                     |           0       |           0       |
-| 50%                                                                                     |           1       |           2       |
-| 75%                                                                                     |           3       |           3       |
-| max                                                                                     |           9       |          12       |
+| count                                                                                   |            136    |            202    |
+| mean                                                                                    |              1.92 |              2.36 |
+| std                                                                                     |              1.96 |              2.59 |
+| min                                                                                     |              0    |              0    |
+| 25%                                                                                     |              0    |              0    |
+| 50%                                                                                     |              1    |              2    |
+| 75%                                                                                     |              3    |              3    |
+| max                                                                                     |              9    |             12    |
 
 [Download CSV](/international-survey-2022/csv/training-frequency_united-kingdom.csv){: .button}
 
@@ -435,11 +435,11 @@ Questions in the section:
 
 | Acknowledgment in paper for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Not mentioned at all                         |      17 |     12.5926  |             19.1589  |                      -6.56629   |
-| Acknowledged in the main text                |      12 |      8.88889 |              4.6729  |                       4.21599   |
-| Acknowledged in acknowledgements section     |      19 |     14.0741  |             19.6262  |                      -5.55209   |
-| Named as co-author                           |      80 |     59.2593  |             51.4019  |                       7.85739   |
-| Named as main author                         |       7 |      5.18519 |              5.14019 |                       0.0449983 |
+| Not mentioned at all                         |      17 |        12.59 |                19.16 |                           -6.57 |
+| Acknowledged in the main text                |      12 |         8.89 |                 4.67 |                            4.22 |
+| Acknowledged in acknowledgements section     |      19 |        14.07 |                19.63 |                           -5.55 |
+| Named as co-author                           |      80 |        59.26 |                51.4  |                            7.86 |
+| Named as main author                         |       7 |         5.19 |                 5.14 |                            0.04 |
 
 [Download CSV](/international-survey-2022/csv/acknowledgment-in-paper_united-kingdom.csv){: .button}
 
@@ -449,8 +449,8 @@ Questions in the section:
 
 | Did you participate in conference for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                    |      87 |      60.8392 |              58.1731 |                         2.66608 |
-| No                                                     |      56 |      39.1608 |              41.8269 |                        -2.66608 |
+| Yes                                                    |      87 |        60.84 |                58.17 |                            2.67 |
+| No                                                     |      56 |        39.16 |                41.83 |                           -2.67 |
 
 [Download CSV](/international-survey-2022/csv/did-you-participate-in-conference_united-kingdom.csv){: .button}
 
@@ -489,16 +489,16 @@ Questions in this section:
 
 | Open source use for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                      |     nan |    nan       |            nan       |                      nan        |
-| 2                                    |     nan |    nan       |            nan       |                      nan        |
-| 3                                    |       5 |      3.28947 |              4.20561 |                       -0.916134 |
-| 4                                    |       4 |      2.63158 |              2.33645 |                        0.29513  |
-| 5                                    |      12 |      7.89474 |              6.07477 |                        1.81997  |
-| 6                                    |       8 |      5.26316 |              2.80374 |                        2.45942  |
-| 7                                    |       9 |      5.92105 |              8.8785  |                       -2.95745  |
-| 8                                    |      20 |     13.1579  |              9.34579 |                        3.8121   |
-| 9                                    |      26 |     17.1053  |             14.0187  |                        3.08657  |
-| 10 (All the time)                    |      60 |     39.4737  |             43.4579  |                       -3.98426  |
+| 1 (None at all)                      |     nan |       nan    |               nan    |                          nan    |
+| 2                                    |     nan |       nan    |               nan    |                          nan    |
+| 3                                    |       5 |         3.29 |                 4.21 |                           -0.92 |
+| 4                                    |       4 |         2.63 |                 2.34 |                            0.3  |
+| 5                                    |      12 |         7.89 |                 6.07 |                            1.82 |
+| 6                                    |       8 |         5.26 |                 2.8  |                            2.46 |
+| 7                                    |       9 |         5.92 |                 8.88 |                           -2.96 |
+| 8                                    |      20 |        13.16 |                 9.35 |                            3.81 |
+| 9                                    |      26 |        17.11 |                14.02 |                            3.09 |
+| 10 (All the time)                    |      60 |        39.47 |                43.46 |                           -3.98 |
 
 [Download CSV](/international-survey-2022/csv/open-source-use_united-kingdom.csv){: .button}
 
@@ -508,16 +508,16 @@ Questions in this section:
 
 | Citation of software for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                           |     nan |    nan       |            nan       |                      nan        |
-| 2                                         |       8 |      6.83761 |              3.73832 |                        3.09929  |
-| 3                                         |       7 |      5.98291 |              3.73832 |                        2.24459  |
-| 4                                         |       6 |      5.12821 |              3.73832 |                        1.38989  |
-| 5                                         |       6 |      5.12821 |             12.1495  |                       -7.02133  |
-| 6                                         |       8 |      6.83761 |              7.94393 |                       -1.10632  |
-| 7                                         |      10 |      8.54701 |              6.54206 |                        2.00495  |
-| 8                                         |      17 |     14.5299  |             10.2804  |                        4.24954  |
-| 9                                         |       7 |      5.98291 |              5.14019 |                        0.842719 |
-| 10 (All the time)                         |      45 |     38.4615  |             34.1121  |                        4.34939  |
+| 1 (None at all)                           |     nan |       nan    |               nan    |                          nan    |
+| 2                                         |       8 |         6.84 |                 3.74 |                            3.1  |
+| 3                                         |       7 |         5.98 |                 3.74 |                            2.24 |
+| 4                                         |       6 |         5.13 |                 3.74 |                            1.39 |
+| 5                                         |       6 |         5.13 |                12.15 |                           -7.02 |
+| 6                                         |       8 |         6.84 |                 7.94 |                           -1.11 |
+| 7                                         |      10 |         8.55 |                 6.54 |                            2    |
+| 8                                         |      17 |        14.53 |                10.28 |                            4.25 |
+| 9                                         |       7 |         5.98 |                 5.14 |                            0.84 |
+| 10 (All the time)                         |      45 |        38.46 |                34.11 |                            4.35 |
 
 [Download CSV](/international-survey-2022/csv/citation-of-software_united-kingdom.csv){: .button}
 
@@ -527,16 +527,16 @@ Questions in this section:
 
 | Use of Digital Object Identifier for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                                       |     nan |    nan       |            nan       |                      nan        |
-| 2                                                     |      10 |      7.87402 |              8.8785  |                       -1.00449  |
-| 3                                                     |       9 |      7.08661 |              6.54206 |                        0.544558 |
-| 4                                                     |       9 |      7.08661 |              4.6729  |                        2.41372  |
-| 5                                                     |      11 |      8.66142 |              8.8785  |                       -0.217087 |
-| 6                                                     |       9 |      7.08661 |              5.14019 |                        1.94643  |
-| 7                                                     |      10 |      7.87402 |              4.6729  |                        3.20112  |
-| 8                                                     |      17 |     13.3858  |              3.73832 |                        9.64751  |
-| 9                                                     |       2 |      1.5748  |              2.80374 |                       -1.22894  |
-| 10 (All the time)                                     |      16 |     12.5984  |              9.81308 |                        2.78534  |
+| 1 (None at all)                                       |     nan |       nan    |               nan    |                          nan    |
+| 2                                                     |      10 |         7.87 |                 8.88 |                           -1    |
+| 3                                                     |       9 |         7.09 |                 6.54 |                            0.54 |
+| 4                                                     |       9 |         7.09 |                 4.67 |                            2.41 |
+| 5                                                     |      11 |         8.66 |                 8.88 |                           -0.22 |
+| 6                                                     |       9 |         7.09 |                 5.14 |                            1.95 |
+| 7                                                     |      10 |         7.87 |                 4.67 |                            3.2  |
+| 8                                                     |      17 |        13.39 |                 3.74 |                            9.65 |
+| 9                                                     |       2 |         1.57 |                 2.8  |                           -1.23 |
+| 10 (All the time)                                     |      16 |        12.6  |                 9.81 |                            2.79 |
 
 [Download CSV](/international-survey-2022/csv/use-of-digital-object-identifier_united-kingdom.csv){: .button}
 
@@ -550,8 +550,8 @@ Questions in this section:
 
 | Using ORCID for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                              |     135 |     90.604   |              73.3333 |                        17.2707  |
-| No                               |       9 |      6.04027 |              10.4762 |                        -4.43592 |
+| Yes                              |     135 |        90.6  |                73.33 |                           17.27 |
+| No                               |       9 |         6.04 |                10.48 |                           -4.44 |
 
 [Download CSV](/international-survey-2022/csv/using-orcid_united-kingdom.csv){: .button}
 
@@ -616,15 +616,15 @@ using for their most important project.
 
 |   Bus factor for United Kingdom |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |--------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                               0 |       2 |     1.31579  |              2.33645 |                       -1.02066  |
-|                               1 |      72 |    47.3684   |             38.3178  |                        9.05066  |
-|                               2 |      42 |    27.6316   |             35.9813  |                       -8.34973  |
-|                               3 |      23 |    15.1316   |              9.81308 |                        5.31849  |
-|                               4 |       8 |     5.26316  |              6.54206 |                       -1.2789   |
-|                               5 |       2 |     1.31579  |              1.86916 |                       -0.553369 |
-|                               6 |       1 |     0.657895 |              1.40187 |                       -0.743974 |
-|                              20 |       1 |     0.657895 |            nan       |                      nan        |
-|                             100 |       1 |     0.657895 |            nan       |                      nan        |
+|                               0 |       2 |         1.32 |                 2.34 |                           -1.02 |
+|                               1 |      72 |        47.37 |                38.32 |                            9.05 |
+|                               2 |      42 |        27.63 |                35.98 |                           -8.35 |
+|                               3 |      23 |        15.13 |                 9.81 |                            5.32 |
+|                               4 |       8 |         5.26 |                 6.54 |                           -1.28 |
+|                               5 |       2 |         1.32 |                 1.87 |                           -0.55 |
+|                               6 |       1 |         0.66 |                 1.4  |                           -0.74 |
+|                              20 |       1 |         0.66 |               nan    |                          nan    |
+|                             100 |       1 |         0.66 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/bus-factor_united-kingdom.csv){: .button}
 
@@ -634,8 +634,8 @@ using for their most important project.
 
 | Presence of transition plan for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                              |      43 |      28.2895 |              24.2991 |                         3.99041 |
-| No                                               |     109 |      71.7105 |              75.7009 |                        -3.99041 |
+| Yes                                              |      43 |        28.29 |                 24.3 |                            3.99 |
+| No                                               |     109 |        71.71 |                 75.7 |                           -3.99 |
 
 [Download CSV](/international-survey-2022/csv/presence-of-transition-plan_united-kingdom.csv){: .button}
 
@@ -645,11 +645,11 @@ using for their most important project.
 
 | Use of version control for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Git                                         |     149 |     85.1429  |             84.322   |                        0.820823 |
-| SVN                                         |      14 |      8       |             22.4576  |                      -14.4576   |
-| Mercurial                                   |       3 |      1.71429 |              9.74576 |                       -8.03148  |
-| None                                        |       2 |      1.14286 |              1.69492 |                       -0.552058 |
-| CVS                                         |       0 |      0       |              4.66102 |                       -4.66102  |
+| Git                                         |     149 |        85.14 |                84.32 |                            0.82 |
+| SVN                                         |      14 |         8    |                22.46 |                          -14.46 |
+| Mercurial                                   |       3 |         1.71 |                 9.75 |                           -8.03 |
+| None                                        |       2 |         1.14 |                 1.69 |                           -0.55 |
+| CVS                                         |       0 |         0    |                 4.66 |                           -4.66 |
 
 [Download CSV](/international-survey-2022/csv/use-of-version-control_united-kingdom.csv){: .button}
 
@@ -659,12 +659,12 @@ using for their most important project.
 
 | Testing strategies for United Kingdom         |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No formal testing                             |      20 |    11.4286   |              7.62712 |                        3.80145  |
-| No formal testing but users provide feedback  |      35 |    20        |             22.4576  |                       -2.45763  |
-| The developers do their own testing           |     116 |    66.2857   |             81.3559  |                      -15.0702   |
-| Test engineers conduct testing                |       6 |     3.42857  |              2.9661  |                        0.46247  |
-| Automated testing with continuous integration |     100 |    57.1429   |              0       |                       57.1429   |
-| Don't know                                    |       1 |     0.571429 |              0       |                        0.571429 |
+| No formal testing                             |      20 |        11.43 |                 7.63 |                            3.8  |
+| No formal testing but users provide feedback  |      35 |        20    |                22.46 |                           -2.46 |
+| The developers do their own testing           |     116 |        66.29 |                81.36 |                          -15.07 |
+| Test engineers conduct testing                |       6 |         3.43 |                 2.97 |                            0.46 |
+| Automated testing with continuous integration |     100 |        57.14 |                 0    |                           57.14 |
+| Don't know                                    |       1 |         0.57 |                 0    |                            0.57 |
 
 [Download CSV](/international-survey-2022/csv/testing-strategies_united-kingdom.csv){: .button}
 
@@ -691,38 +691,38 @@ Questions in this section:
 
 | Programming languages for United Kingdom                                            |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Python                                                                              |     130 |    74.2857   |            77.1186   |                      -2.83293   |
-| JavaScript                                                                          |      58 |    33.1429   |            27.5424   |                       5.60048   |
-| C++                                                                                 |      58 |    33.1429   |            37.7119   |                      -4.56901   |
-| R                                                                                   |      44 |    25.1429   |            29.2373   |                      -4.09443   |
-| SQL                                                                                 |      39 |    22.2857   |            27.9661   |                      -5.68039   |
-| C                                                                                   |      35 |    20        |            35.1695   |                     -15.1695    |
-| Fortran                                                                             |      29 |    16.5714   |            27.5424   |                     -10.9709    |
-| Matlab                                                                              |      26 |    14.8571   |            17.3729   |                      -2.51574   |
-| Java                                                                                |      22 |    12.5714   |            19.9153   |                      -7.34383   |
-| TypeScript                                                                          |      17 |     9.71429  |             3.38983  |                       6.32446   |
-| other. What programming languages do you use at work? Please select all that apply. |      13 |     7.42857  |             0        |                       7.42857   |
-| Ruby                                                                                |      12 |     6.85714  |             2.9661   |                       3.89104   |
-| C#                                                                                  |      12 |     6.85714  |             7.20339  |                      -0.346247  |
-| PHP                                                                                 |      11 |     6.28571  |             9.32203  |                      -3.03632   |
-| Julia                                                                               |       6 |     3.42857  |             1.69492  |                       1.73366   |
-| Perl                                                                                |       6 |     3.42857  |            12.2881   |                      -8.85956   |
-| Rust                                                                                |       3 |     1.71429  |             1.69492  |                       0.0193705 |
-| Scala                                                                               |       3 |     1.71429  |             1.27119  |                       0.443099  |
-| Objective-C                                                                         |       3 |     1.71429  |             0.847458 |                       0.866828  |
-| Swift                                                                               |       3 |     1.71429  |             0        |                       1.71429   |
-| Assembly                                                                            |       2 |     1.14286  |             2.54237  |                      -1.39952   |
-| VBA                                                                                 |       2 |     1.14286  |             2.9661   |                      -1.82324   |
-| Go                                                                                  |       2 |     1.14286  |             1.27119  |                      -0.128329  |
-| F#                                                                                  |       2 |     1.14286  |             0        |                       1.14286   |
-| Common Lisp                                                                         |       2 |     1.14286  |             0        |                       1.14286   |
-| Haskell                                                                             |       1 |     0.571429 |             0        |                       0.571429  |
-| Visual Basic                                                                        |       0 |     0        |             1.27119  |                      -1.27119   |
-| VB.NET                                                                              |       0 |     0        |             0.847458 |                      -0.847458  |
-| Lua                                                                                 |       0 |     0        |             1.27119  |                      -1.27119   |
-| Groovy                                                                              |       0 |     0        |             1.27119  |                      -1.27119   |
-| CoffeeScript                                                                        |       0 |     0        |             1.27119  |                      -1.27119   |
-| Clojure                                                                             |       0 |     0        |             0.423729 |                      -0.423729  |
+| Python                                                                              |     130 |        74.29 |                77.12 |                           -2.83 |
+| JavaScript                                                                          |      58 |        33.14 |                27.54 |                            5.6  |
+| C++                                                                                 |      58 |        33.14 |                37.71 |                           -4.57 |
+| R                                                                                   |      44 |        25.14 |                29.24 |                           -4.09 |
+| SQL                                                                                 |      39 |        22.29 |                27.97 |                           -5.68 |
+| C                                                                                   |      35 |        20    |                35.17 |                          -15.17 |
+| Fortran                                                                             |      29 |        16.57 |                27.54 |                          -10.97 |
+| Matlab                                                                              |      26 |        14.86 |                17.37 |                           -2.52 |
+| Java                                                                                |      22 |        12.57 |                19.92 |                           -7.34 |
+| TypeScript                                                                          |      17 |         9.71 |                 3.39 |                            6.32 |
+| other. What programming languages do you use at work? Please select all that apply. |      13 |         7.43 |                 0    |                            7.43 |
+| Ruby                                                                                |      12 |         6.86 |                 2.97 |                            3.89 |
+| C#                                                                                  |      12 |         6.86 |                 7.2  |                           -0.35 |
+| PHP                                                                                 |      11 |         6.29 |                 9.32 |                           -3.04 |
+| Julia                                                                               |       6 |         3.43 |                 1.69 |                            1.73 |
+| Perl                                                                                |       6 |         3.43 |                12.29 |                           -8.86 |
+| Rust                                                                                |       3 |         1.71 |                 1.69 |                            0.02 |
+| Scala                                                                               |       3 |         1.71 |                 1.27 |                            0.44 |
+| Objective-C                                                                         |       3 |         1.71 |                 0.85 |                            0.87 |
+| Swift                                                                               |       3 |         1.71 |                 0    |                            1.71 |
+| Assembly                                                                            |       2 |         1.14 |                 2.54 |                           -1.4  |
+| VBA                                                                                 |       2 |         1.14 |                 2.97 |                           -1.82 |
+| Go                                                                                  |       2 |         1.14 |                 1.27 |                           -0.13 |
+| F#                                                                                  |       2 |         1.14 |                 0    |                            1.14 |
+| Common Lisp                                                                         |       2 |         1.14 |                 0    |                            1.14 |
+| Haskell                                                                             |       1 |         0.57 |                 0    |                            0.57 |
+| Visual Basic                                                                        |       0 |         0    |                 1.27 |                           -1.27 |
+| VB.NET                                                                              |       0 |         0    |                 0.85 |                           -0.85 |
+| Lua                                                                                 |       0 |         0    |                 1.27 |                           -1.27 |
+| Groovy                                                                              |       0 |         0    |                 1.27 |                           -1.27 |
+| CoffeeScript                                                                        |       0 |         0    |                 1.27 |                           -1.27 |
+| Clojure                                                                             |       0 |         0    |                 0.42 |                           -0.42 |
 
 [Download CSV](/international-survey-2022/csv/programming-languages_united-kingdom.csv){: .button}
 
@@ -732,9 +732,9 @@ Questions in this section:
 
 | Operating systems for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| GNU/Linux                              |      83 |      58.042  |              61.4634 |                        -3.42146 |
-| macOS                                  |      43 |      30.0699 |             nan      |                       nan       |
-| Windows                                |      17 |      11.8881 |              18.0488 |                        -6.16067 |
+| GNU/Linux                              |      83 |        58.04 |                61.46 |                           -3.42 |
+| macOS                                  |      43 |        30.07 |               nan    |                          nan    |
+| Windows                                |      17 |        11.89 |                18.05 |                           -6.16 |
 
 [Download CSV](/international-survey-2022/csv/operating-systems_united-kingdom.csv){: .button}
 
@@ -859,8 +859,8 @@ and to acquire for their current role.
 
 | RSE Member for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                             |      88 |      63.7681 |              46.3415 |                         17.4267 |
-| No                              |      50 |      36.2319 |              53.6585 |                        -17.4267 |
+| Yes                             |      88 |        63.77 |                46.34 |                           17.43 |
+| No                              |      50 |        36.23 |                53.66 |                          -17.43 |
 
 [Download CSV](/international-survey-2022/csv/rse-member_united-kingdom.csv){: .button}
 
@@ -870,8 +870,8 @@ and to acquire for their current role.
 
 | Joining a RSE/RSD association for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                |      27 |      64.2857 |                   75 |                        -10.7143 |
-| No                                                 |      15 |      35.7143 |                   25 |                         10.7143 |
+| Yes                                                |      27 |        64.29 |                   75 |                          -10.71 |
+| No                                                 |      15 |        35.71 |                   25 |                           10.71 |
 
 [Download CSV](/international-survey-2022/csv/joining-a-rse-rsd-association_united-kingdom.csv){: .button}
 
@@ -881,12 +881,12 @@ and to acquire for their current role.
 
 | What is important for such an organisation for United Kingdom                         |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Networking                                                                            |     101 |     57.7143  |              19.4915 |                        38.2228  |
-| Job opportunities                                                                     |      69 |     39.4286  |              16.1017 |                        23.3269  |
-| Research software standards and interoperability definition                           |      68 |     38.8571  |              15.678  |                        23.1792  |
-| Training                                                                              |      63 |     36       |              15.678  |                        20.322   |
-| Research collaborations                                                               |      49 |     28       |              13.1356 |                        14.8644  |
-| other. What would you hope to get out of such an organisation (check all that apply)? |      12 |      6.85714 |               0      |                         6.85714 |
+| Networking                                                                            |     101 |        57.71 |                19.49 |                           38.22 |
+| Job opportunities                                                                     |      69 |        39.43 |                16.1  |                           23.33 |
+| Research software standards and interoperability definition                           |      68 |        38.86 |                15.68 |                           23.18 |
+| Training                                                                              |      63 |        36    |                15.68 |                           20.32 |
+| Research collaborations                                                               |      49 |        28    |                13.14 |                           14.86 |
+| other. What would you hope to get out of such an organisation (check all that apply)? |      12 |         6.86 |                 0    |                            6.86 |
 
 [Download CSV](/international-survey-2022/csv/what-is-important-for-such-an-organisation_united-kingdom.csv){: .button}
 
@@ -896,8 +896,8 @@ and to acquire for their current role.
 
 | Attending a national conference of RSE/RSD for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                             |     115 |      87.7863 |              85.0267 |                         2.75952 |
-| No                                                              |      16 |      12.2137 |              14.9733 |                        -2.75952 |
+| Yes                                                             |     115 |        87.79 |                85.03 |                            2.76 |
+| No                                                              |      16 |        12.21 |                14.97 |                           -2.76 |
 
 [Download CSV](/international-survey-2022/csv/attending-a-national-conference-of-rse-rsd_united-kingdom.csv){: .button}
 

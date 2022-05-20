@@ -8,7 +8,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-This page gives an overview of the participants per country. From where they come from and when they started the survey. It also gives the difference with the previous year for the countries that participated in 2018.
+This page gives an overview of the participants per country. From where they come from and when they started the survey. It also gives the difference with the previous survey year for the countries that participated in 2018.
 
 Alongside this information, it also subset the relevant participants for future analysis. Only the participants that have finished at least the first section and the ones that report to develop program for their work, or lead research developers, are kept.
 
@@ -20,7 +20,7 @@ There were a total of {{n_participants}} in the survey.
 
 We developed specific questions for the following countries:
 * Australia
-* Canada (but host their own version of the survey so they will not be analysed here)
+* Canada
 * Germany
 * Netherlands
 * New Zealand

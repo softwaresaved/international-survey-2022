@@ -44,7 +44,7 @@ despite lot of overlapping in the categories.
 
 | Field of education for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Biological Sciences                   |       2 |          100 |              17.3913 |                         82.6087 |
+| Biological Sciences                   |       2 |          100 |                17.39 |                           82.61 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_edu_south-africa.csv){: .button}
 
@@ -57,18 +57,18 @@ despite lot of overlapping in the categories.
 
 | field of work for South Africa         |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Agriculture &amp; Forestry                 |       2 |          100 |              0       |                       100       |
-| Biological Sciences                    |       2 |          100 |             43.4783  |                        56.5217  |
-| Education                              |       0 |            0 |             17.3913  |                       -17.3913  |
-| Librarianship &amp; Information Management |       0 |            0 |              4.34783 |                        -4.34783 |
-| Linguistics                            |       0 |            0 |              4.34783 |                        -4.34783 |
-| Electrical &amp; Electronic Engineering    |       0 |            0 |              8.69565 |                        -8.69565 |
-| Economics                              |       0 |            0 |              4.34783 |                        -4.34783 |
-| Communication &amp; Media Studies          |       0 |            0 |              4.34783 |                        -4.34783 |
-| Computer Science                       |       0 |            0 |             52.1739  |                       -52.1739  |
-| Mathematics                            |       0 |            0 |              8.69565 |                        -8.69565 |
-| Physics and Astronomy                  |       0 |            0 |             17.3913  |                       -17.3913  |
-| Psychology                             |       0 |            0 |              4.34783 |                        -4.34783 |
+| Agriculture &amp; Forestry                 |       2 |          100 |                 0    |                          100    |
+| Biological Sciences                    |       2 |          100 |                43.48 |                           56.52 |
+| Education                              |       0 |            0 |                17.39 |                          -17.39 |
+| Librarianship &amp; Information Management |       0 |            0 |                 4.35 |                           -4.35 |
+| Linguistics                            |       0 |            0 |                 4.35 |                           -4.35 |
+| Electrical &amp; Electronic Engineering    |       0 |            0 |                 8.7  |                           -8.7  |
+| Economics                              |       0 |            0 |                 4.35 |                           -4.35 |
+| Communication &amp; Media Studies          |       0 |            0 |                 4.35 |                           -4.35 |
+| Computer Science                       |       0 |            0 |                52.17 |                          -52.17 |
+| Mathematics                            |       0 |            0 |                 8.7  |                           -8.7  |
+| Physics and Astronomy                  |       0 |            0 |                17.39 |                          -17.39 |
+| Psychology                             |       0 |            0 |                 4.35 |                           -4.35 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_work_south-africa.csv){: .button}
 
@@ -92,8 +92,8 @@ Questions in this section:
 
 | Professional developer for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                       |     nan |          nan |              28.5714 |                        nan      |
-| No                                        |       2 |          100 |              71.4286 |                         28.5714 |
+| Yes                                       |     nan |          nan |                28.57 |                          nan    |
+| No                                        |       2 |          100 |                71.43 |                           28.57 |
 
 [Download CSV](/international-survey-2022/csv/proportion-professional-developer_south-africa.csv){: .button}
 
@@ -103,14 +103,14 @@ Questions in this section:
 
 | How many years of software development experience for South Africa (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:---------------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                        |                 1 |          21       |
-| mean                                                                                         |                 1 |           7.28571 |
-| std                                                                                          |               nan |           5.39577 |
-| min                                                                                          |                 1 |           0       |
-| 25%                                                                                          |                 1 |           4       |
-| 50%                                                                                          |                 1 |           5       |
-| 75%                                                                                          |                 1 |          10       |
-| max                                                                                          |                 1 |          20       |
+| count                                                                                        |                 1 |             21    |
+| mean                                                                                         |                 1 |              7.29 |
+| std                                                                                          |               nan |              5.4  |
+| min                                                                                          |                 1 |              0    |
+| 25%                                                                                          |                 1 |              4    |
+| 50%                                                                                          |                 1 |              5    |
+| 75%                                                                                          |                 1 |             10    |
+| max                                                                                          |                 1 |             20    |
 
 [Download CSV](/international-survey-2022/csv/summary-years-professional-developer_south-africa.csv){: .button}
 
@@ -190,7 +190,7 @@ position among 8 different ones:
 
 | Where the previous job was based for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| University                                          |       2 |          100 |              61.9048 |                         38.0952 |
+| University                                          |       2 |          100 |                 61.9 |                            38.1 |
 
 [Download CSV](/international-survey-2022/csv/where-previous-job-based_south-africa.csv){: .button}
 
@@ -230,8 +230,8 @@ Questions in this section:
 
 |   developing code for others for South Africa |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |----------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                             2 |       1 |           50 |              17.3913 |                         32.6087 |
-|                                             3 |       1 |           50 |              26.087  |                         23.913  |
+|                                             2 |       1 |           50 |                17.39 |                           32.61 |
+|                                             3 |       1 |           50 |                26.09 |                           23.91 |
 
 [Download CSV](/international-survey-2022/csv/developing-code-for-others_south-africa.csv){: .button}
 
@@ -241,8 +241,8 @@ Questions in this section:
 
 | Working with same researchers for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Different researchers, same research group       |       1 |           50 |              14.2857 |                        35.7143  |
-| Regularly change researcher(s)                   |       1 |           50 |              42.8571 |                         7.14286 |
+| Different researchers, same research group       |       1 |           50 |                14.29 |                           35.71 |
+| Regularly change researcher(s)                   |       1 |           50 |                42.86 |                            7.14 |
 
 [Download CSV](/international-survey-2022/csv/working-with-same-researchers_south-africa.csv){: .button}
 
@@ -252,7 +252,7 @@ Questions in this section:
 
 | member of a dedicated group for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No                                             |       2 |          100 |              57.1429 |                         42.8571 |
+| No                                             |       2 |          100 |                57.14 |                           42.86 |
 
 [Download CSV](/international-survey-2022/csv/member-of-a-dedicated-group_south-africa.csv){: .button}
 
@@ -271,7 +271,7 @@ Questions in this section:
 
 |   Number of software developers per projects for South Africa |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |--------------------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                             1 |       2 |          100 |              27.7778 |                         72.2222 |
+|                                                             1 |       2 |          100 |                27.78 |                           72.22 |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-developers-per-projects_south-africa.csv){: .button}
 
@@ -281,14 +281,14 @@ Questions in this section:
 
 | Number of time per year providing training for South Africa (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:--------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                 |                 0 |          19       |
-| mean                                                                                  |               nan |           2.07895 |
-| std                                                                                   |               nan |           1.51165 |
-| min                                                                                   |               nan |           0       |
-| 25%                                                                                   |               nan |           1       |
-| 50%                                                                                   |               nan |           2       |
-| 75%                                                                                   |               nan |           3       |
-| max                                                                                   |               nan |           5       |
+| count                                                                                 |                 0 |             19    |
+| mean                                                                                  |               nan |              2.08 |
+| std                                                                                   |               nan |              1.51 |
+| min                                                                                   |               nan |              0    |
+| 25%                                                                                   |               nan |              1    |
+| 50%                                                                                   |               nan |              2    |
+| 75%                                                                                   |               nan |              3    |
+| max                                                                                   |               nan |              5    |
 
 [Download CSV](/international-survey-2022/csv/training-frequency_south-africa.csv){: .button}
 
@@ -320,11 +320,11 @@ Questions in the section:
 
 | Acknowledgment in paper for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Not mentioned at all                       |     nan |          nan |              nan     |                         nan     |
-| Acknowledged in the main text              |     nan |          nan |              nan     |                         nan     |
-| Acknowledged in acknowledgements section   |     nan |          nan |              nan     |                         nan     |
-| Named as co-author                         |       2 |          100 |               47.619 |                          52.381 |
-| Named as main author                       |     nan |          nan |              nan     |                         nan     |
+| Not mentioned at all                       |     nan |          nan |               nan    |                          nan    |
+| Acknowledged in the main text              |     nan |          nan |               nan    |                          nan    |
+| Acknowledged in acknowledgements section   |     nan |          nan |               nan    |                          nan    |
+| Named as co-author                         |       2 |          100 |                47.62 |                           52.38 |
+| Named as main author                       |     nan |          nan |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/acknowledgment-in-paper_south-africa.csv){: .button}
 
@@ -374,16 +374,16 @@ Questions in this section:
 
 | Open source use for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                    |     nan |          nan |            nan       |                        nan      |
-| 2                                  |     nan |          nan |            nan       |                        nan      |
-| 3                                  |     nan |          nan |            nan       |                        nan      |
-| 4                                  |       1 |           50 |            nan       |                        nan      |
-| 5                                  |       1 |           50 |              9.52381 |                         40.4762 |
-| 6                                  |     nan |          nan |            nan       |                        nan      |
-| 7                                  |     nan |          nan |            nan       |                        nan      |
-| 8                                  |     nan |          nan |            nan       |                        nan      |
-| 9                                  |     nan |          nan |            nan       |                        nan      |
-| 10 (All the time)                  |     nan |          nan |            nan       |                        nan      |
+| 1 (None at all)                    |     nan |          nan |               nan    |                          nan    |
+| 2                                  |     nan |          nan |               nan    |                          nan    |
+| 3                                  |     nan |          nan |               nan    |                          nan    |
+| 4                                  |       1 |           50 |               nan    |                          nan    |
+| 5                                  |       1 |           50 |                 9.52 |                           40.48 |
+| 6                                  |     nan |          nan |               nan    |                          nan    |
+| 7                                  |     nan |          nan |               nan    |                          nan    |
+| 8                                  |     nan |          nan |               nan    |                          nan    |
+| 9                                  |     nan |          nan |               nan    |                          nan    |
+| 10 (All the time)                  |     nan |          nan |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/open-source-use_south-africa.csv){: .button}
 
@@ -393,16 +393,16 @@ Questions in this section:
 
 | Citation of software for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                         |     nan |          nan |             nan      |                        nan      |
-| 2                                       |     nan |          nan |             nan      |                        nan      |
-| 3                                       |     nan |          nan |             nan      |                        nan      |
-| 4                                       |       1 |           50 |             nan      |                        nan      |
-| 5                                       |     nan |          nan |             nan      |                        nan      |
-| 6                                       |     nan |          nan |             nan      |                        nan      |
-| 7                                       |     nan |          nan |             nan      |                        nan      |
-| 8                                       |     nan |          nan |             nan      |                        nan      |
-| 9                                       |     nan |          nan |             nan      |                        nan      |
-| 10 (All the time)                       |       1 |           50 |              19.0476 |                         30.9524 |
+| 1 (None at all)                         |     nan |          nan |               nan    |                          nan    |
+| 2                                       |     nan |          nan |               nan    |                          nan    |
+| 3                                       |     nan |          nan |               nan    |                          nan    |
+| 4                                       |       1 |           50 |               nan    |                          nan    |
+| 5                                       |     nan |          nan |               nan    |                          nan    |
+| 6                                       |     nan |          nan |               nan    |                          nan    |
+| 7                                       |     nan |          nan |               nan    |                          nan    |
+| 8                                       |     nan |          nan |               nan    |                          nan    |
+| 9                                       |     nan |          nan |               nan    |                          nan    |
+| 10 (All the time)                       |       1 |           50 |                19.05 |                           30.95 |
 
 [Download CSV](/international-survey-2022/csv/citation-of-software_south-africa.csv){: .button}
 
@@ -435,8 +435,8 @@ Questions in this section:
 
 | Using ORCID for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                            |       2 |          100 |              66.6667 |                         33.3333 |
-| No                             |     nan |          nan |              14.2857 |                        nan      |
+| Yes                            |       2 |          100 |                66.67 |                           33.33 |
+| No                             |     nan |          nan |                14.29 |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/using-orcid_south-africa.csv){: .button}
 
@@ -501,7 +501,7 @@ using for their most important project.
 
 |   Bus factor for South Africa |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                             1 |       2 |          100 |              66.6667 |                         33.3333 |
+|                             1 |       2 |          100 |                66.67 |                           33.33 |
 
 [Download CSV](/international-survey-2022/csv/bus-factor_south-africa.csv){: .button}
 
@@ -511,8 +511,8 @@ using for their most important project.
 
 | Presence of transition plan for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                            |     nan |          nan |              23.8095 |                        nan      |
-| No                                             |       2 |          100 |              76.1905 |                         23.8095 |
+| Yes                                            |     nan |          nan |                23.81 |                          nan    |
+| No                                             |       2 |          100 |                76.19 |                           23.81 |
 
 [Download CSV](/international-survey-2022/csv/presence-of-transition-plan_south-africa.csv){: .button}
 
@@ -522,9 +522,9 @@ using for their most important project.
 
 | Use of version control for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Git                                       |       2 |          100 |              73.913  |                         26.087  |
-| SVN                                       |       0 |            0 |              13.0435 |                        -13.0435 |
-| None                                      |       0 |            0 |              13.0435 |                        -13.0435 |
+| Git                                       |       2 |          100 |                73.91 |                           26.09 |
+| SVN                                       |       0 |            0 |                13.04 |                          -13.04 |
+| None                                      |       0 |            0 |                13.04 |                          -13.04 |
 
 [Download CSV](/international-survey-2022/csv/use-of-version-control_south-africa.csv){: .button}
 
@@ -534,12 +534,12 @@ using for their most important project.
 
 | Testing strategies for South Africa           |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No formal testing                             |       1 |           50 |             13.0435  |                        36.9565  |
-| No formal testing but users provide feedback  |       2 |          100 |             47.8261  |                        52.1739  |
-| The developers do their own testing           |       2 |          100 |             60.8696  |                        39.1304  |
-| Test engineers conduct testing                |       0 |            0 |              4.34783 |                        -4.34783 |
-| Automated testing with continuous integration |     nan |          nan |            nan       |                       nan       |
-| Don't know                                    |     nan |          nan |            nan       |                       nan       |
+| No formal testing                             |       1 |           50 |                13.04 |                           36.96 |
+| No formal testing but users provide feedback  |       2 |          100 |                47.83 |                           52.17 |
+| The developers do their own testing           |       2 |          100 |                60.87 |                           39.13 |
+| Test engineers conduct testing                |       0 |            0 |                 4.35 |                           -4.35 |
+| Automated testing with continuous integration |     nan |          nan |               nan    |                          nan    |
+| Don't know                                    |     nan |          nan |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/testing-strategies_south-africa.csv){: .button}
 
@@ -566,26 +566,26 @@ Questions in this section:
 
 | Programming languages for South Africa                                              |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| other. What programming languages do you use at work? Please select all that apply. |       2 |          100 |              0       |                       100       |
-| R                                                                                   |       2 |          100 |             26.087   |                        73.913   |
-| Python                                                                              |       1 |           50 |             60.8696  |                       -10.8696  |
-| SQL                                                                                 |       0 |            0 |             26.087   |                       -26.087   |
-| Perl                                                                                |       0 |            0 |              8.69565 |                        -8.69565 |
-| PHP                                                                                 |       0 |            0 |              8.69565 |                        -8.69565 |
-| Scala                                                                               |       0 |            0 |              4.34783 |                        -4.34783 |
-| Assembly                                                                            |       0 |            0 |              4.34783 |                        -4.34783 |
-| TypeScript                                                                          |       0 |            0 |              4.34783 |                        -4.34783 |
-| Visual Basic                                                                        |       0 |            0 |              4.34783 |                        -4.34783 |
-| Matlab                                                                              |       0 |            0 |              4.34783 |                        -4.34783 |
-| Julia                                                                               |       0 |            0 |              4.34783 |                        -4.34783 |
-| C                                                                                   |       0 |            0 |             13.0435  |                       -13.0435  |
-| C#                                                                                  |       0 |            0 |              8.69565 |                        -8.69565 |
-| C++                                                                                 |       0 |            0 |             13.0435  |                       -13.0435  |
-| Erlang                                                                              |       0 |            0 |              4.34783 |                        -4.34783 |
-| Go                                                                                  |       0 |            0 |              4.34783 |                        -4.34783 |
-| Groovy                                                                              |       0 |            0 |              4.34783 |                        -4.34783 |
-| Java                                                                                |       0 |            0 |             17.3913  |                       -17.3913  |
-| JavaScript                                                                          |       0 |            0 |             13.0435  |                       -13.0435  |
+| other. What programming languages do you use at work? Please select all that apply. |       2 |          100 |                 0    |                          100    |
+| R                                                                                   |       2 |          100 |                26.09 |                           73.91 |
+| Python                                                                              |       1 |           50 |                60.87 |                          -10.87 |
+| SQL                                                                                 |       0 |            0 |                26.09 |                          -26.09 |
+| Perl                                                                                |       0 |            0 |                 8.7  |                           -8.7  |
+| PHP                                                                                 |       0 |            0 |                 8.7  |                           -8.7  |
+| Scala                                                                               |       0 |            0 |                 4.35 |                           -4.35 |
+| Assembly                                                                            |       0 |            0 |                 4.35 |                           -4.35 |
+| TypeScript                                                                          |       0 |            0 |                 4.35 |                           -4.35 |
+| Visual Basic                                                                        |       0 |            0 |                 4.35 |                           -4.35 |
+| Matlab                                                                              |       0 |            0 |                 4.35 |                           -4.35 |
+| Julia                                                                               |       0 |            0 |                 4.35 |                           -4.35 |
+| C                                                                                   |       0 |            0 |                13.04 |                          -13.04 |
+| C#                                                                                  |       0 |            0 |                 8.7  |                           -8.7  |
+| C++                                                                                 |       0 |            0 |                13.04 |                          -13.04 |
+| Erlang                                                                              |       0 |            0 |                 4.35 |                           -4.35 |
+| Go                                                                                  |       0 |            0 |                 4.35 |                           -4.35 |
+| Groovy                                                                              |       0 |            0 |                 4.35 |                           -4.35 |
+| Java                                                                                |       0 |            0 |                17.39 |                          -17.39 |
+| JavaScript                                                                          |       0 |            0 |                13.04 |                          -13.04 |
 
 [Download CSV](/international-survey-2022/csv/programming-languages_south-africa.csv){: .button}
 
@@ -595,7 +595,7 @@ Questions in this section:
 
 | Operating systems for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Windows                              |       2 |          100 |              26.3158 |                         73.6842 |
+| Windows                              |       2 |          100 |                26.32 |                           73.68 |
 
 [Download CSV](/international-survey-2022/csv/operating-systems_south-africa.csv){: .button}
 
@@ -741,12 +741,12 @@ and to acquire for their current role.
 
 | What is important for such an organisation for South Africa                           |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Networking                                                                            |       2 |          100 |              30.4348 |                         69.5652 |
-| Research collaborations                                                               |       2 |          100 |              30.4348 |                         69.5652 |
-| Training                                                                              |       2 |          100 |              30.4348 |                         69.5652 |
-| Job opportunities                                                                     |       2 |          100 |              34.7826 |                         65.2174 |
-| other. What would you hope to get out of such an organisation (check all that apply)? |       2 |          100 |               0      |                        100      |
-| Research software standards and interoperability definition                           |       1 |           50 |              30.4348 |                         19.5652 |
+| Networking                                                                            |       2 |          100 |                30.43 |                           69.57 |
+| Research collaborations                                                               |       2 |          100 |                30.43 |                           69.57 |
+| Training                                                                              |       2 |          100 |                30.43 |                           69.57 |
+| Job opportunities                                                                     |       2 |          100 |                34.78 |                           65.22 |
+| other. What would you hope to get out of such an organisation (check all that apply)? |       2 |          100 |                 0    |                          100    |
+| Research software standards and interoperability definition                           |       1 |           50 |                30.43 |                           19.57 |
 
 [Download CSV](/international-survey-2022/csv/what-is-important-for-such-an-organisation_south-africa.csv){: .button}
 
@@ -756,8 +756,8 @@ and to acquire for their current role.
 
 | Attending a national conference of RSE/RSD for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                           |       2 |          100 |              88.8889 |                         11.1111 |
-| No                                                            |     nan |          nan |              11.1111 |                        nan      |
+| Yes                                                           |       2 |          100 |                88.89 |                           11.11 |
+| No                                                            |     nan |          nan |                11.11 |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/attending-a-national-conference-of-rse-rsd_south-africa.csv){: .button}
 

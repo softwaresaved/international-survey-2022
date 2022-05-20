@@ -24,9 +24,9 @@ Questions in this section:
 
 | Gender for Australia   |   Count |   Percentage |
 |:-----------------------|--------:|-------------:|
-| Male                   |      26 |     83.871   |
-| Female                 |       4 |     12.9032  |
-| Prefer not to say      |       1 |      3.22581 |
+| Male                   |      26 |        83.87 |
+| Female                 |       4 |        12.9  |
+| Prefer not to say      |       1 |         3.23 |
 
 [Download CSV](/international-survey-2022/csv/gender_australia.csv){: .button}
 
@@ -36,11 +36,11 @@ Questions in this section:
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:46.813857</dc:date>
+    <dc:date>2022-05-20T09:56:48.862714</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -73,7 +73,7 @@ L 432.912574 112.781548
 L 432.912574 89.006467 
 L 91.164063 89.006467 
 z
-" clip-path="url(#pd5d3e2f935)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 91.164063 83.062697 
@@ -81,7 +81,7 @@ L 143.740757 83.062697
 L 143.740757 59.287616 
 L 91.164063 59.287616 
 z
-" clip-path="url(#pd5d3e2f935)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 91.164063 53.343845 
@@ -89,7 +89,7 @@ L 104.308236 53.343845
 L 104.308236 29.568764 
 L 91.164063 29.568764 
 z
-" clip-path="url(#pd5d3e2f935)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1024,15 +1024,564 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pd5d3e2f935">
-   <rect x="91.164063" y="25.408125" width="358.835938" height="91.534062"/>
+  <clipPath id="pb40904cd83">
+   <rect x="91.164063" y="25.408125" width="358.835938" height="91.534063"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_australia.svg){: .button} [PNG](/international-survey-2022/fig/gender_australia.png){: .button}
+[PNG](/international-survey-2022/fig/gender_australia.png){: .button} [SVG](/international-survey-2022/fig/gender_australia.svg){: .button}
+
+
+
+## Canada
+
+
+### Gender
+
+No data found in survey.
+
+{% raw %}
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="90pt" viewBox="0 0 460.8 90" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-05-20T09:56:49.055258</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 90 
+L 460.8 90 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.75 62.942187 
+L 443.05 62.942187 
+L 443.05 25.408125 
+L 17.75 25.408125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m4c99cd72f3" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="17.75" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0.0 -->
+      <g transform="translate(10.8 77.115625)scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-30" d="M 1731 4475 
+Q 2600 4475 2988 3759 
+Q 3288 3206 3288 2244 
+Q 3288 1331 3016 734 
+Q 2622 -122 1728 -122 
+Q 922 -122 528 578 
+Q 200 1163 200 2147 
+Q 200 2909 397 3456 
+Q 766 4475 1731 4475 
+z
+M 1725 391 
+Q 2163 391 2422 778 
+Q 2681 1166 2681 2222 
+Q 2681 2984 2493 3476 
+Q 2306 3969 1766 3969 
+Q 1269 3969 1039 3501 
+Q 809 3034 809 2125 
+Q 809 1441 956 1025 
+Q 1181 391 1725 391 
+z
+" transform="scale(0.015625)"/>
+        <path id="Helvetica-2e" d="M 547 681 
+L 1200 681 
+L 1200 0 
+L 547 0 
+L 547 681 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-30"/>
+       <use xlink:href="#Helvetica-2e" x="55.615234"/>
+       <use xlink:href="#Helvetica-30" x="83.398438"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="102.81" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 0.2 -->
+      <g transform="translate(95.86 77.115625)scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-32" d="M 200 0 
+Q 231 578 439 1006 
+Q 647 1434 1250 1784 
+L 1850 2131 
+Q 2253 2366 2416 2531 
+Q 2672 2791 2672 3125 
+Q 2672 3516 2437 3745 
+Q 2203 3975 1813 3975 
+Q 1234 3975 1013 3538 
+Q 894 3303 881 2888 
+L 309 2888 
+Q 319 3472 525 3841 
+Q 891 4491 1816 4491 
+Q 2584 4491 2939 4075 
+Q 3294 3659 3294 3150 
+Q 3294 2613 2916 2231 
+Q 2697 2009 2131 1694 
+L 1703 1456 
+Q 1397 1288 1222 1134 
+Q 909 863 828 531 
+L 3272 531 
+L 3272 0 
+L 200 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-30"/>
+       <use xlink:href="#Helvetica-2e" x="55.615234"/>
+       <use xlink:href="#Helvetica-32" x="83.398438"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="187.87" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 0.4 -->
+      <g transform="translate(180.92 77.115625)scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-34" d="M 2116 1584 
+L 2116 3613 
+L 681 1584 
+L 2116 1584 
+z
+M 2125 0 
+L 2125 1094 
+L 163 1094 
+L 163 1644 
+L 2213 4488 
+L 2688 4488 
+L 2688 1584 
+L 3347 1584 
+L 3347 1094 
+L 2688 1094 
+L 2688 0 
+L 2125 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-30"/>
+       <use xlink:href="#Helvetica-2e" x="55.615234"/>
+       <use xlink:href="#Helvetica-34" x="83.398438"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="272.93" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 0.6 -->
+      <g transform="translate(265.98 77.115625)scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-36" d="M 1872 4494 
+Q 2622 4494 2917 4105 
+Q 3213 3716 3213 3303 
+L 2656 3303 
+Q 2606 3569 2497 3719 
+Q 2294 4000 1881 4000 
+Q 1409 4000 1131 3564 
+Q 853 3128 822 2316 
+Q 1016 2600 1309 2741 
+Q 1578 2866 1909 2866 
+Q 2472 2866 2890 2506 
+Q 3309 2147 3309 1434 
+Q 3309 825 2912 354 
+Q 2516 -116 1781 -116 
+Q 1153 -116 697 361 
+Q 241 838 241 1966 
+Q 241 2800 444 3381 
+Q 834 4494 1872 4494 
+z
+M 1831 384 
+Q 2275 384 2495 682 
+Q 2716 981 2716 1388 
+Q 2716 1731 2519 2042 
+Q 2322 2353 1803 2353 
+Q 1441 2353 1167 2112 
+Q 894 1872 894 1388 
+Q 894 963 1142 673 
+Q 1391 384 1831 384 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-30"/>
+       <use xlink:href="#Helvetica-2e" x="55.615234"/>
+       <use xlink:href="#Helvetica-36" x="83.398438"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="357.99" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 0.8 -->
+      <g transform="translate(351.04 77.115625)scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-38" d="M 1741 2600 
+Q 2113 2600 2322 2808 
+Q 2531 3016 2531 3303 
+Q 2531 3553 2331 3762 
+Q 2131 3972 1722 3972 
+Q 1316 3972 1134 3762 
+Q 953 3553 953 3272 
+Q 953 2956 1187 2778 
+Q 1422 2600 1741 2600 
+z
+M 1775 384 
+Q 2166 384 2423 595 
+Q 2681 806 2681 1225 
+Q 2681 1659 2415 1884 
+Q 2150 2109 1734 2109 
+Q 1331 2109 1076 1879 
+Q 822 1650 822 1244 
+Q 822 894 1055 639 
+Q 1288 384 1775 384 
+z
+M 975 2384 
+Q 741 2484 609 2619 
+Q 363 2869 363 3269 
+Q 363 3769 725 4128 
+Q 1088 4488 1753 4488 
+Q 2397 4488 2762 4148 
+Q 3128 3809 3128 3356 
+Q 3128 2938 2916 2678 
+Q 2797 2531 2547 2391 
+Q 2825 2263 2984 2097 
+Q 3281 1784 3281 1284 
+Q 3281 694 2884 283 
+Q 2488 -128 1763 -128 
+Q 1109 -128 657 226 
+Q 206 581 206 1256 
+Q 206 1653 400 1942 
+Q 594 2231 975 2384 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-30"/>
+       <use xlink:href="#Helvetica-2e" x="55.615234"/>
+       <use xlink:href="#Helvetica-38" x="83.398438"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="443.05" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 1.0 -->
+      <g transform="translate(436.1 77.115625)scale(0.1 -0.1)">
+       <defs>
+        <path id="Helvetica-31" d="M 613 3169 
+L 613 3600 
+Q 1222 3659 1462 3798 
+Q 1703 3938 1822 4456 
+L 2266 4456 
+L 2266 0 
+L 1666 0 
+L 1666 3169 
+L 613 3169 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Helvetica-31"/>
+       <use xlink:href="#Helvetica-2e" x="55.615234"/>
+       <use xlink:href="#Helvetica-30" x="83.398438"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_7">
+    <!-- Gender, Canada -->
+    <g transform="translate(186.039375 19.408125)scale(0.12 -0.12)">
+     <defs>
+      <path id="Helvetica-47" d="M 2472 4709 
+Q 3119 4709 3591 4459 
+Q 4275 4100 4428 3200 
+L 3813 3200 
+Q 3700 3703 3347 3933 
+Q 2994 4163 2456 4163 
+Q 1819 4163 1383 3684 
+Q 947 3206 947 2259 
+Q 947 1441 1306 927 
+Q 1666 413 2478 413 
+Q 3100 413 3508 773 
+Q 3916 1134 3925 1941 
+L 2488 1941 
+L 2488 2456 
+L 4503 2456 
+L 4503 0 
+L 4103 0 
+L 3953 591 
+Q 3638 244 3394 109 
+Q 2984 -122 2353 -122 
+Q 1538 -122 950 406 
+Q 309 1069 309 2225 
+Q 309 3378 934 4059 
+Q 1528 4709 2472 4709 
+z
+M 2369 4716 
+L 2369 4716 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-65" d="M 1806 3422 
+Q 2163 3422 2497 3255 
+Q 2831 3088 3006 2822 
+Q 3175 2569 3231 2231 
+Q 3281 2000 3281 1494 
+L 828 1494 
+Q 844 984 1069 676 
+Q 1294 369 1766 369 
+Q 2206 369 2469 659 
+Q 2619 828 2681 1050 
+L 3234 1050 
+Q 3213 866 3089 639 
+Q 2966 413 2813 269 
+Q 2556 19 2178 -69 
+Q 1975 -119 1719 -119 
+Q 1094 -119 659 336 
+Q 225 791 225 1609 
+Q 225 2416 662 2919 
+Q 1100 3422 1806 3422 
+z
+M 2703 1941 
+Q 2669 2306 2544 2525 
+Q 2313 2931 1772 2931 
+Q 1384 2931 1121 2651 
+Q 859 2372 844 1941 
+L 2703 1941 
+z
+M 1753 3428 
+L 1753 3428 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-6e" d="M 413 3347 
+L 947 3347 
+L 947 2872 
+Q 1184 3166 1450 3294 
+Q 1716 3422 2041 3422 
+Q 2753 3422 3003 2925 
+Q 3141 2653 3141 2147 
+L 3141 0 
+L 2569 0 
+L 2569 2109 
+Q 2569 2416 2478 2603 
+Q 2328 2916 1934 2916 
+Q 1734 2916 1606 2875 
+Q 1375 2806 1200 2600 
+Q 1059 2434 1017 2257 
+Q 975 2081 975 1753 
+L 975 0 
+L 413 0 
+L 413 3347 
+z
+M 1734 3428 
+L 1734 3428 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-64" d="M 769 1634 
+Q 769 1097 997 734 
+Q 1225 372 1728 372 
+Q 2119 372 2370 708 
+Q 2622 1044 2622 1672 
+Q 2622 2306 2362 2611 
+Q 2103 2916 1722 2916 
+Q 1297 2916 1033 2591 
+Q 769 2266 769 1634 
+z
+M 1616 3406 
+Q 2000 3406 2259 3244 
+Q 2409 3150 2600 2916 
+L 2600 4606 
+L 3141 4606 
+L 3141 0 
+L 2634 0 
+L 2634 466 
+Q 2438 156 2169 18 
+Q 1900 -119 1553 -119 
+Q 994 -119 584 351 
+Q 175 822 175 1603 
+Q 175 2334 548 2870 
+Q 922 3406 1616 3406 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-72" d="M 428 3347 
+L 963 3347 
+L 963 2769 
+Q 1028 2938 1284 3180 
+Q 1541 3422 1875 3422 
+Q 1891 3422 1928 3419 
+Q 1966 3416 2056 3406 
+L 2056 2813 
+Q 2006 2822 1964 2825 
+Q 1922 2828 1872 2828 
+Q 1447 2828 1219 2554 
+Q 991 2281 991 1925 
+L 991 0 
+L 428 0 
+L 428 3347 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-2c" d="M 531 -653 
+Q 747 -616 834 -350 
+Q 881 -209 881 -78 
+Q 881 -56 879 -39 
+Q 878 -22 872 0 
+L 531 0 
+L 531 681 
+L 1200 681 
+L 1200 50 
+Q 1200 -322 1050 -603 
+Q 900 -884 531 -950 
+L 531 -653 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-20" transform="scale(0.015625)"/>
+      <path id="Helvetica-43" d="M 2422 4716 
+Q 3294 4716 3775 4256 
+Q 4256 3797 4309 3213 
+L 3703 3213 
+Q 3600 3656 3292 3915 
+Q 2984 4175 2428 4175 
+Q 1750 4175 1333 3698 
+Q 916 3222 916 2238 
+Q 916 1431 1292 929 
+Q 1669 428 2416 428 
+Q 3103 428 3463 956 
+Q 3653 1234 3747 1688 
+L 4353 1688 
+Q 4272 963 3816 472 
+Q 3269 -119 2341 -119 
+Q 1541 -119 997 366 
+Q 281 1006 281 2344 
+Q 281 3359 819 4009 
+Q 1400 4716 2422 4716 
+z
+M 2297 4716 
+L 2297 4716 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-61" d="M 844 891 
+Q 844 647 1022 506 
+Q 1200 366 1444 366 
+Q 1741 366 2019 503 
+Q 2488 731 2488 1250 
+L 2488 1703 
+Q 2384 1638 2221 1594 
+Q 2059 1550 1903 1531 
+L 1563 1488 
+Q 1256 1447 1103 1359 
+Q 844 1213 844 891 
+z
+M 2206 2028 
+Q 2400 2053 2466 2191 
+Q 2503 2266 2503 2406 
+Q 2503 2694 2298 2823 
+Q 2094 2953 1713 2953 
+Q 1272 2953 1088 2716 
+Q 984 2584 953 2325 
+L 428 2325 
+Q 444 2944 830 3186 
+Q 1216 3428 1725 3428 
+Q 2316 3428 2684 3203 
+Q 3050 2978 3050 2503 
+L 3050 575 
+Q 3050 488 3086 434 
+Q 3122 381 3238 381 
+Q 3275 381 3322 386 
+Q 3369 391 3422 400 
+L 3422 -16 
+Q 3291 -53 3222 -62 
+Q 3153 -72 3034 -72 
+Q 2744 -72 2613 134 
+Q 2544 244 2516 444 
+Q 2344 219 2022 53 
+Q 1700 -113 1313 -113 
+Q 847 -113 551 170 
+Q 256 453 256 878 
+Q 256 1344 547 1600 
+Q 838 1856 1309 1916 
+L 2206 2028 
+z
+M 1741 3428 
+L 1741 3428 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Helvetica-47"/>
+     <use xlink:href="#Helvetica-65" x="77.783203"/>
+     <use xlink:href="#Helvetica-6e" x="133.398438"/>
+     <use xlink:href="#Helvetica-64" x="189.013672"/>
+     <use xlink:href="#Helvetica-65" x="244.628906"/>
+     <use xlink:href="#Helvetica-72" x="300.244141"/>
+     <use xlink:href="#Helvetica-2c" x="333.544922"/>
+     <use xlink:href="#Helvetica-20" x="361.328125"/>
+     <use xlink:href="#Helvetica-43" x="389.111328"/>
+     <use xlink:href="#Helvetica-61" x="461.328125"/>
+     <use xlink:href="#Helvetica-6e" x="516.943359"/>
+     <use xlink:href="#Helvetica-61" x="572.558594"/>
+     <use xlink:href="#Helvetica-64" x="628.173828"/>
+     <use xlink:href="#Helvetica-61" x="683.789062"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
+
+{% endraw %}
+
+[PNG](/international-survey-2022/fig/gender_canada.png){: .button} [SVG](/international-survey-2022/fig/gender_canada.svg){: .button}
 
 
 
@@ -1043,10 +1592,10 @@ z
 
 | Gender for Germany      |   Count |   Percentage |
 |:------------------------|--------:|-------------:|
-| Male                    |     174 |    84.466    |
-| Female                  |      27 |    13.1068   |
-| Prefer not to say       |       4 |     1.94175  |
-| Prefer to self describe |       1 |     0.485437 |
+| Male                    |     174 |        84.47 |
+| Female                  |      27 |        13.11 |
+| Prefer not to say       |       4 |         1.94 |
+| Prefer to self describe |       1 |         0.49 |
 
 [Download CSV](/international-survey-2022/csv/gender_germany.csv){: .button}
 
@@ -1056,11 +1605,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:47.137890</dc:date>
+    <dc:date>2022-05-20T09:56:49.327560</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -1093,7 +1642,7 @@ L 434.050446 135.701293
 L 434.050446 113.634367 
 L 115.059375 113.634367 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.117635 
@@ -1101,7 +1650,7 @@ L 164.55799 108.117635
 L 164.55799 86.050709 
 L 115.059375 86.050709 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.533978 
@@ -1109,7 +1658,7 @@ L 122.392503 80.533978
 L 122.392503 58.467052 
 L 115.059375 58.467052 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.950321 
@@ -1117,7 +1666,7 @@ L 116.892657 52.950321
 L 116.892657 30.883395 
 L 115.059375 30.883395 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1502,7 +2051,7 @@ L -3.5 0
      </g>
      <g id="text_10">
       <!-- Male -->
-      <g transform="translate(86.385938 128.254548)scale(0.1 -0.1)">
+      <g transform="translate(86.385937 128.254548)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4d" d="M 472 4591 
 L 1363 4591 
@@ -1625,7 +2174,7 @@ z
      </g>
      <g id="text_11">
       <!-- Female -->
-      <g transform="translate(74.717188 100.670891)scale(0.1 -0.1)">
+      <g transform="translate(74.717187 100.670891)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-46" d="M 547 4591 
 L 3731 4591 
@@ -1688,7 +2237,7 @@ z
      </g>
      <g id="text_12">
       <!-- Prefer not to say -->
-      <g transform="translate(34.695313 73.138015)scale(0.1 -0.1)">
+      <g transform="translate(34.695312 73.138015)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-50" d="M 547 4591 
 L 2613 4591 
@@ -2096,7 +2645,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pfe92379873">
+  <clipPath id="p8c84bf2dfe">
    <rect x="115.059375" y="25.6425" width="334.940625" height="115.299687"/>
   </clipPath>
  </defs>
@@ -2104,7 +2653,7 @@ z
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_germany.svg){: .button} [PNG](/international-survey-2022/fig/gender_germany.png){: .button}
+[PNG](/international-survey-2022/fig/gender_germany.png){: .button} [SVG](/international-survey-2022/fig/gender_germany.svg){: .button}
 
 
 
@@ -2115,9 +2664,9 @@ z
 
 | Gender for Netherlands   |   Count |   Percentage |
 |:-------------------------|--------:|-------------:|
-| Male                     |      48 |     82.7586  |
-| Female                   |       7 |     12.069   |
-| Prefer not to say        |       3 |      5.17241 |
+| Male                     |      48 |        82.76 |
+| Female                   |       7 |        12.07 |
+| Prefer not to say        |       3 |         5.17 |
 
 [Download CSV](/international-survey-2022/csv/gender_netherlands.csv){: .button}
 
@@ -2127,11 +2676,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:47.483345</dc:date>
+    <dc:date>2022-05-20T09:56:49.592358</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -2164,7 +2713,7 @@ L 432.912574 112.781548
 L 432.912574 89.006467 
 L 91.164063 89.006467 
 z
-" clip-path="url(#pd5d3e2f935)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 91.164063 83.062697 
@@ -2172,7 +2721,7 @@ L 141.002387 83.062697
 L 141.002387 59.287616 
 L 91.164063 59.287616 
 z
-" clip-path="url(#pd5d3e2f935)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 91.164063 53.343845 
@@ -2180,7 +2729,7 @@ L 112.523344 53.343845
 L 112.523344 29.568764 
 L 91.164063 29.568764 
 z
-" clip-path="url(#pd5d3e2f935)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -3098,15 +3647,15 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pd5d3e2f935">
-   <rect x="91.164063" y="25.408125" width="358.835938" height="91.534062"/>
+  <clipPath id="pb40904cd83">
+   <rect x="91.164063" y="25.408125" width="358.835938" height="91.534063"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_netherlands.svg){: .button} [PNG](/international-survey-2022/fig/gender_netherlands.png){: .button}
+[PNG](/international-survey-2022/fig/gender_netherlands.png){: .button} [SVG](/international-survey-2022/fig/gender_netherlands.svg){: .button}
 
 
 
@@ -3117,10 +3666,10 @@ z
 
 | Gender for New Zealand   |   Count |   Percentage |
 |:-------------------------|--------:|-------------:|
-| Male                     |      20 |     76.9231  |
-| Female                   |       4 |     15.3846  |
-| Prefer not to say        |       1 |      3.84615 |
-| Prefer to self describe  |       1 |      3.84615 |
+| Male                     |      20 |        76.92 |
+| Female                   |       4 |        15.38 |
+| Prefer not to say        |       1 |         3.85 |
+| Prefer to self describe  |       1 |         3.85 |
 
 [Download CSV](/international-survey-2022/csv/gender_new-zealand.csv){: .button}
 
@@ -3130,11 +3679,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:47.800648</dc:date>
+    <dc:date>2022-05-20T09:56:49.955829</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -3155,43 +3704,43 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 115.059375 140.942187 
-L 447.610073 140.942187 
-L 447.610073 25.408125 
+L 447.60786 140.942187 
+L 447.60786 25.408125 
 L 115.059375 25.408125 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 115.059375 135.690639 
-L 431.774326 135.690639 
-L 431.774326 113.578857 
+L 431.772218 135.690639 
+L 431.772218 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#p20c40cc79f)" style="fill: #1f77b4"/>
+" clip-path="url(#pad2e1d5dc7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
-L 178.402365 108.050911 
-L 178.402365 85.939129 
+L 178.401944 108.050911 
+L 178.401944 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#p20c40cc79f)" style="fill: #1f77b4"/>
+" clip-path="url(#pad2e1d5dc7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
-L 130.895123 80.411183 
-L 130.895123 58.299401 
+L 130.895017 80.411183 
+L 130.895017 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#p20c40cc79f)" style="fill: #1f77b4"/>
+" clip-path="url(#pad2e1d5dc7)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
-L 130.895123 52.771456 
-L 130.895123 30.659673 
+L 130.895017 52.771456 
+L 130.895017 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#p20c40cc79f)" style="fill: #1f77b4"/>
+" clip-path="url(#pad2e1d5dc7)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -3238,12 +3787,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="156.232319" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="156.232045" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- 10 -->
-      <g transform="translate(150.671381 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(150.671107 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-31" d="M 613 3169 
 L 613 3600 
@@ -3265,12 +3814,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="197.405262" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="197.404714" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- 20 -->
-      <g transform="translate(191.844325 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(191.843777 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-32" d="M 200 0 
 Q 231 578 439 1006 
@@ -3306,12 +3855,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="238.578206" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="238.577384" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- 30 -->
-      <g transform="translate(233.017268 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(233.016446 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-33" d="M 1663 -122 
 Q 869 -122 511 314 
@@ -3356,12 +3905,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="279.751149" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="279.750053" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- 40 -->
-      <g transform="translate(274.190212 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(274.189116 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-34" d="M 2116 1584 
 L 2116 3613 
@@ -3391,12 +3940,12 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="320.924093" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="320.922723" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- 50 -->
-      <g transform="translate(315.363156 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(315.361786 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-35" d="M 791 1141 
 Q 847 659 1238 475 
@@ -3433,12 +3982,12 @@ z
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="362.097037" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="362.095393" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
       <!-- 60 -->
-      <g transform="translate(356.536099 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(356.534455 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-36" d="M 1872 4494 
 Q 2622 4494 2917 4105 
@@ -3479,12 +4028,12 @@ z
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="403.26998" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="403.268062" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
       <!-- 70 -->
-      <g transform="translate(397.709043 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(397.707125 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-37" d="M 3347 4400 
 L 3347 3909 
@@ -3509,12 +4058,12 @@ z
     <g id="xtick_9">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="444.442924" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="444.440732" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
       <!-- 80 -->
-      <g transform="translate(438.881986 155.115625)scale(0.1 -0.1)">
+      <g transform="translate(438.879794 155.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-38" d="M 1741 2600 
 Q 2113 2600 2322 2808 
@@ -3576,7 +4125,7 @@ L -3.5 0
      </g>
      <g id="text_10">
       <!-- Male -->
-      <g transform="translate(86.385938 128.221467)scale(0.1 -0.1)">
+      <g transform="translate(86.385937 128.221467)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4d" d="M 472 4591 
 L 1363 4591 
@@ -3699,7 +4248,7 @@ z
      </g>
      <g id="text_11">
       <!-- Female -->
-      <g transform="translate(74.717188 100.581739)scale(0.1 -0.1)">
+      <g transform="translate(74.717187 100.581739)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-46" d="M 547 4591 
 L 3731 4591 
@@ -4030,7 +4579,7 @@ z
      </g>
      <g id="text_13">
       <!-- Prefer not to say -->
-      <g transform="translate(34.695313 45.353064)scale(0.1 -0.1)">
+      <g transform="translate(34.695312 45.353064)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-6e" d="M 413 3347 
 L 947 3347 
@@ -4104,7 +4653,7 @@ z
    </g>
    <g id="text_14">
     <!-- Gender, New Zealand -->
-    <g transform="translate(222.639724 19.408125)scale(0.12 -0.12)">
+    <g transform="translate(222.638618 19.408125)scale(0.12 -0.12)">
      <defs>
       <path id="Helvetica-47" d="M 2472 4709 
 Q 3119 4709 3591 4459 
@@ -4222,15 +4771,15 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p20c40cc79f">
-   <rect x="115.059375" y="25.408125" width="332.550698" height="115.534062"/>
+  <clipPath id="pad2e1d5dc7">
+   <rect x="115.059375" y="25.408125" width="332.548485" height="115.534062"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_new-zealand.svg){: .button} [PNG](/international-survey-2022/fig/gender_new-zealand.png){: .button}
+[PNG](/international-survey-2022/fig/gender_new-zealand.png){: .button} [SVG](/international-survey-2022/fig/gender_new-zealand.svg){: .button}
 
 
 
@@ -4251,11 +4800,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:48.158236</dc:date>
+    <dc:date>2022-05-20T09:56:50.181815</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -5041,7 +5590,7 @@ z
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_south-africa.svg){: .button} [PNG](/international-survey-2022/fig/gender_south-africa.png){: .button}
+[PNG](/international-survey-2022/fig/gender_south-africa.png){: .button} [SVG](/international-survey-2022/fig/gender_south-africa.svg){: .button}
 
 
 
@@ -5052,10 +5601,10 @@ z
 
 | Gender for United Kingdom   |   Count |   Percentage |
 |:----------------------------|--------:|-------------:|
-| Male                        |     104 |     71.2329  |
-| Female                      |      29 |     19.863   |
-| Prefer not to say           |       9 |      6.16438 |
-| Prefer to self describe     |       4 |      2.73973 |
+| Male                        |     104 |        71.23 |
+| Female                      |      29 |        19.86 |
+| Prefer not to say           |       9 |         6.16 |
+| Prefer to self describe     |       4 |         2.74 |
 
 [Download CSV](/international-survey-2022/csv/gender_united-kingdom.csv){: .button}
 
@@ -5065,11 +5614,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:48.393030</dc:date>
+    <dc:date>2022-05-20T09:56:50.480676</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -5102,7 +5651,7 @@ L 434.050446 135.701293
 L 434.050446 113.634367 
 L 115.059375 113.634367 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.117635 
@@ -5110,7 +5659,7 @@ L 204.008808 108.117635
 L 204.008808 86.050709 
 L 115.059375 86.050709 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.533978 
@@ -5118,7 +5667,7 @@ L 142.664372 80.533978
 L 142.664372 58.467052 
 L 115.059375 58.467052 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.950321 
@@ -5126,7 +5675,7 @@ L 127.328262 52.950321
 L 127.328262 30.883395 
 L 115.059375 30.883395 
 z
-" clip-path="url(#pfe92379873)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -5456,7 +6005,7 @@ L -3.5 0
      </g>
      <g id="text_9">
       <!-- Male -->
-      <g transform="translate(86.385938 128.254548)scale(0.1 -0.1)">
+      <g transform="translate(86.385937 128.254548)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4d" d="M 472 4591 
 L 1363 4591 
@@ -5579,7 +6128,7 @@ z
      </g>
      <g id="text_10">
       <!-- Female -->
-      <g transform="translate(74.717188 100.670891)scale(0.1 -0.1)">
+      <g transform="translate(74.717187 100.670891)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-46" d="M 547 4591 
 L 3731 4591 
@@ -5642,7 +6191,7 @@ z
      </g>
      <g id="text_11">
       <!-- Prefer not to say -->
-      <g transform="translate(34.695313 73.138015)scale(0.1 -0.1)">
+      <g transform="translate(34.695312 73.138015)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-50" d="M 547 4591 
 L 2613 4591 
@@ -6128,7 +6677,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pfe92379873">
+  <clipPath id="p8c84bf2dfe">
    <rect x="115.059375" y="25.6425" width="334.940625" height="115.299687"/>
   </clipPath>
  </defs>
@@ -6136,23 +6685,23 @@ z
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_united-kingdom.svg){: .button} [PNG](/international-survey-2022/fig/gender_united-kingdom.png){: .button}
+[PNG](/international-survey-2022/fig/gender_united-kingdom.png){: .button} [SVG](/international-survey-2022/fig/gender_united-kingdom.svg){: .button}
 
 
 ### Ethnicity
 
 | Ethnicity for United Kingdom                                                  |   Count |   Percentage |
 |:------------------------------------------------------------------------------|--------:|-------------:|
-| White: English / Welsh / Scottish / Northern Irish / British                  |      96 |    54.5455   |
-| White: Any other White background                                             |      32 |    18.1818   |
-| Do not wish to declare                                                        |       7 |     3.97727  |
-| White: Irish                                                                  |       5 |     2.84091  |
-| Asian / Asian British: Indian                                                 |       3 |     1.70455  |
-| Mixed / Multiple Ethnic groups: Any other Mixed / Multiple ethnic background, |       2 |     1.13636  |
-| Asian / Asian British: Chinese                                                |       2 |     1.13636  |
-| Other Ethnic group: Any other ethnic group                                    |       1 |     0.568182 |
-| Mixed / Multiple Ethnic groups: White and Asian                               |       1 |     0.568182 |
-| Asian / Asian British: Bangladeshi                                            |       1 |     0.568182 |
+| White: English / Welsh / Scottish / Northern Irish / British                  |      96 |        54.55 |
+| White: Any other White background                                             |      32 |        18.18 |
+| Do not wish to declare                                                        |       7 |         3.98 |
+| White: Irish                                                                  |       5 |         2.84 |
+| Asian / Asian British: Indian                                                 |       3 |         1.7  |
+| Mixed / Multiple Ethnic groups: Any other Mixed / Multiple ethnic background, |       2 |         1.14 |
+| Asian / Asian British: Chinese                                                |       2 |         1.14 |
+| Other Ethnic group: Any other ethnic group                                    |       1 |         0.57 |
+| Mixed / Multiple Ethnic groups: White and Asian                               |       1 |         0.57 |
+| Asian / Asian British: Bangladeshi                                            |       1 |         0.57 |
 
 [Download CSV](/international-survey-2022/csv/ethnicity_united-kingdom.csv){: .button}
 
@@ -6162,11 +6711,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:48.783682</dc:date>
+    <dc:date>2022-05-20T09:56:51.022211</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -7907,7 +8456,7 @@ z
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/ethnicity_united-kingdom.svg){: .button} [PNG](/international-survey-2022/fig/ethnicity_united-kingdom.png){: .button}
+[PNG](/international-survey-2022/fig/ethnicity_united-kingdom.png){: .button} [SVG](/international-survey-2022/fig/ethnicity_united-kingdom.svg){: .button}
 
 
 
@@ -7918,10 +8467,10 @@ z
 
 | Gender for United States   |   Count |   Percentage |
 |:---------------------------|--------:|-------------:|
-| Male                       |     107 |     78.1022  |
-| Female                     |      24 |     17.5182  |
-| Prefer not to say          |       4 |      2.91971 |
-| Prefer to self describe    |       2 |      1.45985 |
+| Male                       |     107 |        78.1  |
+| Female                     |      24 |        17.52 |
+| Prefer not to say          |       4 |         2.92 |
+| Prefer to self describe    |       2 |         1.46 |
 
 [Download CSV](/international-survey-2022/csv/gender_united-states.csv){: .button}
 
@@ -7931,11 +8480,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:49.626089</dc:date>
+    <dc:date>2022-05-20T09:56:51.649092</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -7968,7 +8517,7 @@ L 434.050446 135.690639
 L 434.050446 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
@@ -7976,7 +8525,7 @@ L 186.608774 108.050911
 L 186.608774 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
@@ -7984,7 +8533,7 @@ L 126.984275 80.411183
 L 126.984275 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
@@ -7992,7 +8541,7 @@ L 121.021825 52.771456
 L 121.021825 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -8377,7 +8926,7 @@ L -3.5 0
      </g>
      <g id="text_10">
       <!-- Male -->
-      <g transform="translate(86.385938 128.221467)scale(0.1 -0.1)">
+      <g transform="translate(86.385937 128.221467)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4d" d="M 472 4591 
 L 1363 4591 
@@ -8500,7 +9049,7 @@ z
      </g>
      <g id="text_11">
       <!-- Female -->
-      <g transform="translate(74.717188 100.581739)scale(0.1 -0.1)">
+      <g transform="translate(74.717187 100.581739)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-46" d="M 547 4591 
 L 3731 4591 
@@ -8563,7 +9112,7 @@ z
      </g>
      <g id="text_12">
       <!-- Prefer not to say -->
-      <g transform="translate(34.695313 72.992792)scale(0.1 -0.1)">
+      <g transform="translate(34.695312 72.992792)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-50" d="M 547 4591 
 L 2613 4591 
@@ -9031,7 +9580,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p61bdeaffd3">
+  <clipPath id="p0edbea60aa">
    <rect x="115.059375" y="25.408125" width="334.940625" height="115.534062"/>
   </clipPath>
  </defs>
@@ -9039,15 +9588,15 @@ z
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_united-states.svg){: .button} [PNG](/international-survey-2022/fig/gender_united-states.png){: .button}
+[PNG](/international-survey-2022/fig/gender_united-states.png){: .button} [SVG](/international-survey-2022/fig/gender_united-states.svg){: .button}
 
 
 ### Hispanic or Latino
 
 | Whether Hispanic or Latino for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                            |       3 |      2.29008 |                  6.4 |                        -4.10992 |
-| No                                             |     128 |     97.7099  |                 93.6 |                         4.10992 |
+| Yes                                            |       3 |         2.29 |                  6.4 |                           -4.11 |
+| No                                             |     128 |        97.71 |                 93.6 |                            4.11 |
 
 [Download CSV](/international-survey-2022/csv/hispanic-or-latino_united-states.csv){: .button}
 
@@ -9057,11 +9606,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:50.002389</dc:date>
+    <dc:date>2022-05-20T09:56:51.931884</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -9082,27 +9631,27 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 35.03125 62.942187 
-L 381.005047 62.942187 
-L 381.005047 25.6425 
+L 381.222873 62.942187 
+L 381.222873 25.6425 
 L 35.03125 25.6425 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 35.03125 61.246747 
-L 364.530104 61.246747 
-L 364.530104 46.176166 
+L 364.737558 61.246747 
+L 364.737558 46.176166 
 L 35.03125 46.176166 
 z
-" clip-path="url(#p010936f177)" style="fill: #1f77b4"/>
+" clip-path="url(#pabdd61e5d9)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 35.03125 42.408521 
-L 42.753879 42.408521 
-L 42.753879 27.33794 
+L 42.758742 42.408521 
+L 42.758742 27.33794 
 L 35.03125 27.33794 
 z
-" clip-path="url(#p010936f177)" style="fill: #1f77b4"/>
+" clip-path="url(#pabdd61e5d9)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -9149,12 +9698,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="102.475547" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="102.51801" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- 20 -->
-      <g transform="translate(96.914609 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(96.957072 77.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-32" d="M 200 0 
 Q 231 578 439 1006 
@@ -9190,12 +9739,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="169.919843" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="170.00477" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- 40 -->
-      <g transform="translate(164.358906 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(164.443832 77.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-34" d="M 2116 1584 
 L 2116 3613 
@@ -9225,12 +9774,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="237.36414" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="237.49153" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- 60 -->
-      <g transform="translate(231.803202 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(231.930592 77.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-36" d="M 1872 4494 
 Q 2622 4494 2917 4105 
@@ -9271,12 +9820,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="304.808437" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="304.978289" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- 80 -->
-      <g transform="translate(299.247499 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(299.417352 77.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-38" d="M 1741 2600 
 Q 2113 2600 2322 2808 
@@ -9326,12 +9875,12 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="372.252733" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="372.465049" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- 100 -->
-      <g transform="translate(363.911327 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(364.123643 77.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-31" d="M 613 3169 
 L 613 3600 
@@ -9366,7 +9915,7 @@ L -3.5 0
      </g>
      <g id="text_7">
       <!-- No -->
-      <g transform="translate(15.248437 57.298176)scale(0.1 -0.1)">
+      <g transform="translate(15.248438 57.298176)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4e" d="M 488 4591 
 L 1222 4591 
@@ -9514,12 +10063,12 @@ z
    </g>
    <g id="patch_5">
     <path d="M 35.03125 62.942187 
-L 381.005047 62.942187 
+L 381.222873 62.942187 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_9">
     <!-- 98% -->
-    <g transform="translate(369.523073 56.255988)scale(0.1 -0.1)">
+    <g transform="translate(369.730526 56.255988)scale(0.1 -0.1)">
      <defs>
       <path id="Helvetica-39" d="M 850 1081 
 Q 875 616 1209 438 
@@ -9606,14 +10155,14 @@ z
    </g>
    <g id="text_10">
     <!-- 2% -->
-    <g transform="translate(50.527317 37.417762)scale(0.1 -0.1)">
+    <g transform="translate(50.532179 37.417762)scale(0.1 -0.1)">
      <use xlink:href="#Helvetica-32"/>
      <use xlink:href="#Helvetica-25" x="55.615234"/>
     </g>
    </g>
    <g id="text_11">
     <!-- Whether Hispanic or Latino, United States -->
-    <g transform="translate(96.300961 19.6425)scale(0.12 -0.12)">
+    <g transform="translate(96.409874 19.6425)scale(0.12 -0.12)">
      <defs>
       <path id="Helvetica-57" d="M 791 4591 
 L 1656 856 
@@ -9989,39 +10538,39 @@ z
   </g>
   <g id="axes_2">
    <g id="patch_6">
-    <path d="M 400.575172 62.942187 
+    <path d="M 400.544054 62.942187 
 L 450 62.942187 
 L 450 25.6425 
-L 400.575172 25.6425 
+L 400.544054 25.6425 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_7">
-    <path d="M 425.287586 61.246747 
-L 447.753417 61.246747 
-L 447.753417 46.176166 
-L 425.287586 46.176166 
+    <path d="M 425.272027 61.246747 
+L 447.752002 61.246747 
+L 447.752002 46.176166 
+L 425.272027 46.176166 
 z
-" clip-path="url(#pa6e3852632)" style="fill: #008000"/>
+" clip-path="url(#pc020905140)" style="fill: #008000"/>
    </g>
    <g id="patch_8">
-    <path d="M 425.287586 42.408521 
-L 402.821755 42.408521 
-L 402.821755 27.33794 
-L 425.287586 27.33794 
+    <path d="M 425.272027 42.408521 
+L 402.792051 42.408521 
+L 402.792051 27.33794 
+L 425.272027 27.33794 
 z
-" clip-path="url(#pa6e3852632)" style="fill: #ffa500"/>
+" clip-path="url(#pc020905140)" style="fill: #ffa500"/>
    </g>
    <g id="matplotlib.axis_3">
     <g id="xtick_7">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="411.621985" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="411.597822" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
       <!-- −2.5 -->
-      <g transform="translate(401.751672 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(401.727509 77.115625)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-2212" d="M 3547 1894 
 L 3547 1369 
@@ -10074,12 +10623,12 @@ z
     <g id="xtick_8">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="425.287586" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="425.272027" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
       <!-- 0.0 -->
-      <g transform="translate(418.337586 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(418.322027 77.115625)scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-30"/>
        <use xlink:href="#Helvetica-2e" x="55.615234"/>
        <use xlink:href="#Helvetica-30" x="83.398438"/>
@@ -10089,12 +10638,12 @@ z
     <g id="xtick_9">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="438.953187" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="438.946232" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
       <!-- 2.5 -->
-      <g transform="translate(432.003187 77.115625)scale(0.1 -0.1)">
+      <g transform="translate(431.996232 77.115625)scale(0.1 -0.1)">
        <use xlink:href="#Helvetica-32"/>
        <use xlink:href="#Helvetica-2e" x="55.615234"/>
        <use xlink:href="#Helvetica-35" x="83.398438"/>
@@ -10106,26 +10655,26 @@ z
     <g id="ytick_3">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m8e343aef83" x="400.575172" y="53.711457" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="400.544054" y="53.711457" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m8e343aef83" x="400.575172" y="34.873231" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="400.544054" y="34.873231" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
     </g>
    </g>
    <g id="patch_9">
-    <path d="M 400.575172 62.942187 
+    <path d="M 400.544054 62.942187 
 L 450 62.942187 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_15">
     <!-- Δ -->
-    <g transform="translate(420.954461 19.6425)scale(0.12 -0.12)">
+    <g transform="translate(420.938902 19.6425)scale(0.12 -0.12)">
      <defs>
       <path id="Helvetica-394" d="M 922 500 
 L 3672 500 
@@ -10146,18 +10695,18 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p010936f177">
-   <rect x="35.03125" y="25.6425" width="345.973797" height="37.299687"/>
+  <clipPath id="pabdd61e5d9">
+   <rect x="35.03125" y="25.6425" width="346.191623" height="37.299687"/>
   </clipPath>
-  <clipPath id="pa6e3852632">
-   <rect x="400.575172" y="25.6425" width="49.424828" height="37.299687"/>
+  <clipPath id="pc020905140">
+   <rect x="400.544054" y="25.6425" width="49.455946" height="37.299687"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/hispanic-or-latino_united-states.svg){: .button} [PNG](/international-survey-2022/fig/hispanic-or-latino_united-states.png){: .button}
+[PNG](/international-survey-2022/fig/hispanic-or-latino_united-states.png){: .button} [SVG](/international-survey-2022/fig/hispanic-or-latino_united-states.svg){: .button}
 
 
 
@@ -10168,10 +10717,10 @@ z
 
 | Gender for World        |   Count |   Percentage |
 |:------------------------|--------:|-------------:|
-| Male                    |     639 |     79.4776  |
-| Female                  |     127 |     15.796   |
-| Prefer not to say       |      29 |      3.60697 |
-| Prefer to self describe |       9 |      1.1194  |
+| Male                    |     639 |        79.48 |
+| Female                  |     127 |        15.8  |
+| Prefer not to say       |      29 |         3.61 |
+| Prefer to self describe |       9 |         1.12 |
 
 [Download CSV](/international-survey-2022/csv/gender_world.csv){: .button}
 
@@ -10181,11 +10730,11 @@ z
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-19T12:18:50.431918</dc:date>
+    <dc:date>2022-05-20T09:56:52.246294</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -10218,7 +10767,7 @@ L 434.050446 135.690639
 L 434.050446 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
@@ -10226,7 +10775,7 @@ L 178.458226 108.050911
 L 178.458226 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
@@ -10234,7 +10783,7 @@ L 129.536278 80.411183
 L 129.536278 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
@@ -10242,7 +10791,7 @@ L 119.552207 52.771456
 L 119.552207 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -10627,7 +11176,7 @@ L -3.5 0
      </g>
      <g id="text_10">
       <!-- Male -->
-      <g transform="translate(86.385938 128.221467)scale(0.1 -0.1)">
+      <g transform="translate(86.385937 128.221467)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4d" d="M 472 4591 
 L 1363 4591 
@@ -10750,7 +11299,7 @@ z
      </g>
      <g id="text_11">
       <!-- Female -->
-      <g transform="translate(74.717188 100.581739)scale(0.1 -0.1)">
+      <g transform="translate(74.717187 100.581739)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-46" d="M 547 4591 
 L 3731 4591 
@@ -10813,7 +11362,7 @@ z
      </g>
      <g id="text_12">
       <!-- Prefer not to say -->
-      <g transform="translate(34.695313 72.992792)scale(0.1 -0.1)">
+      <g transform="translate(34.695312 72.992792)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-50" d="M 547 4591 
 L 2613 4591 
@@ -11235,7 +11784,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p61bdeaffd3">
+  <clipPath id="p0edbea60aa">
    <rect x="115.059375" y="25.408125" width="334.940625" height="115.534062"/>
   </clipPath>
  </defs>
@@ -11243,7 +11792,7 @@ z
 
 {% endraw %}
 
-[SVG](/international-survey-2022/fig/gender_world.svg){: .button} [PNG](/international-survey-2022/fig/gender_world.png){: .button}
+[PNG](/international-survey-2022/fig/gender_world.png){: .button} [SVG](/international-survey-2022/fig/gender_world.svg){: .button}
 
 
 

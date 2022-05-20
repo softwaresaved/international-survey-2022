@@ -29,13 +29,13 @@ selected at least one option.
 
 | Highest level of education for United States          |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Doctorate                                             |      84 |       52.5   |            45.5782   |                       6.92177   |
-| Undergraduate degree                                  |      36 |       22.5   |            22.449    |                       0.0510204 |
-| Master degree                                         |      36 |       22.5   |            31.2925   |                      -8.79252   |
-| Associate degree (typically from a community college) |       1 |        0.625 |           nan        |                     nan         |
-| None                                                  |       1 |        0.625 |           nan        |                     nan         |
-| High School                                           |       1 |        0.625 |           nan        |                     nan         |
-| Other                                                 |       1 |        0.625 |             0.680272 |                      -0.0552721 |
+| Doctorate                                             |      84 |        52.5  |                45.58 |                            6.92 |
+| Undergraduate degree                                  |      36 |        22.5  |                22.45 |                            0.05 |
+| Master degree                                         |      36 |        22.5  |                31.29 |                           -8.79 |
+| Associate degree (typically from a community college) |       1 |         0.62 |               nan    |                          nan    |
+| None                                                  |       1 |         0.62 |               nan    |                          nan    |
+| High School                                           |       1 |         0.62 |               nan    |                          nan    |
+| Other                                                 |       1 |         0.62 |                 0.68 |                           -0.06 |
 
 [Download CSV](/international-survey-2022/csv/education_level_united-states.csv){: .button}
 
@@ -50,33 +50,33 @@ despite lot of overlapping in the categories.
 
 | Field of education for United States         |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Computer Science                             |      37 |       23.125 |            25.8503   |                      -2.72534   |
-| Physics and Astronomy                        |      31 |       19.375 |            29.932    |                     -10.557     |
-| Mathematics                                  |      19 |       11.875 |             8.84354  |                       3.03146   |
-| Biological Sciences                          |      17 |       10.625 |             9.52381  |                       1.10119   |
-| Chemistry                                    |      12 |        7.5   |             1.36054  |                       6.13946   |
-| Electrical &amp; Electronic Engineering          |       7 |        4.375 |             4.08163  |                       0.293367  |
-| Mechanical Engineering                       |       5 |        3.125 |             1.36054  |                       1.76446   |
-| Materials Technology                         |       5 |        3.125 |             1.36054  |                       1.76446   |
-| Psychology                                   |       3 |        1.875 |             0.680272 |                       1.19473   |
-| nan                                          |       3 |        1.875 |             1.36054  |                       0.514456  |
-| Geography &amp; Environmental Sciences           |       3 |        1.875 |             2.72109  |                      -0.846088  |
-| Aeronautical &amp; Manufacturing Engineering     |       2 |        1.25  |           nan        |                     nan         |
-| Chemical Engineering                         |       2 |        1.25  |             1.36054  |                      -0.110544  |
-| Philosophy                                   |       1 |        0.625 |             1.36054  |                      -0.735544  |
-| Accounting &amp; Finance                         |       1 |        0.625 |             0.680272 |                      -0.0552721 |
-| Economics                                    |       1 |        0.625 |             1.36054  |                      -0.735544  |
-| Agriculture &amp; Forestry                       |       1 |        0.625 |           nan        |                     nan         |
-| Anatomy &amp; Physiology                         |       1 |        0.625 |           nan        |                     nan         |
-| History                                      |       1 |        0.625 |             1.36054  |                      -0.735544  |
-| English                                      |       1 |        0.625 |           nan        |                     nan         |
-| Music                                        |       1 |        0.625 |             1.36054  |                      -0.735544  |
-| East &amp; South Asian Studies                   |       1 |        0.625 |             0.680272 |                      -0.0552721 |
-| Town &amp; Country Planning and Landscape Design |       1 |        0.625 |           nan        |                     nan         |
-| Politics                                     |       1 |        0.625 |             0.680272 |                      -0.0552721 |
-| Sociology                                    |       1 |        0.625 |           nan        |                     nan         |
-| General Engineering                          |       1 |        0.625 |           nan        |                     nan         |
-| Geology                                      |       1 |        0.625 |             1.36054  |                      -0.735544  |
+| Computer Science                             |      37 |        23.12 |                25.85 |                           -2.73 |
+| Physics and Astronomy                        |      31 |        19.38 |                29.93 |                          -10.56 |
+| Mathematics                                  |      19 |        11.88 |                 8.84 |                            3.03 |
+| Biological Sciences                          |      17 |        10.62 |                 9.52 |                            1.1  |
+| Chemistry                                    |      12 |         7.5  |                 1.36 |                            6.14 |
+| Electrical &amp; Electronic Engineering          |       7 |         4.38 |                 4.08 |                            0.29 |
+| Mechanical Engineering                       |       5 |         3.12 |                 1.36 |                            1.76 |
+| Materials Technology                         |       5 |         3.12 |                 1.36 |                            1.76 |
+| Psychology                                   |       3 |         1.88 |                 0.68 |                            1.19 |
+| nan                                          |       3 |         1.88 |                 1.36 |                            0.51 |
+| Geography &amp; Environmental Sciences           |       3 |         1.88 |                 2.72 |                           -0.85 |
+| Aeronautical &amp; Manufacturing Engineering     |       2 |         1.25 |               nan    |                          nan    |
+| Chemical Engineering                         |       2 |         1.25 |                 1.36 |                           -0.11 |
+| Philosophy                                   |       1 |         0.62 |                 1.36 |                           -0.74 |
+| Accounting &amp; Finance                         |       1 |         0.62 |                 0.68 |                           -0.06 |
+| Economics                                    |       1 |         0.62 |                 1.36 |                           -0.74 |
+| Agriculture &amp; Forestry                       |       1 |         0.62 |               nan    |                          nan    |
+| Anatomy &amp; Physiology                         |       1 |         0.62 |               nan    |                          nan    |
+| History                                      |       1 |         0.62 |                 1.36 |                           -0.74 |
+| English                                      |       1 |         0.62 |               nan    |                          nan    |
+| Music                                        |       1 |         0.62 |                 1.36 |                           -0.74 |
+| East &amp; South Asian Studies                   |       1 |         0.62 |                 0.68 |                           -0.06 |
+| Town &amp; Country Planning and Landscape Design |       1 |         0.62 |               nan    |                          nan    |
+| Politics                                     |       1 |         0.62 |                 0.68 |                           -0.06 |
+| Sociology                                    |       1 |         0.62 |               nan    |                          nan    |
+| General Engineering                          |       1 |         0.62 |               nan    |                          nan    |
+| Geology                                      |       1 |         0.62 |                 1.36 |                           -0.74 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_edu_united-states.csv){: .button}
 
@@ -89,63 +89,63 @@ despite lot of overlapping in the categories.
 
 | field of work for United States              |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Computer Science                             |      75 |       46.875 |            40.1361   |                       6.73895   |
-| Biological Sciences                          |      43 |       26.875 |            26.5306   |                       0.344388  |
-| Physics and Astronomy                        |      42 |       26.25  |            42.8571   |                     -16.6071    |
-| Geography &amp; Environmental Sciences           |      23 |       14.375 |            15.6463   |                      -1.27126   |
-| Mathematics                                  |      21 |       13.125 |            10.2041   |                       2.92092   |
-| Materials Technology                         |      16 |       10     |             3.40136  |                       6.59864   |
-| Medicine                                     |      13 |        8.125 |             6.12245  |                       2.00255   |
-| Chemistry                                    |      13 |        8.125 |             2.72109  |                       5.40391   |
-| Sociology                                    |      12 |        7.5   |             3.40136  |                       4.09864   |
-| Psychology                                   |      12 |        7.5   |             2.04082  |                       5.45918   |
-| Economics                                    |      11 |        6.875 |             5.44218  |                       1.43282   |
-| Librarianship &amp; Information Management       |      10 |        6.25  |             2.04082  |                       4.20918   |
-| Agriculture &amp; Forestry                       |       9 |        5.625 |             1.36054  |                       4.26446   |
-| Mechanical Engineering                       |       9 |        5.625 |             2.72109  |                       2.90391   |
-| Civil Engineering                            |       9 |        5.625 |             1.36054  |                       4.26446   |
-| Geology                                      |       9 |        5.625 |             4.08163  |                       1.54337   |
-| Politics                                     |       8 |        5     |             2.04082  |                       2.95918   |
-| History                                      |       8 |        5     |             2.04082  |                       2.95918   |
-| General Engineering                          |       8 |        5     |             1.36054  |                       3.63946   |
-| Linguistics                                  |       8 |        5     |             2.04082  |                       2.95918   |
-| Chemical Engineering                         |       8 |        5     |             4.08163  |                       0.918367  |
-| Education                                    |       7 |        4.375 |             3.40136  |                       0.973639  |
-| Electrical &amp; Electronic Engineering          |       7 |        4.375 |             5.44218  |                      -1.06718   |
-| Anthropology                                 |       6 |        3.75  |             2.72109  |                       1.02891   |
-| English                                      |       5 |        3.125 |             0.680272 |                       2.44473   |
-| Law                                          |       5 |        3.125 |             0.680272 |                       2.44473   |
-| Aeronautical &amp; Manufacturing Engineering     |       4 |        2.5   |             0        |                       2.5       |
-| Robotics                                     |       4 |        2.5   |             1.36054  |                       1.13946   |
-| Social Policy                                |       4 |        2.5   |             3.40136  |                      -0.901361  |
-| Business &amp; Management Studies                |       4 |        2.5   |             2.04082  |                       0.459184  |
-| Accounting &amp; Finance                         |       4 |        2.5   |             1.36054  |                       1.13946   |
-| Criminology                                  |       4 |        2.5   |             0.680272 |                       1.81973   |
-| French                                       |       3 |        1.875 |             0        |                       1.875     |
-| East &amp; South Asian Studies                   |       3 |        1.875 |             0        |                       1.875     |
-| Communication &amp; Media Studies                |       2 |        1.25  |             2.04082  |                      -0.790816  |
-| History of Art, Architecture &amp; Design        |       2 |        1.25  |             0        |                       1.25      |
-| Town &amp; Country Planning and Landscape Design |       2 |        1.25  |             0.680272 |                       0.569728  |
-| American Studies                             |       2 |        1.25  |             1.36054  |                      -0.110544  |
-| Anatomy &amp; Physiology                         |       2 |        1.25  |             2.04082  |                      -0.790816  |
-| Philosophy                                   |       2 |        1.25  |             0.680272 |                       0.569728  |
-| Art &amp; Design                                 |       2 |        1.25  |             1.36054  |                      -0.110544  |
-| Classics &amp; Ancient History                   |       2 |        1.25  |             0.680272 |                       0.569728  |
-| Social Work                                  |       1 |        0.625 |             0        |                       0.625     |
-| Middle Eastern and African Studies           |       1 |        0.625 |             1.36054  |                      -0.735544  |
-| Russian &amp; East European Languages            |       1 |        0.625 |             0        |                       0.625     |
-| Music                                        |       1 |        0.625 |             0        |                       0.625     |
-| Dentistry                                    |       1 |        0.625 |             0        |                       0.625     |
-| Architecture                                 |       1 |        0.625 |             1.36054  |                      -0.735544  |
-| Food Science                                 |       1 |        0.625 |             0        |                       0.625     |
-| Marketing                                    |       1 |        0.625 |             0.680272 |                      -0.0552721 |
-| Counselling                                  |       1 |        0.625 |             0        |                       0.625     |
-| Complementary Medicine                       |       1 |        0.625 |             0.680272 |                      -0.0552721 |
-| German                                       |       1 |        0.625 |             0        |                       0.625     |
-| Veterinary Medicine                          |       0 |        0     |             1.36054  |                      -1.36054   |
-| Theology &amp; Religious Studies                 |       0 |        0     |             1.36054  |                      -1.36054   |
-| Pharmacology &amp; Pharmacy                      |       0 |        0     |             2.72109  |                      -2.72109   |
-| Land &amp; Property Management                   |       0 |        0     |             0.680272 |                      -0.680272  |
+| Computer Science                             |      75 |        46.88 |                40.14 |                            6.74 |
+| Biological Sciences                          |      43 |        26.88 |                26.53 |                            0.34 |
+| Physics and Astronomy                        |      42 |        26.25 |                42.86 |                          -16.61 |
+| Geography &amp; Environmental Sciences           |      23 |        14.37 |                15.65 |                           -1.27 |
+| Mathematics                                  |      21 |        13.12 |                10.2  |                            2.92 |
+| Materials Technology                         |      16 |        10    |                 3.4  |                            6.6  |
+| Medicine                                     |      13 |         8.12 |                 6.12 |                            2    |
+| Chemistry                                    |      13 |         8.12 |                 2.72 |                            5.4  |
+| Sociology                                    |      12 |         7.5  |                 3.4  |                            4.1  |
+| Psychology                                   |      12 |         7.5  |                 2.04 |                            5.46 |
+| Economics                                    |      11 |         6.88 |                 5.44 |                            1.43 |
+| Librarianship &amp; Information Management       |      10 |         6.25 |                 2.04 |                            4.21 |
+| Agriculture &amp; Forestry                       |       9 |         5.62 |                 1.36 |                            4.26 |
+| Mechanical Engineering                       |       9 |         5.62 |                 2.72 |                            2.9  |
+| Civil Engineering                            |       9 |         5.62 |                 1.36 |                            4.26 |
+| Geology                                      |       9 |         5.62 |                 4.08 |                            1.54 |
+| Politics                                     |       8 |         5    |                 2.04 |                            2.96 |
+| History                                      |       8 |         5    |                 2.04 |                            2.96 |
+| General Engineering                          |       8 |         5    |                 1.36 |                            3.64 |
+| Linguistics                                  |       8 |         5    |                 2.04 |                            2.96 |
+| Chemical Engineering                         |       8 |         5    |                 4.08 |                            0.92 |
+| Education                                    |       7 |         4.38 |                 3.4  |                            0.97 |
+| Electrical &amp; Electronic Engineering          |       7 |         4.38 |                 5.44 |                           -1.07 |
+| Anthropology                                 |       6 |         3.75 |                 2.72 |                            1.03 |
+| English                                      |       5 |         3.12 |                 0.68 |                            2.44 |
+| Law                                          |       5 |         3.12 |                 0.68 |                            2.44 |
+| Aeronautical &amp; Manufacturing Engineering     |       4 |         2.5  |                 0    |                            2.5  |
+| Robotics                                     |       4 |         2.5  |                 1.36 |                            1.14 |
+| Social Policy                                |       4 |         2.5  |                 3.4  |                           -0.9  |
+| Business &amp; Management Studies                |       4 |         2.5  |                 2.04 |                            0.46 |
+| Accounting &amp; Finance                         |       4 |         2.5  |                 1.36 |                            1.14 |
+| Criminology                                  |       4 |         2.5  |                 0.68 |                            1.82 |
+| French                                       |       3 |         1.88 |                 0    |                            1.88 |
+| East &amp; South Asian Studies                   |       3 |         1.88 |                 0    |                            1.88 |
+| Communication &amp; Media Studies                |       2 |         1.25 |                 2.04 |                           -0.79 |
+| History of Art, Architecture &amp; Design        |       2 |         1.25 |                 0    |                            1.25 |
+| Town &amp; Country Planning and Landscape Design |       2 |         1.25 |                 0.68 |                            0.57 |
+| American Studies                             |       2 |         1.25 |                 1.36 |                           -0.11 |
+| Anatomy &amp; Physiology                         |       2 |         1.25 |                 2.04 |                           -0.79 |
+| Philosophy                                   |       2 |         1.25 |                 0.68 |                            0.57 |
+| Art &amp; Design                                 |       2 |         1.25 |                 1.36 |                           -0.11 |
+| Classics &amp; Ancient History                   |       2 |         1.25 |                 0.68 |                            0.57 |
+| Social Work                                  |       1 |         0.62 |                 0    |                            0.62 |
+| Middle Eastern and African Studies           |       1 |         0.62 |                 1.36 |                           -0.74 |
+| Russian &amp; East European Languages            |       1 |         0.62 |                 0    |                            0.62 |
+| Music                                        |       1 |         0.62 |                 0    |                            0.62 |
+| Dentistry                                    |       1 |         0.62 |                 0    |                            0.62 |
+| Architecture                                 |       1 |         0.62 |                 1.36 |                           -0.74 |
+| Food Science                                 |       1 |         0.62 |                 0    |                            0.62 |
+| Marketing                                    |       1 |         0.62 |                 0.68 |                           -0.06 |
+| Counselling                                  |       1 |         0.62 |                 0    |                            0.62 |
+| Complementary Medicine                       |       1 |         0.62 |                 0.68 |                           -0.06 |
+| German                                       |       1 |         0.62 |                 0    |                            0.62 |
+| Veterinary Medicine                          |       0 |         0    |                 1.36 |                           -1.36 |
+| Theology &amp; Religious Studies                 |       0 |         0    |                 1.36 |                           -1.36 |
+| Pharmacology &amp; Pharmacy                      |       0 |         0    |                 2.72 |                           -2.72 |
+| Land &amp; Property Management                   |       0 |         0    |                 0.68 |                           -0.68 |
 
 [Download CSV](/international-survey-2022/csv/academic_field_work_united-states.csv){: .button}
 
@@ -169,8 +169,8 @@ Questions in this section:
 
 | Professional developer for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                        |     110 |      69.6203 |              63.8298 |                         5.79047 |
-| No                                         |      48 |      30.3797 |              36.1702 |                        -5.79047 |
+| Yes                                        |     110 |        69.62 |                63.83 |                            5.79 |
+| No                                         |      48 |        30.38 |                36.17 |                           -5.79 |
 
 [Download CSV](/international-survey-2022/csv/proportion-professional-developer_united-states.csv){: .button}
 
@@ -180,14 +180,14 @@ Questions in this section:
 
 | How many years of software development experience for United States (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:----------------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                         |          93       |          139      |
-| mean                                                                                          |           6.44086 |           14.3165 |
-| std                                                                                           |           3.45927 |           10.0355 |
-| min                                                                                           |           0       |            0      |
-| 25%                                                                                           |           4       |            5      |
-| 50%                                                                                           |           6       |           12      |
-| 75%                                                                                           |          10       |           20      |
-| max                                                                                           |          14       |           38      |
+| count                                                                                         |             93    |            139    |
+| mean                                                                                          |              6.44 |             14.32 |
+| std                                                                                           |              3.46 |             10.04 |
+| min                                                                                           |              0    |              0    |
+| 25%                                                                                           |              4    |              5    |
+| 50%                                                                                           |              6    |             12    |
+| 75%                                                                                           |             10    |             20    |
+| max                                                                                           |             14    |             38    |
 
 [Download CSV](/international-survey-2022/csv/summary-years-professional-developer_united-states.csv){: .button}
 
@@ -267,13 +267,13 @@ position among 8 different ones:
 
 | Where the previous job was based for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| University                                           |      68 |     45.6376  |             53.9007  |                       -8.26313  |
-| Private company                                      |      51 |     34.2282  |             28.3688  |                        5.85939  |
-| Non-profit organization                              |       9 |      6.04027 |              4.25532 |                        1.78495  |
-| This is my first job                                 |       7 |      4.69799 |            nan       |                      nan        |
-| National laboratory                                  |       7 |      4.69799 |              5.67376 |                       -0.975772 |
-| Government                                           |       5 |      3.3557  |              2.83688 |                        0.518825 |
-| NGO                                                  |       2 |      1.34228 |            nan       |                      nan        |
+| University                                           |      68 |        45.64 |                53.9  |                           -8.26 |
+| Private company                                      |      51 |        34.23 |                28.37 |                            5.86 |
+| Non-profit organization                              |       9 |         6.04 |                 4.26 |                            1.78 |
+| This is my first job                                 |       7 |         4.7  |               nan    |                          nan    |
+| National laboratory                                  |       7 |         4.7  |                 5.67 |                           -0.98 |
+| Government                                           |       5 |         3.36 |                 2.84 |                            0.52 |
+| NGO                                                  |       2 |         1.34 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/where-previous-job-based_united-states.csv){: .button}
 
@@ -283,15 +283,15 @@ position among 8 different ones:
 
 | Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
 |:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Desire to work in a research environment | 29.5302  | 12.8378  |  9.85915 | 10.6061  | 14.1667  |
-| Desire to advance research               | 16.1074  | 20.9459  | 14.0845  |  6.81818 | 11.6667  |
-| Opportunity to develop software          | 16.1074  | 14.1892  |  9.85915 | 13.6364  | 10       |
-| Freedom to choose own working practices  | 12.0805  |  7.43243 | 11.2676  | 13.6364  | 10       |
-| Opportunity for career advancement       | 10.0671  |  8.10811 |  2.8169  |  5.30303 |  9.16667 |
-| Ability to work across disciplines       |  5.36913 |  7.43243 | 16.1972  | 14.3939  | 12.5     |
-| The salary                               |  4.69799 |  8.78378 |  6.33803 | 10.6061  |  5.83333 |
-| I want to learn new skills               |  4.02685 | 16.2162  | 14.0845  | 15.1515  | 12.5     |
-| Flexible working hours                   |  2.01342 |  4.05405 | 15.493   |  9.84848 | 14.1667  |
+| Desire to work in a research environment |    29.53 |    12.84 |     9.86 |    10.61 |    14.17 |
+| Desire to advance research               |    16.11 |    20.95 |    14.08 |     6.82 |    11.67 |
+| Opportunity to develop software          |    16.11 |    14.19 |     9.86 |    13.64 |    10    |
+| Freedom to choose own working practices  |    12.08 |     7.43 |    11.27 |    13.64 |    10    |
+| Opportunity for career advancement       |    10.07 |     8.11 |     2.82 |     5.3  |     9.17 |
+| Ability to work across disciplines       |     5.37 |     7.43 |    16.2  |    14.39 |    12.5  |
+| The salary                               |     4.7  |     8.78 |     6.34 |    10.61 |     5.83 |
+| I want to learn new skills               |     4.03 |    16.22 |    14.08 |    15.15 |    12.5  |
+| Flexible working hours                   |     2.01 |     4.05 |    15.49 |     9.85 |    14.17 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_united-states.csv){: .button}
 
@@ -317,12 +317,12 @@ Questions in this section:
 
 | developing code for others for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 0 - Mostly me                                  |       6 |      4       |              2.04082 |                        1.95918  |
-| 1                                              |      10 |      6.66667 |             10.8844  |                       -4.21769  |
-| 2                                              |      17 |     11.3333  |             14.966   |                       -3.63265  |
-| 3                                              |      33 |     22       |             16.3265  |                        5.67347  |
-| 4                                              |      31 |     20.6667  |             21.0884  |                       -0.421769 |
-| 5 - Mostly other people                        |      53 |     35.3333  |             34.6939  |                        0.639456 |
+| 0 - Mostly me                                  |       6 |         4    |                 2.04 |                            1.96 |
+| 1                                              |      10 |         6.67 |                10.88 |                           -4.22 |
+| 2                                              |      17 |        11.33 |                14.97 |                           -3.63 |
+| 3                                              |      33 |        22    |                16.33 |                            5.67 |
+| 4                                              |      31 |        20.67 |                21.09 |                           -0.42 |
+| 5 - Mostly other people                        |      53 |        35.33 |                34.69 |                            0.64 |
 
 [Download CSV](/international-survey-2022/csv/developing-code-for-others_united-states.csv){: .button}
 
@@ -332,9 +332,9 @@ Questions in this section:
 
 | Working with same researchers for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Different researchers, same research group        |      15 |      10.4895 |              17.3913 |                        -6.90179 |
-| Regularly change researcher(s)                    |      63 |      44.0559 |              34.058  |                         9.99797 |
-| Same researcher(s)                                |      65 |      45.4545 |              48.5507 |                        -3.09618 |
+| Different researchers, same research group        |      15 |        10.49 |                17.39 |                            -6.9 |
+| Regularly change researcher(s)                    |      63 |        44.06 |                34.06 |                            10   |
+| Same researcher(s)                                |      65 |        45.45 |                48.55 |                            -3.1 |
 
 [Download CSV](/international-survey-2022/csv/working-with-same-researchers_united-states.csv){: .button}
 
@@ -344,8 +344,8 @@ Questions in this section:
 
 | member of a dedicated group for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No                                              |      62 |      43.3566 |              49.2754 |                        -5.91872 |
-| Yes                                             |      81 |      56.6434 |              50.7246 |                         5.91872 |
+| No                                              |      62 |        43.36 |                49.28 |                           -5.92 |
+| Yes                                             |      81 |        56.64 |                50.72 |                            5.92 |
 
 [Download CSV](/international-survey-2022/csv/member-of-a-dedicated-group_united-states.csv){: .button}
 
@@ -355,18 +355,18 @@ Questions in this section:
 
 |   Number of software projects for United States |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                               0 |       3 |     2.11268  |             1.52672  |                        0.585958 |
-|                                               1 |      16 |    11.2676   |            12.9771   |                       -1.70949  |
-|                                               2 |      27 |    19.0141   |            28.2443   |                       -9.23019  |
-|                                               3 |      50 |    35.2113   |            22.1374   |                       13.0739   |
-|                                               4 |      16 |    11.2676   |            10.687    |                        0.580583 |
-|                                               5 |      11 |     7.74648  |            12.9771   |                       -5.23062  |
-|                                               6 |       4 |     2.8169   |             3.81679  |                       -0.999892 |
-|                                               7 |       2 |     1.40845  |             0.763359 |                        0.645092 |
-|                                               8 |       2 |     1.40845  |             1.52672  |                       -0.118267 |
-|                                              10 |       4 |     2.8169   |             3.05344  |                       -0.236534 |
-|                                              13 |       1 |     0.704225 |           nan        |                      nan        |
-|                                              15 |       6 |     4.22535  |           nan        |                      nan        |
+|                                               0 |       3 |         2.11 |                 1.53 |                            0.59 |
+|                                               1 |      16 |        11.27 |                12.98 |                           -1.71 |
+|                                               2 |      27 |        19.01 |                28.24 |                           -9.23 |
+|                                               3 |      50 |        35.21 |                22.14 |                           13.07 |
+|                                               4 |      16 |        11.27 |                10.69 |                            0.58 |
+|                                               5 |      11 |         7.75 |                12.98 |                           -5.23 |
+|                                               6 |       4 |         2.82 |                 3.82 |                           -1    |
+|                                               7 |       2 |         1.41 |                 0.76 |                            0.65 |
+|                                               8 |       2 |         1.41 |                 1.53 |                           -0.12 |
+|                                              10 |       4 |         2.82 |                 3.05 |                           -0.24 |
+|                                              13 |       1 |         0.7  |               nan    |                          nan    |
+|                                              15 |       6 |         4.23 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-projects_united-states.csv){: .button}
 
@@ -374,23 +374,23 @@ Questions in this section:
 
 |   Number of software developers per projects for United States |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |---------------------------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                                                            0   |       5 |     3.7037   |             0.757576 |                       2.94613   |
-|                                                            0.5 |       1 |     0.740741 |           nan        |                     nan         |
-|                                                            1   |      24 |    17.7778   |            25        |                      -7.22222   |
-|                                                            1.5 |       1 |     0.740741 |           nan        |                     nan         |
-|                                                            2   |      30 |    22.2222   |            31.0606   |                      -8.83838   |
-|                                                            3   |      30 |    22.2222   |            15.1515   |                       7.07071   |
-|                                                            4   |       9 |     6.66667  |             8.33333  |                      -1.66667   |
-|                                                            5   |      12 |     8.88889  |             9.09091  |                      -0.20202   |
-|                                                            6   |       3 |     2.22222  |             2.27273  |                      -0.0505051 |
-|                                                            7   |       3 |     2.22222  |             0.757576 |                       1.46465   |
-|                                                            8   |       4 |     2.96296  |             0.757576 |                       2.20539   |
-|                                                           10   |       6 |     4.44444  |             3.0303   |                       1.41414   |
-|                                                           12   |       1 |     0.740741 |             0.757576 |                      -0.016835  |
-|                                                           15   |       2 |     1.48148  |             0.757576 |                       0.723906  |
-|                                                           20   |       2 |     1.48148  |             0.757576 |                       0.723906  |
-|                                                           30   |       1 |     0.740741 |             0.757576 |                      -0.016835  |
-|                                                           32   |       1 |     0.740741 |           nan        |                     nan         |
+|                                                            0   |       5 |         3.7  |                 0.76 |                            2.95 |
+|                                                            0.5 |       1 |         0.74 |               nan    |                          nan    |
+|                                                            1   |      24 |        17.78 |                25    |                           -7.22 |
+|                                                            1.5 |       1 |         0.74 |               nan    |                          nan    |
+|                                                            2   |      30 |        22.22 |                31.06 |                           -8.84 |
+|                                                            3   |      30 |        22.22 |                15.15 |                            7.07 |
+|                                                            4   |       9 |         6.67 |                 8.33 |                           -1.67 |
+|                                                            5   |      12 |         8.89 |                 9.09 |                           -0.2  |
+|                                                            6   |       3 |         2.22 |                 2.27 |                           -0.05 |
+|                                                            7   |       3 |         2.22 |                 0.76 |                            1.46 |
+|                                                            8   |       4 |         2.96 |                 0.76 |                            2.21 |
+|                                                           10   |       6 |         4.44 |                 3.03 |                            1.41 |
+|                                                           12   |       1 |         0.74 |                 0.76 |                           -0.02 |
+|                                                           15   |       2 |         1.48 |                 0.76 |                            0.72 |
+|                                                           20   |       2 |         1.48 |                 0.76 |                            0.72 |
+|                                                           30   |       1 |         0.74 |                 0.76 |                           -0.02 |
+|                                                           32   |       1 |         0.74 |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/number-of-software-developers-per-projects_united-states.csv){: .button}
 
@@ -400,14 +400,14 @@ Questions in this section:
 
 | Number of time per year providing training for United States (without 95 percentile)   |   Results in 2022 |   Results in 2018 |
 |:---------------------------------------------------------------------------------------|------------------:|------------------:|
-| count                                                                                  |         133       |         131       |
-| mean                                                                                   |           1.66917 |           1.58779 |
-| std                                                                                    |           2.02156 |           1.96848 |
-| min                                                                                    |           0       |           0       |
-| 25%                                                                                    |           0       |           0       |
-| 50%                                                                                    |           1       |           1       |
-| 75%                                                                                    |           2       |           2       |
-| max                                                                                    |          10       |           8       |
+| count                                                                                  |            133    |            131    |
+| mean                                                                                   |              1.67 |              1.59 |
+| std                                                                                    |              2.02 |              1.97 |
+| min                                                                                    |              0    |              0    |
+| 25%                                                                                    |              0    |              0    |
+| 50%                                                                                    |              1    |              1    |
+| 75%                                                                                    |              2    |              2    |
+| max                                                                                    |             10    |              8    |
 
 [Download CSV](/international-survey-2022/csv/training-frequency_united-states.csv){: .button}
 
@@ -439,11 +439,11 @@ Questions in the section:
 
 | Acknowledgment in paper for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Not mentioned at all                        |      24 |     18.0451  |             21.7391  |                      -3.69402   |
-| Acknowledged in the main text               |       6 |      4.51128 |             12.3188  |                      -7.80756   |
-| Acknowledged in acknowledgements section    |      29 |     21.8045  |             16.6667  |                       5.13784   |
-| Named as co-author                          |      71 |     53.3835  |             47.1014  |                       6.28201   |
-| Named as main author                        |       3 |      2.25564 |              2.17391 |                       0.0817261 |
+| Not mentioned at all                        |      24 |        18.05 |                21.74 |                           -3.69 |
+| Acknowledged in the main text               |       6 |         4.51 |                12.32 |                           -7.81 |
+| Acknowledged in acknowledgements section    |      29 |        21.8  |                16.67 |                            5.14 |
+| Named as co-author                          |      71 |        53.38 |                47.1  |                            6.28 |
+| Named as main author                        |       3 |         2.26 |                 2.17 |                            0.08 |
 
 [Download CSV](/international-survey-2022/csv/acknowledgment-in-paper_united-states.csv){: .button}
 
@@ -453,8 +453,8 @@ Questions in the section:
 
 | Did you participate in conference for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                   |      80 |      58.3942 |              59.8485 |                        -1.45432 |
-| No                                                    |      57 |      41.6058 |              40.1515 |                         1.45432 |
+| Yes                                                   |      80 |        58.39 |                59.85 |                           -1.45 |
+| No                                                    |      57 |        41.61 |                40.15 |                            1.45 |
 
 [Download CSV](/international-survey-2022/csv/did-you-participate-in-conference_united-states.csv){: .button}
 
@@ -493,16 +493,16 @@ Questions in this section:
 
 | Open source use for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                     |     nan |   nan        |            nan       |                      nan        |
-| 2                                   |       3 |     2.0979   |              1.44928 |                        0.648627 |
-| 3                                   |       8 |     5.59441  |              1.44928 |                        4.14513  |
-| 4                                   |       1 |     0.699301 |              1.44928 |                       -0.749975 |
-| 5                                   |       6 |     4.1958   |              2.89855 |                        1.29725  |
-| 6                                   |       4 |     2.7972   |              2.89855 |                       -0.101348 |
-| 7                                   |       5 |     3.4965   |              3.62319 |                       -0.126685 |
-| 8                                   |      15 |    10.4895   |             12.3188  |                       -1.82933  |
-| 9                                   |      16 |    11.1888   |             18.1159  |                       -6.92713  |
-| 10 (All the time)                   |      76 |    53.1469   |             53.6232  |                       -0.476335 |
+| 1 (None at all)                     |     nan |       nan    |               nan    |                          nan    |
+| 2                                   |       3 |         2.1  |                 1.45 |                            0.65 |
+| 3                                   |       8 |         5.59 |                 1.45 |                            4.15 |
+| 4                                   |       1 |         0.7  |                 1.45 |                           -0.75 |
+| 5                                   |       6 |         4.2  |                 2.9  |                            1.3  |
+| 6                                   |       4 |         2.8  |                 2.9  |                           -0.1  |
+| 7                                   |       5 |         3.5  |                 3.62 |                           -0.13 |
+| 8                                   |      15 |        10.49 |                12.32 |                           -1.83 |
+| 9                                   |      16 |        11.19 |                18.12 |                           -6.93 |
+| 10 (All the time)                   |      76 |        53.15 |                53.62 |                           -0.48 |
 
 [Download CSV](/international-survey-2022/csv/open-source-use_united-states.csv){: .button}
 
@@ -512,16 +512,16 @@ Questions in this section:
 
 | Citation of software for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                          |     nan |    nan       |            nan       |                      nan        |
-| 2                                        |       5 |      4.23729 |              5.7971  |                       -1.55981  |
-| 3                                        |       7 |      5.9322  |              5.7971  |                        0.135102 |
-| 4                                        |       2 |      1.69492 |              5.7971  |                       -4.10219  |
-| 5                                        |       6 |      5.08475 |             11.5942  |                       -6.50946  |
-| 6                                        |       7 |      5.9322  |              2.89855 |                        3.03365  |
-| 7                                        |       9 |      7.62712 |              7.24638 |                        0.380742 |
-| 8                                        |      24 |     20.339   |              9.42029 |                       10.9187   |
-| 9                                        |      15 |     12.7119  |              6.52174 |                        6.19013  |
-| 10 (All the time)                        |      34 |     28.8136  |             22.4638  |                        6.34979  |
+| 1 (None at all)                          |     nan |       nan    |               nan    |                          nan    |
+| 2                                        |       5 |         4.24 |                 5.8  |                           -1.56 |
+| 3                                        |       7 |         5.93 |                 5.8  |                            0.14 |
+| 4                                        |       2 |         1.69 |                 5.8  |                           -4.1  |
+| 5                                        |       6 |         5.08 |                11.59 |                           -6.51 |
+| 6                                        |       7 |         5.93 |                 2.9  |                            3.03 |
+| 7                                        |       9 |         7.63 |                 7.25 |                            0.38 |
+| 8                                        |      24 |        20.34 |                 9.42 |                           10.92 |
+| 9                                        |      15 |        12.71 |                 6.52 |                            6.19 |
+| 10 (All the time)                        |      34 |        28.81 |                22.46 |                            6.35 |
 
 [Download CSV](/international-survey-2022/csv/citation-of-software_united-states.csv){: .button}
 
@@ -531,16 +531,16 @@ Questions in this section:
 
 | Use of Digital Object Identifier for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| 1 (None at all)                                      |     nan |    nan       |           nan        |                     nan         |
-| 2                                                    |      11 |      9.16667 |             6.52174  |                       2.64493   |
-| 3                                                    |      13 |     10.8333  |             5.7971   |                       5.03623   |
-| 4                                                    |       3 |      2.5     |             0.724638 |                       1.77536   |
-| 5                                                    |      10 |      8.33333 |             7.97101  |                       0.362319  |
-| 6                                                    |       9 |      7.5     |             3.62319  |                       3.87681   |
-| 7                                                    |       9 |      7.5     |             4.34783  |                       3.15217   |
-| 8                                                    |       6 |      5       |             5.07246  |                      -0.0724638 |
-| 9                                                    |       7 |      5.83333 |             3.62319  |                       2.21014   |
-| 10 (All the time)                                    |      11 |      9.16667 |             5.07246  |                       4.0942    |
+| 1 (None at all)                                      |     nan |       nan    |               nan    |                          nan    |
+| 2                                                    |      11 |         9.17 |                 6.52 |                            2.64 |
+| 3                                                    |      13 |        10.83 |                 5.8  |                            5.04 |
+| 4                                                    |       3 |         2.5  |                 0.72 |                            1.78 |
+| 5                                                    |      10 |         8.33 |                 7.97 |                            0.36 |
+| 6                                                    |       9 |         7.5  |                 3.62 |                            3.88 |
+| 7                                                    |       9 |         7.5  |                 4.35 |                            3.15 |
+| 8                                                    |       6 |         5    |                 5.07 |                           -0.07 |
+| 9                                                    |       7 |         5.83 |                 3.62 |                            2.21 |
+| 10 (All the time)                                    |      11 |         9.17 |                 5.07 |                            4.09 |
 
 [Download CSV](/international-survey-2022/csv/use-of-digital-object-identifier_united-states.csv){: .button}
 
@@ -554,8 +554,8 @@ Questions in this section:
 
 | Using ORCID for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                             |     115 |      82.7338 |              60.9023 |                        21.8316  |
-| No                              |      18 |      12.9496 |              14.2857 |                        -1.33607 |
+| Yes                             |     115 |        82.73 |                60.9  |                           21.83 |
+| No                              |      18 |        12.95 |                14.29 |                           -1.34 |
 
 [Download CSV](/international-survey-2022/csv/using-orcid_united-states.csv){: .button}
 
@@ -620,14 +620,14 @@ using for their most important project.
 
 |   Bus factor for United States |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |-------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
-|                            1   |      63 |    44.0559   |            52.8986   |                       -8.84261  |
-|                            1.5 |       2 |     1.3986   |           nan        |                      nan        |
-|                            2   |      49 |    34.2657   |            28.2609   |                        6.00486  |
-|                            3   |      17 |    11.8881   |             9.42029  |                        2.46782  |
-|                            4   |       4 |     2.7972   |             5.7971   |                       -2.9999   |
-|                            5   |       6 |     4.1958   |             0.724638 |                        3.47117  |
-|                            7   |       1 |     0.699301 |             0.724638 |                       -0.025337 |
-|                           10   |       1 |     0.699301 |           nan        |                      nan        |
+|                            1   |      63 |        44.06 |                52.9  |                           -8.84 |
+|                            1.5 |       2 |         1.4  |               nan    |                          nan    |
+|                            2   |      49 |        34.27 |                28.26 |                            6    |
+|                            3   |      17 |        11.89 |                 9.42 |                            2.47 |
+|                            4   |       4 |         2.8  |                 5.8  |                           -3    |
+|                            5   |       6 |         4.2  |                 0.72 |                            3.47 |
+|                            7   |       1 |         0.7  |                 0.72 |                           -0.03 |
+|                           10   |       1 |         0.7  |               nan    |                          nan    |
 
 [Download CSV](/international-survey-2022/csv/bus-factor_united-states.csv){: .button}
 
@@ -637,8 +637,8 @@ using for their most important project.
 
 | Presence of transition plan for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                             |      25 |      17.4825 |              20.2899 |                        -2.80734 |
-| No                                              |     118 |      82.5175 |              79.7101 |                         2.80734 |
+| Yes                                             |      25 |        17.48 |                20.29 |                           -2.81 |
+| No                                              |     118 |        82.52 |                79.71 |                            2.81 |
 
 [Download CSV](/international-survey-2022/csv/presence-of-transition-plan_united-states.csv){: .button}
 
@@ -648,11 +648,11 @@ using for their most important project.
 
 | Use of version control for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Git                                        |     136 |        85    |             91.1565  |                       -6.15646  |
-| SVN                                        |       8 |         5    |             14.966   |                       -9.96599  |
-| CVS                                        |       4 |         2.5  |              6.12245 |                       -3.62245  |
-| None                                       |       4 |         2.5  |              3.40136 |                       -0.901361 |
-| Mercurial                                  |       2 |         1.25 |              4.08163 |                       -2.83163  |
+| Git                                        |     136 |        85    |                91.16 |                           -6.16 |
+| SVN                                        |       8 |         5    |                14.97 |                           -9.97 |
+| CVS                                        |       4 |         2.5  |                 6.12 |                           -3.62 |
+| None                                       |       4 |         2.5  |                 3.4  |                           -0.9  |
+| Mercurial                                  |       2 |         1.25 |                 4.08 |                           -2.83 |
 
 [Download CSV](/international-survey-2022/csv/use-of-version-control_united-states.csv){: .button}
 
@@ -662,12 +662,12 @@ using for their most important project.
 
 | Testing strategies for United States          |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| No formal testing                             |      19 |       11.875 |              6.80272 |                         5.07228 |
-| No formal testing but users provide feedback  |      37 |       23.125 |             29.2517  |                        -6.1267  |
-| The developers do their own testing           |     102 |       63.75  |             85.034   |                       -21.284   |
-| Test engineers conduct testing                |       8 |        5     |             10.8844  |                        -5.88435 |
-| Automated testing with continuous integration |      96 |       60     |              0       |                        60       |
-| Don't know                                    |       2 |        1.25  |              0       |                         1.25    |
+| No formal testing                             |      19 |        11.88 |                 6.8  |                            5.07 |
+| No formal testing but users provide feedback  |      37 |        23.12 |                29.25 |                           -6.13 |
+| The developers do their own testing           |     102 |        63.75 |                85.03 |                          -21.28 |
+| Test engineers conduct testing                |       8 |         5    |                10.88 |                           -5.88 |
+| Automated testing with continuous integration |      96 |        60    |                 0    |                           60    |
+| Don't know                                    |       2 |         1.25 |                 0    |                            1.25 |
 
 [Download CSV](/international-survey-2022/csv/testing-strategies_united-states.csv){: .button}
 
@@ -694,39 +694,39 @@ Questions in this section:
 
 | Programming languages for United States                                             |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Python                                                                              |     128 |       80     |            78.2313   |                       1.76871   |
-| C++                                                                                 |      55 |       34.375 |            34.6939   |                      -0.318878  |
-| R                                                                                   |      49 |       30.625 |            23.1293   |                       7.49575   |
-| SQL                                                                                 |      48 |       30     |            31.9728   |                      -1.97279   |
-| JavaScript                                                                          |      46 |       28.75  |            28.5714   |                       0.178571  |
-| C                                                                                   |      35 |       21.875 |            34.0136   |                     -12.1386    |
-| Fortran                                                                             |      29 |       18.125 |            20.4082   |                      -2.28316   |
-| Matlab                                                                              |      27 |       16.875 |            13.6054   |                       3.26956   |
-| Java                                                                                |      27 |       16.875 |            21.0884   |                      -4.21344   |
-| other. What programming languages do you use at work? Please select all that apply. |      16 |       10     |             0        |                      10         |
-| Perl                                                                                |      15 |        9.375 |            13.6054   |                      -4.23044   |
-| TypeScript                                                                          |      13 |        8.125 |             0.680272 |                       7.44473   |
-| Julia                                                                               |      13 |        8.125 |             2.72109  |                       5.40391   |
-| PHP                                                                                 |      12 |        7.5   |             6.80272  |                       0.697279  |
-| Ruby                                                                                |       9 |        5.625 |             4.08163  |                       1.54337   |
-| C#                                                                                  |       6 |        3.75  |             6.12245  |                      -2.37245   |
-| Go                                                                                  |       6 |        3.75  |             1.36054  |                       2.38946   |
-| Scala                                                                               |       5 |        3.125 |             2.04082  |                       1.08418   |
-| Lua                                                                                 |       4 |        2.5   |             1.36054  |                       1.13946   |
-| Common Lisp                                                                         |       4 |        2.5   |             0.680272 |                       1.81973   |
-| Assembly                                                                            |       3 |        1.875 |             2.72109  |                      -0.846088  |
-| Groovy                                                                              |       3 |        1.875 |             2.72109  |                      -0.846088  |
-| Objective-C                                                                         |       2 |        1.25  |             0.680272 |                       0.569728  |
-| VB.NET                                                                              |       2 |        1.25  |             0        |                       1.25      |
-| Haskell                                                                             |       2 |        1.25  |             0        |                       1.25      |
-| Visual Basic                                                                        |       2 |        1.25  |             0.680272 |                       0.569728  |
-| Rust                                                                                |       2 |        1.25  |             1.36054  |                      -0.110544  |
-| VBA                                                                                 |       2 |        1.25  |             2.72109  |                      -1.47109   |
-| Dart                                                                                |       1 |        0.625 |             0        |                       0.625     |
-| Swift                                                                               |       1 |        0.625 |             0.680272 |                      -0.0552721 |
-| Elixir                                                                              |       1 |        0.625 |             0.680272 |                      -0.0552721 |
-| CoffeeScript                                                                        |       0 |        0     |             1.36054  |                      -1.36054   |
-| Clojure                                                                             |       0 |        0     |             1.36054  |                      -1.36054   |
+| Python                                                                              |     128 |        80    |                78.23 |                            1.77 |
+| C++                                                                                 |      55 |        34.38 |                34.69 |                           -0.32 |
+| R                                                                                   |      49 |        30.63 |                23.13 |                            7.5  |
+| SQL                                                                                 |      48 |        30    |                31.97 |                           -1.97 |
+| JavaScript                                                                          |      46 |        28.75 |                28.57 |                            0.18 |
+| C                                                                                   |      35 |        21.88 |                34.01 |                          -12.14 |
+| Fortran                                                                             |      29 |        18.12 |                20.41 |                           -2.28 |
+| Matlab                                                                              |      27 |        16.88 |                13.61 |                            3.27 |
+| Java                                                                                |      27 |        16.88 |                21.09 |                           -4.21 |
+| other. What programming languages do you use at work? Please select all that apply. |      16 |        10    |                 0    |                           10    |
+| Perl                                                                                |      15 |         9.38 |                13.61 |                           -4.23 |
+| TypeScript                                                                          |      13 |         8.12 |                 0.68 |                            7.44 |
+| Julia                                                                               |      13 |         8.12 |                 2.72 |                            5.4  |
+| PHP                                                                                 |      12 |         7.5  |                 6.8  |                            0.7  |
+| Ruby                                                                                |       9 |         5.62 |                 4.08 |                            1.54 |
+| C#                                                                                  |       6 |         3.75 |                 6.12 |                           -2.37 |
+| Go                                                                                  |       6 |         3.75 |                 1.36 |                            2.39 |
+| Scala                                                                               |       5 |         3.12 |                 2.04 |                            1.08 |
+| Lua                                                                                 |       4 |         2.5  |                 1.36 |                            1.14 |
+| Common Lisp                                                                         |       4 |         2.5  |                 0.68 |                            1.82 |
+| Assembly                                                                            |       3 |         1.88 |                 2.72 |                           -0.85 |
+| Groovy                                                                              |       3 |         1.88 |                 2.72 |                           -0.85 |
+| Objective-C                                                                         |       2 |         1.25 |                 0.68 |                            0.57 |
+| VB.NET                                                                              |       2 |         1.25 |                 0    |                            1.25 |
+| Haskell                                                                             |       2 |         1.25 |                 0    |                            1.25 |
+| Visual Basic                                                                        |       2 |         1.25 |                 0.68 |                            0.57 |
+| Rust                                                                                |       2 |         1.25 |                 1.36 |                           -0.11 |
+| VBA                                                                                 |       2 |         1.25 |                 2.72 |                           -1.47 |
+| Dart                                                                                |       1 |         0.62 |                 0    |                            0.62 |
+| Swift                                                                               |       1 |         0.62 |                 0.68 |                           -0.06 |
+| Elixir                                                                              |       1 |         0.62 |                 0.68 |                           -0.06 |
+| CoffeeScript                                                                        |       0 |         0    |                 1.36 |                           -1.36 |
+| Clojure                                                                             |       0 |         0    |                 1.36 |                           -1.36 |
 
 [Download CSV](/international-survey-2022/csv/programming-languages_united-states.csv){: .button}
 
@@ -736,10 +736,10 @@ Questions in this section:
 
 | Operating systems for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| GNU/Linux                             |      74 |    56.0606   |             63.1579  |                        -7.09729 |
-| macOS                                 |      47 |    35.6061   |            nan       |                       nan       |
-| Windows                               |      10 |     7.57576  |              9.77444 |                        -2.19868 |
-| Other                                 |       1 |     0.757576 |            nan       |                       nan       |
+| GNU/Linux                             |      74 |        56.06 |                63.16 |                            -7.1 |
+| macOS                                 |      47 |        35.61 |               nan    |                           nan   |
+| Windows                               |      10 |         7.58 |                 9.77 |                            -2.2 |
+| Other                                 |       1 |         0.76 |               nan    |                           nan   |
 
 [Download CSV](/international-survey-2022/csv/operating-systems_united-states.csv){: .button}
 
@@ -864,8 +864,8 @@ and to acquire for their current role.
 
 | RSE Member for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                            |      96 |      73.8462 |              5.08475 |                         68.7614 |
-| No                             |      34 |      26.1538 |             94.9153  |                        -68.7614 |
+| Yes                            |      96 |        73.85 |                 5.08 |                           68.76 |
+| No                             |      34 |        26.15 |                94.92 |                          -68.76 |
 
 [Download CSV](/international-survey-2022/csv/rse-member_united-states.csv){: .button}
 
@@ -875,8 +875,8 @@ and to acquire for their current role.
 
 | Joining a RSE/RSD association for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                               |      19 |      67.8571 |                68.75 |                       -0.892857 |
-| No                                                |       9 |      32.1429 |                31.25 |                        0.892857 |
+| Yes                                               |      19 |        67.86 |                68.75 |                           -0.89 |
+| No                                                |       9 |        32.14 |                31.25 |                            0.89 |
 
 [Download CSV](/international-survey-2022/csv/joining-a-rse-rsd-association_united-states.csv){: .button}
 
@@ -886,12 +886,12 @@ and to acquire for their current role.
 
 | What is important for such an organisation for United States                          |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Networking                                                                            |     102 |       63.75  |              37.415  |                        26.335   |
-| Research software standards and interoperability definition                           |      76 |       47.5   |              36.0544 |                        11.4456  |
-| Training                                                                              |      66 |       41.25  |              32.6531 |                         8.59694 |
-| Job opportunities                                                                     |      61 |       38.125 |              29.2517 |                         8.8733  |
-| Research collaborations                                                               |      52 |       32.5   |              26.5306 |                         5.96939 |
-| other. What would you hope to get out of such an organisation (check all that apply)? |       9 |        5.625 |               0      |                         5.625   |
+| Networking                                                                            |     102 |        63.75 |                37.41 |                           26.34 |
+| Research software standards and interoperability definition                           |      76 |        47.5  |                36.05 |                           11.45 |
+| Training                                                                              |      66 |        41.25 |                32.65 |                            8.6  |
+| Job opportunities                                                                     |      61 |        38.12 |                29.25 |                            8.87 |
+| Research collaborations                                                               |      52 |        32.5  |                26.53 |                            5.97 |
+| other. What would you hope to get out of such an organisation (check all that apply)? |       9 |         5.62 |                 0    |                            5.62 |
 
 [Download CSV](/international-survey-2022/csv/what-is-important-for-such-an-organisation_united-states.csv){: .button}
 
@@ -901,8 +901,8 @@ and to acquire for their current role.
 
 | Attending a national conference of RSE/RSD for United States   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
-| Yes                                                            |     106 |      86.1789 |              76.6667 |                          9.5122 |
-| No                                                             |      17 |      13.8211 |              23.3333 |                         -9.5122 |
+| Yes                                                            |     106 |        86.18 |                76.67 |                            9.51 |
+| No                                                             |      17 |        13.82 |                23.33 |                           -9.51 |
 
 [Download CSV](/international-survey-2022/csv/attending-a-national-conference-of-rse-rsd_united-states.csv){: .button}
 
