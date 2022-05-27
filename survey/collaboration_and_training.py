@@ -85,7 +85,7 @@ def run(survey_year, data="data/public_merged.csv"):
             survey_year=survey_year,
         )
         countries[-1].update(figure_country(country, "training-frequency", plt))
-        plot_wordcloud(df, training_name, country, training_time_cat, survey_year)
+        plot_wordcloud(df, training_name, country, "Types of training", survey_year)
         countries[-1].update(figure_country(country, "training-name-wordcloud", plt))
     return {"countries": countries}
 
