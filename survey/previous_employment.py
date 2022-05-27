@@ -16,12 +16,12 @@ from lib.report import (
 
 
 prev_work = ["prevEmp1. Where was your previous job based?"]
+reasons_choose_job = "prevEmp2. Rank the following factors dependent on how strongly they influenced your decision to accept your current position. [Rank 1]"
 
 
 @make_report(__file__)
 def run(survey_year, data="data/public_merged.csv"):
     df = read_cache("processed_data")
-    reason_choice = [x for x in df.columns if x[:8] == "prevEmp2"]
     countries = []
     for country in COUNTRIES_WITH_WORLD:
         countries.append({"country": country})
@@ -39,14 +39,17 @@ def run(survey_year, data="data/public_merged.csv"):
             where_prev_job, country=country, category=where_prev_job_cat
         )
         countries[-1].update(figure_country(country, "where-previous-job-based", plt))
-        ranking_cat = "Reasons to choose current job"
-        ranking = count_ranking(df, reason_choice, country, ranking_cat, survey_year)
+
+        # Fix: change overcomplicated ranking char to simple bar chart
+        reasons_cat = "Top reason to choose current job"
+        reasons = count_diff(df, reasons_choose_job, country, reasons_cat, survey_year)
 
         countries[-1].update(
-            table_country(country, "reasons-to-choose-current-job", ranking)
+            table_country(country, "reasons-to-choose-current-job", reasons)
         )
-        if len(ranking.index) > 0:
-            plot_ranking(ranking, ranking_cat, country)
+        if len(reasons.index) > 0:
+            #plot_ranking(ranking, ranking_cat, country)
+            plot_cat_comparison(reasons, country=country, category=reasons_cat)
             countries[-1].update(
                 figure_country(country, "reasons-to-choose-current-job", plt)
             )

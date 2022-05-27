@@ -28,7 +28,7 @@ position among 8 different ones:
 ## Questions in this section
 
 * Where was your previous job based? (single choice)
-* Rank the following factors dependent on how strongly they influenced your decision to accept your current position (ranking)
+* Rank the following factors dependent on how strongly they influenced your decision to accept your current position (for clarity, displayed as a single bar chart of participants' top ranking answer)
 
 {{#countries}}
 
