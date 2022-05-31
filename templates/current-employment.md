@@ -54,19 +54,19 @@ Questions in the sections:
 
 {{t_nature-of-employment}}
 
-{{{f_nature-of_employment}}}
+{{{f_nature-of-employment}}}
 
 ### Length of current position
 
-{{t_duration-of-contract-in-year}}
+{{t_duration-of-contract-in-years}}
 
-{{{f_duration-of-contract-in-year}}}
+{{{f_duration-of-contract-in-years}}}
 
 ### Salary
 
-{{t_salary}}
+{{t_annual-salary}}
 
-{{{f_salary}}}
+{{{f_annual-salary}}}
 
 ### Funding
 
@@ -78,6 +78,6 @@ Questions in the sections:
 
 {{{f_official-job-title}}}
 
-{{{f_different-job-title}}}
+{{{f_are-you-known-in-your-group-by-a-different-job-title}}}
 
 {{/countries}}
