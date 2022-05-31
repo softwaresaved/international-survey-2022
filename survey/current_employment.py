@@ -141,25 +141,25 @@ def run(survey_year, data="data/public_merged.csv"):
         countries.append({"country": country})
         for columns, category in [
             (current_emp, "Organisation type"),
-            (current_field, "in which field"),
+            (current_field, "In which field"),
             (which_uni, "Which university"),
             (contract_time, "Contract type"),
             (nature_contract, "Nature of employment"),
-            (duration_contract, "Duration of contract in year"),
-            (salary, "Salary"),
+            (duration_contract, "Duration of contract in years"),
+            (salary, "Annual salary"),
             (fund, "Type of funding"),
             (title_job, "Official job title"),
-            (diff_title, "Different job title"),
+            (diff_title, "Are you known in your group by a different job title"),
         ]:
             name = slugify(category)
             # Disable salary and type of funding sections for world
-            if country == "World" and category in ["Salary", "Type of funding"]:
+            if country == "World" and category in ["Annual salary", "Type of funding"]:
                 continue
-            multi_choice = category in ["in which field", "Type of funding"]
+            multi_choice = category in ["In which field", "Type of funding"]
 
             # Fix: process salary, unless the country isn't defined in the salary_ranges data,
             # in which case just do default
-            if category == "Salary" and country in salary_ranges:
+            if category == "Annual salary" and country in salary_ranges:
                 order_question = salary_ranges[country]
                 try:
                     df_salary = get_sampled_df(df, salary)
@@ -196,7 +196,7 @@ def run(survey_year, data="data/public_merged.csv"):
                 plot_cat_comparison(result, country, category, order_index=order_question)
                 countries[-1].update(figure_country(country, name, plt))
 
-            elif category == "Duration of contract in year":
+            elif category == "Duration of contract in years":
                 result = describe_diff(
                     df,
                     duration_contract,

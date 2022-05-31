@@ -54,9 +54,9 @@ def run(survey_year, data="data/public_merged.csv"):
     for country in COUNTRIES_WITH_WORLD:
         countries.append({"country": country})
         for category, columns in [
-            ("developing code for others", people_code),
+            ("Developing code for others", people_code),
             ("Working with same researchers", same_researcher),
-            ("member of a dedicated group", dedicated_research),
+            ("Member of a dedicated group", dedicated_research),
             ("Number of software projects", nbr_proj_soft),
             ("Number of software developers per projects", nbr_dev_proj),
         ]:
