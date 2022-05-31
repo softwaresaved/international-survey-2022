@@ -256,12 +256,9 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job   | Rank 1   | Rank 2   | Rank 3   | Rank 4   | Rank 5   |
-|---------------------------------|----------|----------|----------|----------|----------|
+No data found in survey.
 
-[Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_netherlands.csv){: .button}
 
-![reasons-to-choose-current-job](/international-survey-2022/fig/reasons-to-choose-current-job_netherlands.png)
 
 
 ## Collaboration and training
@@ -281,7 +278,7 @@ Questions in this section:
 
 ### Developing code for others
 
-| developing code for others for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Developing code for others for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | 0 - Mostly me                                |       7 |        11.11 |                 5.56 |                            5.56 |
 | 1                                            |       8 |        12.7  |                12.96 |                           -0.26 |
@@ -308,7 +305,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for Netherlands   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                            |      27 |        45.76 |                58.82 |                          -13.06 |
 | Yes                                           |      32 |        54.24 |                41.18 |                           13.06 |

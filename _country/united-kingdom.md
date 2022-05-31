@@ -281,17 +281,17 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
-|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Desire to work in a research environment |    24.69 |    24.22 |    13.64 |    11.51 |     9.68 |
-| Opportunity to develop software          |    20.99 |    12.42 |    15.58 |     7.91 |     7.26 |
-| Desire to advance research               |    16.05 |    15.53 |    15.58 |    12.95 |     8.06 |
-| Freedom to choose own working practices  |    12.96 |    11.8  |    12.34 |    12.95 |     7.26 |
-| Flexible working hours                   |     7.41 |     8.07 |     3.25 |    15.83 |    15.32 |
-| I want to learn new skills               |     6.79 |     9.94 |    13.64 |    12.95 |    12.1  |
-| Opportunity for career advancement       |     6.79 |     6.83 |     6.49 |     7.19 |    10.48 |
-| Ability to work across disciplines       |     3.09 |     9.32 |    14.94 |    11.51 |    19.35 |
-| The salary                               |     1.23 |     1.86 |     4.55 |     7.19 |    10.48 |
+| Top reason to choose current job for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|:------------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
+| Desire to work in a research environment              |      40 |        24.69 |                25.55 |                           -0.86 |
+| Opportunity to develop software                       |      34 |        20.99 |                16.3  |                            4.69 |
+| Desire to advance research                            |      26 |        16.05 |                22.47 |                           -6.42 |
+| Freedom to choose own working practices               |      21 |        12.96 |                 8.81 |                            4.15 |
+| Flexible working hours                                |      12 |         7.41 |                 5.29 |                            2.12 |
+| Opportunity for career advancement                    |      11 |         6.79 |                 8.81 |                           -2.02 |
+| I want to learn new skills                            |      11 |         6.79 |                 7.49 |                           -0.7  |
+| Ability to work across disciplines                    |       5 |         3.09 |                 2.64 |                            0.44 |
+| The salary                                            |       2 |         1.23 |                 2.64 |                           -1.41 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_united-kingdom.csv){: .button}
 
@@ -315,7 +315,7 @@ Questions in this section:
 
 ### Developing code for others
 
-| developing code for others for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Developing code for others for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | 0 - Mostly me                                   |      12 |         7.36 |                 5.51 |                            1.85 |
 | 1                                               |      12 |         7.36 |                11.44 |                           -4.08 |
@@ -342,7 +342,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for United Kingdom   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                               |      73 |        47.71 |                 51.4 |                           -3.69 |
 | Yes                                              |      80 |        52.29 |                 48.6 |                            3.69 |

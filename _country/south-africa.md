@@ -198,13 +198,9 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
-|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| I want to learn new skills               |      100 |      nan |      nan |      nan |      nan |
-| Ability to work across disciplines       |      nan |      nan |      nan |       50 |       50 |
-| Desire to work in a research environment |      nan |      nan |      nan |       50 |       50 |
-| Opportunity for career advancement       |      nan |      nan |      100 |      nan |      nan |
-| Opportunity to develop software          |      nan |      100 |      nan |      nan |      nan |
+| Top reason to choose current job for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|:----------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
+| I want to learn new skills                          |       2 |          100 |                13.04 |                           86.96 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_south-africa.csv){: .button}
 
@@ -228,7 +224,7 @@ Questions in this section:
 
 ### Developing code for others
 
-|   developing code for others for South Africa |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|   Developing code for others for South Africa |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |----------------------------------------------:|--------:|-------------:|---------------------:|--------------------------------:|
 |                                             2 |       1 |           50 |                17.39 |                           32.61 |
 |                                             3 |       1 |           50 |                26.09 |                           23.91 |
@@ -250,7 +246,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for South Africa   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                             |       2 |          100 |                57.14 |                           42.86 |
 

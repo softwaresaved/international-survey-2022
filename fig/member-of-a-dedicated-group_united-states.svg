@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-20T10:02:37.159940</dc:date>
+    <dc:date>2022-05-31T10:38:50.601045</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -536,9 +536,30 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- member of a dedicated group, United States -->
+    <!-- Member of a dedicated group, United States -->
     <g transform="translate(90.400497 19.6425)scale(0.12 -0.12)">
      <defs>
+      <path id="Helvetica-4d" d="M 472 4591 
+L 1363 4591 
+L 2681 709 
+L 3991 4591 
+L 4872 4591 
+L 4872 0 
+L 4281 0 
+L 4281 2709 
+Q 4281 2850 4287 3175 
+Q 4294 3500 4294 3872 
+L 2984 0 
+L 2369 0 
+L 1050 3872 
+L 1050 3731 
+Q 1050 3563 1058 3217 
+Q 1066 2872 1066 2709 
+L 1066 0 
+L 472 0 
+L 472 4591 
+z
+" transform="scale(0.015625)"/>
       <path id="Helvetica-6d" d="M 413 3347 
 L 969 3347 
 L 969 2872 
@@ -944,7 +965,7 @@ L 2150 4716
 z
 " transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#Helvetica-6d"/>
+     <use xlink:href="#Helvetica-4d"/>
      <use xlink:href="#Helvetica-65" x="83.300781"/>
      <use xlink:href="#Helvetica-6d" x="138.916016"/>
      <use xlink:href="#Helvetica-62" x="222.216797"/>

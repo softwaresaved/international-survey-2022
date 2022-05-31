@@ -440,17 +440,17 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
-|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Desire to work in a research environment |    23.75 |    18.75 |    11.39 |     9.72 |    11.35 |
-| Freedom to choose own working practices  |    21.25 |    10.42 |    14.35 |    14.35 |     9.73 |
-| Desire to advance research               |    20.83 |    19.17 |    12.24 |    10.65 |     5.41 |
-| Opportunity to develop software          |    11.25 |    10.83 |    13.92 |    14.35 |    10.27 |
-| Opportunity for career advancement       |     5.83 |     4.17 |     7.59 |     7.41 |     6.49 |
-| Ability to work across disciplines       |     5.42 |    12.5  |     9.7  |    12.96 |    12.97 |
-| I want to learn new skills               |     5    |    12.92 |    11.81 |    12.5  |    14.59 |
-| Flexible working hours                   |     4.58 |     6.25 |    15.19 |    10.65 |    20.54 |
-| The salary                               |     2.08 |     5    |     3.8  |     7.41 |     8.65 |
+| Top reason to choose current job for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
+| Desire to work in a research environment     |     208 |        24.73 |                25.22 |                           -0.49 |
+| Desire to advance research                   |     156 |        18.55 |                19    |                           -0.45 |
+| Freedom to choose own working practices      |     154 |        18.31 |                16.89 |                            1.42 |
+| Opportunity to develop software              |     110 |        13.08 |                11.44 |                            1.64 |
+| Opportunity for career advancement           |      54 |         6.42 |                 6.56 |                           -0.13 |
+| I want to learn new skills                   |      54 |         6.42 |                 9.56 |                           -3.13 |
+| Ability to work across disciplines           |      45 |         5.35 |                 3.11 |                            2.24 |
+| Flexible working hours                       |      36 |         4.28 |                 4.33 |                           -0.05 |
+| The salary                                   |      24 |         2.85 |                 3.89 |                           -1.04 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_world.csv){: .button}
 
@@ -474,7 +474,7 @@ Questions in this section:
 
 ### Developing code for others
 
-| developing code for others for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Developing code for others for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | 0 - Mostly me                          |      72 |         7.67 |                 6.83 |                            0.83 |
 | 1                                      |     105 |        11.18 |                13.47 |                           -2.29 |
@@ -501,7 +501,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for World   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                      |     402 |        47.24 |                49.78 |                           -2.54 |
 | Yes                                     |     449 |        52.76 |                50.22 |                            2.54 |

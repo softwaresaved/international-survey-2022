@@ -91,7 +91,7 @@ We can see the distribution of participants among the countries as follows:
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-20T09:56:14.414499</dc:date>
+    <dc:date>2022-05-31T10:26:00.688028</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -9963,7 +9963,7 @@ Several countries did the survey in the previous 2018 survey - here are the diff
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-20T09:56:15.635708</dc:date>
+    <dc:date>2022-05-31T10:26:02.886551</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -11594,8 +11594,8 @@ We will only select the participants who answered `Yes` to at least one question
 
 For any further analysis, we remove the participants that answered 'No' at both of the question to only keep the ones that have work involving software development for both year to ensure a proper comparison. This brings the number of participants analysed to:
 
-|    |   Participants in 2018 |   Participants in 2022 |
-|---:|-----------------------:|-----------------------:|
-|  0 |                    995 |                    997 |
+|       |   Participants in 2018 |   Participants in 2022 |
+|:------|-----------------------:|-----------------------:|
+| Count |                    995 |                    997 |
 
 [Download CSV](/international-survey-2022/csv/participant_analysed.csv){: .button}

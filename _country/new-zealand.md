@@ -239,17 +239,17 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
-|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Desire to advance research               |    19.23 |    11.54 |    19.23 |     4.17 |     4.55 |
-| Desire to work in a research environment |    15.38 |    19.23 |    19.23 |     4.17 |   nan    |
-| Flexible working hours                   |    11.54 |     3.85 |    11.54 |     4.17 |    31.82 |
-| Freedom to choose own working practices  |    11.54 |    26.92 |    11.54 |    12.5  |    18.18 |
-| I want to learn new skills               |    11.54 |     7.69 |    11.54 |    20.83 |    22.73 |
-| Opportunity to develop software          |    11.54 |    19.23 |     7.69 |     8.33 |     9.09 |
-| The salary                               |    11.54 |   nan    |     7.69 |   nan    |     4.55 |
-| Ability to work across disciplines       |     3.85 |   nan    |     7.69 |    33.33 |     9.09 |
-| Opportunity for career advancement       |     3.85 |    11.54 |     3.85 |    12.5  |   nan    |
+| Top reason to choose current job for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|:---------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
+| Desire to advance research                         |       5 |        19.23 |                13.89 |                            5.34 |
+| Desire to work in a research environment           |       4 |        15.38 |                22.22 |                           -6.84 |
+| The salary                                         |       3 |        11.54 |                 8.33 |                            3.21 |
+| Flexible working hours                             |       3 |        11.54 |                 2.78 |                            8.76 |
+| Opportunity to develop software                    |       3 |        11.54 |                13.89 |                           -2.35 |
+| Freedom to choose own working practices            |       3 |        11.54 |                22.22 |                          -10.68 |
+| I want to learn new skills                         |       3 |        11.54 |                 5.56 |                            5.98 |
+| Ability to work across disciplines                 |       1 |         3.85 |                 5.56 |                           -1.71 |
+| Opportunity for career advancement                 |       1 |         3.85 |                 5.56 |                           -1.71 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_new-zealand.csv){: .button}
 
@@ -273,7 +273,7 @@ Questions in this section:
 
 ### Developing code for others
 
-| developing code for others for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Developing code for others for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:---------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | 0 - Mostly me                                |       2 |         7.69 |                 2.7  |                            4.99 |
 | 1                                            |       1 |         3.85 |                 8.11 |                           -4.26 |
@@ -300,7 +300,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for New Zealand   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                            |      19 |        73.08 |                58.82 |                           14.25 |
 | Yes                                           |       7 |        26.92 |                41.18 |                          -14.25 |

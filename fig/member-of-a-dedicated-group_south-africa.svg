@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-20T10:02:26.667981</dc:date>
+    <dc:date>2022-05-31T10:38:27.765262</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -420,37 +420,28 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- member of a dedicated group, South Africa -->
+    <!-- Member of a dedicated group, South Africa -->
     <g transform="translate(88.782218 19.6425)scale(0.12 -0.12)">
      <defs>
-      <path id="Helvetica-6d" d="M 413 3347 
-L 969 3347 
-L 969 2872 
-Q 1169 3119 1331 3231 
-Q 1609 3422 1963 3422 
-Q 2363 3422 2606 3225 
-Q 2744 3113 2856 2894 
-Q 3044 3163 3297 3292 
-Q 3550 3422 3866 3422 
-Q 4541 3422 4784 2934 
-Q 4916 2672 4916 2228 
-L 4916 0 
-L 4331 0 
-L 4331 2325 
-Q 4331 2659 4164 2784 
-Q 3997 2909 3756 2909 
-Q 3425 2909 3186 2687 
-Q 2947 2466 2947 1947 
-L 2947 0 
-L 2375 0 
-L 2375 2184 
-Q 2375 2525 2294 2681 
-Q 2166 2916 1816 2916 
-Q 1497 2916 1236 2669 
-Q 975 2422 975 1775 
-L 975 0 
-L 413 0 
-L 413 3347 
+      <path id="Helvetica-4d" d="M 472 4591 
+L 1363 4591 
+L 2681 709 
+L 3991 4591 
+L 4872 4591 
+L 4872 0 
+L 4281 0 
+L 4281 2709 
+Q 4281 2850 4287 3175 
+Q 4294 3500 4294 3872 
+L 2984 0 
+L 2369 0 
+L 1050 3872 
+L 1050 3731 
+Q 1050 3563 1058 3217 
+Q 1066 2872 1066 2709 
+L 1066 0 
+L 472 0 
+L 472 4591 
 z
 " transform="scale(0.015625)"/>
       <path id="Helvetica-65" d="M 1806 3422 
@@ -482,6 +473,36 @@ L 2703 1941
 z
 M 1753 3428 
 L 1753 3428 
+z
+" transform="scale(0.015625)"/>
+      <path id="Helvetica-6d" d="M 413 3347 
+L 969 3347 
+L 969 2872 
+Q 1169 3119 1331 3231 
+Q 1609 3422 1963 3422 
+Q 2363 3422 2606 3225 
+Q 2744 3113 2856 2894 
+Q 3044 3163 3297 3292 
+Q 3550 3422 3866 3422 
+Q 4541 3422 4784 2934 
+Q 4916 2672 4916 2228 
+L 4916 0 
+L 4331 0 
+L 4331 2325 
+Q 4331 2659 4164 2784 
+Q 3997 2909 3756 2909 
+Q 3425 2909 3186 2687 
+Q 2947 2466 2947 1947 
+L 2947 0 
+L 2375 0 
+L 2375 2184 
+Q 2375 2525 2294 2681 
+Q 2166 2916 1816 2916 
+Q 1497 2916 1236 2669 
+Q 975 2422 975 1775 
+L 975 0 
+L 413 0 
+L 413 3347 
 z
 " transform="scale(0.015625)"/>
       <path id="Helvetica-62" d="M 369 4606 
@@ -853,7 +874,7 @@ L 2144 4591
 z
 " transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#Helvetica-6d"/>
+     <use xlink:href="#Helvetica-4d"/>
      <use xlink:href="#Helvetica-65" x="83.300781"/>
      <use xlink:href="#Helvetica-6d" x="138.916016"/>
      <use xlink:href="#Helvetica-62" x="222.216797"/>

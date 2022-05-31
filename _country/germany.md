@@ -293,17 +293,17 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
-|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Freedom to choose own working practices  |    23.81 |    14.91 |     8.56 |    16.16 |    11.52 |
-| Desire to work in a research environment |    23.38 |    21.49 |    10.36 |    10.1  |     7.27 |
-| Desire to advance research               |    18.61 |    11.84 |     5.86 |     2.53 |     3.64 |
-| Opportunity to develop software          |     9.09 |    12.28 |    13.96 |    16.16 |     8.48 |
-| Ability to work across disciplines       |     7.79 |    10.09 |    13.51 |    16.67 |    13.33 |
-| I want to learn new skills               |     7.36 |    14.91 |    19.37 |    17.68 |    15.76 |
-| Opportunity for career advancement       |     5.63 |     2.63 |     9.91 |     4.55 |    10.91 |
-| Flexible working hours                   |     3.03 |     9.21 |    13.96 |     9.09 |    17.58 |
-| The salary                               |     1.3  |     2.63 |     4.5  |     7.07 |    11.52 |
+| Top reason to choose current job for Germany   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|:-----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
+| Freedom to choose own working practices        |      55 |        23.81 |                23.91 |                           -0.1  |
+| Desire to work in a research environment       |      54 |        23.38 |                24.22 |                           -0.85 |
+| Desire to advance research                     |      43 |        18.61 |                16.46 |                            2.16 |
+| Opportunity to develop software                |      21 |         9.09 |                 8.39 |                            0.71 |
+| Ability to work across disciplines             |      18 |         7.79 |                 3.42 |                            4.38 |
+| I want to learn new skills                     |      17 |         7.36 |                12.73 |                           -5.37 |
+| Opportunity for career advancement             |      13 |         5.63 |                 4.66 |                            0.97 |
+| Flexible working hours                         |       7 |         3.03 |                 3.42 |                           -0.39 |
+| The salary                                     |       3 |         1.3  |                 2.8  |                           -1.5  |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_germany.csv){: .button}
 
@@ -327,7 +327,7 @@ Questions in this section:
 
 ### Developing code for others
 
-| developing code for others for Germany   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Developing code for others for Germany   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | 0 - Mostly me                            |      21 |         8.54 |                 9.01 |                           -0.47 |
 | 1                                        |      40 |        16.26 |                16.52 |                           -0.26 |
@@ -354,7 +354,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for Germany   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for Germany   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                        |      53 |        24.42 |                38.85 |                          -14.43 |
 | Yes                                       |     164 |        75.58 |                61.15 |                           14.43 |

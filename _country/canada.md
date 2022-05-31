@@ -231,12 +231,9 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job   | Rank 1   | Rank 2   | Rank 3   | Rank 4   | Rank 5   |
-|---------------------------------|----------|----------|----------|----------|----------|
+No data found in survey.
 
-[Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_canada.csv){: .button}
 
-![reasons-to-choose-current-job](/international-survey-2022/fig/reasons-to-choose-current-job_canada.png)
 
 
 ## Collaboration and training
@@ -256,7 +253,7 @@ Questions in this section:
 
 ### Developing code for others
 
-| developing code for others for Canada   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Developing code for others for Canada   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | 3                                       |       1 |        14.29 |                36.36 |                          -22.08 |
 | 4                                       |       2 |        28.57 |                18.18 |                           10.39 |
@@ -280,7 +277,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for Canada   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for Canada   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-----------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                       |       6 |        54.55 |                   90 |                          -35.45 |
 | Yes                                      |       5 |        45.45 |                   10 |                           35.45 |
@@ -537,10 +534,7 @@ using for their most important project.
 
 ### Bus factor
 
-| Bus factor for Canada   |
-|-------------------------|
-
-[Download CSV](/international-survey-2022/csv/bus-factor_canada.csv){: .button}
+No data found in survey.
 
 ![bus-factor](/international-survey-2022/fig/bus-factor_canada.png)
 

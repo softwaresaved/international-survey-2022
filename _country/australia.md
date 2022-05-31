@@ -247,17 +247,14 @@ position among 8 different ones:
 
 ### What were the reasons to choose the current job
 
-| Reasons to choose current job            |   Rank 1 |   Rank 2 |   Rank 3 |   Rank 4 |   Rank 5 |
-|:-----------------------------------------|---------:|---------:|---------:|---------:|---------:|
-| Desire to work in a research environment |    29.03 |    16.67 |    17.24 |     3.7  |   nan    |
-| Desire to advance research               |    25.81 |    20    |     6.9  |    18.52 |     5.26 |
-| Freedom to choose own working practices  |    19.35 |    13.33 |    10.34 |    18.52 |    21.05 |
-| The salary                               |    12.9  |     3.33 |   nan    |   nan    |    15.79 |
-| I want to learn new skills               |     9.68 |    13.33 |     6.9  |    11.11 |    21.05 |
-| Opportunity to develop software          |     3.23 |    10    |    20.69 |     7.41 |    10.53 |
-| Ability to work across disciplines       |   nan    |    10    |     6.9  |    22.22 |    10.53 |
-| Flexible working hours                   |   nan    |     6.67 |    20.69 |    18.52 |    10.53 |
-| Opportunity for career advancement       |   nan    |     6.67 |    10.34 |   nan    |     5.26 |
+| Top reason to choose current job for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+|:-------------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
+| Desire to work in a research environment         |       9 |        29.03 |                28.57 |                            0.46 |
+| Desire to advance research                       |       8 |        25.81 |                15.31 |                           10.5  |
+| Freedom to choose own working practices          |       6 |        19.35 |                17.35 |                            2.01 |
+| The salary                                       |       4 |        12.9  |                 1.02 |                           11.88 |
+| I want to learn new skills                       |       3 |         9.68 |                 7.14 |                            2.53 |
+| Opportunity to develop software                  |       1 |         3.23 |                12.24 |                           -9.02 |
 
 [Download CSV](/international-survey-2022/csv/reasons-to-choose-current-job_australia.csv){: .button}
 
@@ -281,7 +278,7 @@ Questions in this section:
 
 ### Developing code for others
 
-| developing code for others for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Developing code for others for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:-------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | 0 - Mostly me                              |       3 |        10    |                 7.07 |                            2.93 |
 | 1                                          |       6 |        20    |                15.15 |                            4.85 |
@@ -308,7 +305,7 @@ Questions in this section:
 
 ### Part of dedicated group
 
-| member of a dedicated group for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
+| Member of a dedicated group for Australia   |   Count |   Percentage |   Percentage in 2018 |   Difference with previous year |
 |:--------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | No                                          |      24 |        77.42 |                64.04 |                           13.37 |
 | Yes                                         |       7 |        22.58 |                35.96 |                          -13.37 |
