@@ -120,7 +120,7 @@ corresponding to the section. The template file uses the
 
 ## Citations
 The citation for the 2022 version is:
-> TBD
+> Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. "RSE Survey 2022", DOI coming soon.
 
 The citation for the 2018 version is:
 > Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Manodeep Sinha. (2019, March 6). softwaresaved/international-survey: Public release for 2018 results (Version 2018-v.1.0.2). Zenodo. http://doi.org/10.5281/zenodo.2585783
