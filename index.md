@@ -83,40 +83,8 @@ If you want to cite this work and need a citation in a specific format, you can 
 
 ## Reproducibility
 
-To reproduce the analysis on your computer, first clone the repository:
+To reproduce the analysis on your computer, see the instructions in the [GitHub survey repository](https://github.com/softwaresaved/international-survey-2022) README file.
 
-```
-git clone https://github.com/softwaresaved/international-survey-analysis
-cd international-survey-analysis
-python -m venv venv  # use python3 if your default python is still Python 2
-source venv/bin/activate
-python -m pip install -r requirements.txt
-```
-
-Then change to the year you wish to reproduce: `cd 2018`. First, the
-overview and sampling file needs to be run which does some initial processing
-for the other sections:
-
-```bash
-python overview_and_sampling.py
-```
-
-This should create a `cache/processed_data.csv` file. Once this is generated, you can run any of the sections in any order:
-
-```bash
-python <section>.py
-```
-
-or generate all the sections
-```bash
-sh ../make_report.sh
-```
-
-This utilises the template file found in
-[analysis/templates](https://github.com/softwaresaved/international-survey-analysis/tree/main/templates)
-corresponding to the section. The template file uses the
-[Mustache](https://mustache.github.io) templating languages via the
-[chevron](https://pypi.org/project/chevron/) module.
 
 ## Citations
 The citation for the 2022 version is:
