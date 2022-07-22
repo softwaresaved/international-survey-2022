@@ -1,0 +1,71 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: International RSE Survey 2022
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Simon
+    family-names: Hettrick
+    email: s.hettrick@software.ac.uk
+    affiliation: Software Sustainability Institute
+    orcid: 'https://orcid.org/0000-0002-6809-5195'
+  - given-names: Radovan
+    family-names: Bast
+  - given-names: Steve
+    family-names: Crouch
+    email: s.crouch@software.ac.uk
+    affiliation: Software Sustainability Institute
+    orcid: 'https://orcid.org/0000-0001-8985-6814'
+  - given-names: Claire
+    family-names: Wyatt
+    email: c.wyatt@software.ac.uk
+    affiliation: Software Sustainability Institute
+  - given-names: Olivier
+    family-names: Philippe
+  - given-names: Alex
+    family-names: Botzki
+  - given-names: Jeff
+    family-names: Carver
+  - given-names: Ian
+    family-names: Cosden
+  - given-names: Florencia
+    family-names: D'Andrea
+  - given-names: Abhishek
+    family-names: Dasgupta
+  - given-names: William
+    family-names: Godoy
+  - given-names: Alejandra
+    family-names: Gonzalez-Beltran
+  - given-names: Ulf
+    family-names: Hamster
+  - given-names: Scott
+    family-names: Henwood
+    affiliation: CANARIE
+  - given-names: Patric
+    family-names: Holmvall
+  - given-names: Stephan
+    family-names: Janosch
+  - given-names: Thibault
+    family-names: Lestang
+  - given-names: Nick
+    family-names: May
+  - given-names: Johan
+    family-names: Philips
+  - given-names: Nooriyah
+    family-names: Poonawala-Lohani
+  - given-names: Paul
+    family-names: Richmond
+  - given-names: Manodeep
+    family-names: Sinha
+  - given-names: Florian
+    family-names: Thiery
+  - given-names: Ben
+    name-particle: van
+    family-names: Werkhoven
+  - given-names: Qian
+    family-names: Zhang
+    affiliation: CANARIE
