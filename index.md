@@ -78,7 +78,7 @@ This repository contains code and public data. We have different licences for ea
 * The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE).
 * The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE_FOR_DATA).
 
-The repository will also be archived on Zenodo when finalised - Zenodo link TBC.
+The repository is also be archived on Zenodo: <https://doi.org/10.5281/zenodo.6884882>.
 If you want to cite this work and need a citation in a specific format, you can use the citation service on Zenodo.
 
 ## Reproducibility
@@ -87,14 +87,12 @@ To reproduce the analysis on your computer, see the instructions in the [GitHub 
 
 
 ## Citations
+
 The citation for the 2022 version is:
-> Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. "RSE Survey 2022", DOI coming soon.
+> Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. "RSE Survey 2022", Pre-final release for 2022 results (Version 2022-v0.9.0). Zenodo DOI: <https://doi.org/10.5281/zenodo.6884882>. Check the repository's [citation file](https://github.com/softwaresaved/international-survey-2022/CITATION.cff).
 
 The citation for the 2018 version is:
-> Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Manodeep Sinha. (2019, March 6). softwaresaved/international-survey: Public release for 2018 results (Version 2018-v.1.0.2). Zenodo. http://doi.org/10.5281/zenodo.2585783
-
-The citation for the 2017 version is:
-> Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Scott Henwood. (2018, March 27). softwaresaved/international-survey: Public release for 2017 results (Version 2017-v1.2). Zenodo. http://doi.org/10.5281/zenodo.2574123
+> Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Manodeep Sinha. (2019, March 6). softwaresaved/international-survey: Public release for 2018 results (Version 2018-v.1.0.2). Zenodo DOI: <http://doi.org/10.5281/zenodo.2585783>
 
 ## Funders
 The Software Sustainability Institute is supported by EPSRC grant EP/H043160/1 and EPSRC/ESRC/BBSRC grant EP/N006410/1, with additional project funding from Jisc and NERC. Collaboration between the universities of Edinburgh, Manchester, Oxford and Southampton.

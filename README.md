@@ -33,7 +33,7 @@ Use the following to set the environment variables on macOS and Linux. If you ar
 ```bash
 export RSE_SURVEY_YEAR=2022  # optional, this is detected automatically if in a folder like *-2018
 export RSE_SURVEY_YEAR_PREV=2018  # optional, only needed if previous year != current year - 1
-export RSE_SURVEY_FIGURE_TYPE=svg  # optional, set to pdf or png to generate figures in that format
+export RSE_SURVEY_FIGURE_TYPE=svg  # optional, set to svg or png to generate figures in that format
 export RSE_SURVEY_FIGURE_DPI=300  # optional, set dpi for png or pdf output formats
 ```
 
@@ -133,20 +133,17 @@ This repository contains code and public data. We have different licence for eac
 * The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey/blob/master/LICENSE.md).
 * The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey/blob/master/LICENSE_FOR_DATA).
 
-The repository is also archived on zenodo: TBC.
+The repository is also archived on Zenodo: <https://doi.org/10.5281/zenodo.6884882>.
 If you want to cite this work and need a citation in a specific format, you can use the citation service on the zenodo.
 
 ## Citations
 
 The citation for the 2022 version is:
 
-> Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. “RSE Survey 2022”, DOI coming soon.
+> Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. "RSE Survey 2022", Pre-final release for 2022 results (Version 2022-v0.9.0). Zenodo DOI: <https://doi.org/10.5281/zenodo.6884882>. Check the repository's [citation file](CITATION.cff).
 
 The citation for the 2018 version is:
-> Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Manodeep Sinha. (2019, March 6). softwaresaved/international-survey: Public release for 2018 results (Version 2018-v.1.0.2). Zenodo. http://doi.org/10.5281/zenodo.2585783
-
-The citation for the 2017 version is:
-> Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Scott Henwood. (2018, March 27). softwaresaved/international-survey: Public release for 2017 results (Version 2017-v1.2). Zenodo. http://doi.org/10.5281/zenodo.2574123
+> Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Manodeep Sinha. (2019, March 6). softwaresaved/international-survey: Public release for 2018 results (Version 2018-v.1.0.2). Zenodo. <http://doi.org/10.5281/zenodo.2585783>
 
 ## Funders
 
