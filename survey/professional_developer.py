@@ -60,6 +60,7 @@ def run(survey_year, data="data/public_merged.csv"):
             country=country,
             category=year_dev_cat,
             survey_year=survey_year,
+            unit_label="Years of development experience",
         )
         countries[-1].update(
             figure_country(country, "density-years-professional-developer", plt)

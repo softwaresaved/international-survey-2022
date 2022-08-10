@@ -211,6 +211,7 @@ def run(survey_year, data="data/public_merged.csv"):
                     country=country,
                     category=category,
                     survey_year=survey_year,
+                    unit_label="Contract duration in years",
                     remove_outliers=True,
                 )
                 countries[-1].update(figure_country(country, name, plt))

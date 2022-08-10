@@ -83,6 +83,7 @@ def run(survey_year, data="data/public_merged.csv"):
             country=country,
             category=training_time_cat,
             survey_year=survey_year,
+            unit_label="Training events per year"
         )
         countries[-1].update(figure_country(country, "training-frequency", plt))
         plot_wordcloud(df, training_name, country, "Types of training", survey_year)
