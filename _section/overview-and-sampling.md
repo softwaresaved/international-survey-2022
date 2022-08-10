@@ -91,7 +91,7 @@ We can see the distribution of participants among the countries as follows:
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-31T10:26:00.688028</dc:date>
+    <dc:date>2022-08-10T14:07:59.706522</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -2443,9 +2443,6 @@ L 1228 1375
 L 731 0 
 L 94 0 
 L 1822 4591 
-z
-M 2144 4591 
-L 2144 4591 
 z
 " transform="scale(0.015625)"/>
       <path id="Helvetica-69" d="M 413 3331 
@@ -9963,7 +9960,7 @@ Several countries did the survey in the previous 2018 survey - here are the diff
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-05-31T10:26:02.886551</dc:date>
+    <dc:date>2022-08-10T14:08:00.888393</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -10823,9 +10820,6 @@ L 731 0
 L 94 0 
 L 1822 4591 
 z
-M 2144 4591 
-L 2144 4591 
-z
 " transform="scale(0.015625)"/>
         <path id="Helvetica-75" d="M 975 3347 
 L 975 1125 
@@ -11594,8 +11588,8 @@ We will only select the participants who answered `Yes` to at least one question
 
 For any further analysis, we remove the participants that answered 'No' at both of the question to only keep the ones that have work involving software development for both year to ensure a proper comparison. This brings the number of participants analysed to:
 
-|       |   Participants in 2018 |   Participants in 2022 |
-|:------|-----------------------:|-----------------------:|
-| Count |                    995 |                    997 |
+|    |   Participants in 2018 |   Participants in 2022 |
+|---:|-----------------------:|-----------------------:|
+|  0 |                    995 |                    997 |
 
 [Download CSV](/international-survey-2022/csv/participant_analysed.csv){: .button}
