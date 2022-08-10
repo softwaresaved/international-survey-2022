@@ -153,7 +153,8 @@ def run(survey_year, data="data/public_merged.csv"):
     ).round(2)
 
     # Display the results
-    report.update(table("compare_education_level", df_edu_comparison))
+    # Fix: ensure the index column is dropped
+    report.update(table("compare_education_level", df_edu_comparison, index=False))
 
     # In[22]:
     fig, ax = plt.subplots(figsize=(6, 8))
