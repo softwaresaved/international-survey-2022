@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-08-10T14:12:04.420295</dc:date>
+    <dc:date>2022-08-18T14:01:35.900674</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -43,7 +43,7 @@ L 434.712649 181.508821
 L 434.712649 161.002982 
 L 128.965625 161.002982 
 z
-" clip-path="url(#p5d0f45167c)" style="fill: #1f77b4"/>
+" clip-path="url(#pe8cee1acf6)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 128.965625 155.876523 
@@ -51,7 +51,7 @@ L 281.839137 155.876523
 L 281.839137 135.370684 
 L 128.965625 135.370684 
 z
-" clip-path="url(#p5d0f45167c)" style="fill: #1f77b4"/>
+" clip-path="url(#pe8cee1acf6)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 128.965625 130.244225 
@@ -59,7 +59,7 @@ L 281.839137 130.244225
 L 281.839137 109.738386 
 L 128.965625 109.738386 
 z
-" clip-path="url(#p5d0f45167c)" style="fill: #1f77b4"/>
+" clip-path="url(#pe8cee1acf6)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 128.965625 104.611926 
@@ -67,7 +67,7 @@ L 205.402381 104.611926
 L 205.402381 84.106088 
 L 128.965625 84.106088 
 z
-" clip-path="url(#p5d0f45167c)" style="fill: #1f77b4"/>
+" clip-path="url(#pe8cee1acf6)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
     <path d="M 128.965625 78.979628 
@@ -75,7 +75,7 @@ L 205.402381 78.979628
 L 205.402381 58.47379 
 L 128.965625 58.47379 
 z
-" clip-path="url(#p5d0f45167c)" style="fill: #1f77b4"/>
+" clip-path="url(#pe8cee1acf6)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
     <path d="M 128.965625 53.34733 
@@ -83,7 +83,7 @@ L 205.402381 53.34733
 L 205.402381 32.841491 
 L 128.965625 32.841491 
 z
-" clip-path="url(#p5d0f45167c)" style="fill: #1f77b4"/>
+" clip-path="url(#pe8cee1acf6)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1278,7 +1278,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p5d0f45167c">
+  <clipPath id="pe8cee1acf6">
    <rect x="128.965625" y="25.408125" width="321.034375" height="163.534063"/>
   </clipPath>
  </defs>

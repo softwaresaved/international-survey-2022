@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-08-10T14:08:32.220359</dc:date>
+    <dc:date>2022-08-18T13:57:26.582774</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -43,7 +43,7 @@ L 434.050446 135.690639
 L 434.050446 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
+" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
@@ -51,7 +51,7 @@ L 178.458226 108.050911
 L 178.458226 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
+" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
@@ -59,7 +59,7 @@ L 129.536278 80.411183
 L 129.536278 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
+" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
@@ -67,7 +67,7 @@ L 119.552207 52.771456
 L 119.552207 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
+" clip-path="url(#p61bdeaffd3)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -452,7 +452,7 @@ L -3.5 0
      </g>
      <g id="text_10">
       <!-- Male -->
-      <g transform="translate(86.385937 128.221467)scale(0.1 -0.1)">
+      <g transform="translate(86.385938 128.221467)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-4d" d="M 472 4591 
 L 1363 4591 
@@ -575,7 +575,7 @@ z
      </g>
      <g id="text_11">
       <!-- Female -->
-      <g transform="translate(74.717187 100.581739)scale(0.1 -0.1)">
+      <g transform="translate(74.717188 100.581739)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-46" d="M 547 4591 
 L 3731 4591 
@@ -638,7 +638,7 @@ z
      </g>
      <g id="text_12">
       <!-- Prefer not to say -->
-      <g transform="translate(34.695312 72.992792)scale(0.1 -0.1)">
+      <g transform="translate(34.695313 72.992792)scale(0.1 -0.1)">
        <defs>
         <path id="Helvetica-50" d="M 547 4591 
 L 2613 4591 
@@ -1060,7 +1060,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p0edbea60aa">
+  <clipPath id="p61bdeaffd3">
    <rect x="115.059375" y="25.408125" width="334.940625" height="115.534062"/>
   </clipPath>
  </defs>

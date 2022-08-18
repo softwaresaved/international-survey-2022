@@ -117,6 +117,7 @@ salary_ranges = {
         "≥ £32,277 and < £43,325",
         "≥ £43,325 and < £58,172",
         "≥ £58,172",
+        "Prefer not to say",
     ],
     "United States": [
         "< $30,000",
