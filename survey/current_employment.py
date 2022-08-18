@@ -1,8 +1,11 @@
 # Current employment
 import sys
+import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 
 from lib.analysis import (
+    get_previous_survey_year,
     count_diff,
     plot_cat_comparison,
     plot_wordcloud,
@@ -16,8 +19,10 @@ from lib.report import (
     read_cache,
     table_country,
     figure_country,
+    COUNTRIES,
     COUNTRIES_WITH_WORLD,
 )
+from survey.sociodemography import read_anonymised_data
 
 
 current_emp = ["currentEmp1. Please select your organization type"]
@@ -47,6 +52,8 @@ german_orga = [
 ]
 
 salary = ["socio4. Please select the range of your salary"]
+salary_col = salary[0]
+us_salary_col = 'socio4qus._.Please select the range of your salary'
 
 salary_de = [
     "socio10de. Please select your renumeration group according to your collective bargaining agreement"
@@ -126,9 +133,57 @@ salary_ranges = {
 }
 
 
+def prepare_salary_data(df):
+    """Converts any US 2018-style salary ranges to 2022 format and merges salary information from countries into a single column"""
+    if us_salary_col in df.columns:
+        df[us_salary_col].replace(
+            {
+                "Less than $30,000":         "< $30,000",
+                "From $30,000 to $49,999":   "≥ $30,000 and < $49,999",
+                "From $50,000 to $69,999":   "≥ $50,000 and < $69,999",
+                "From $70,000 to $89,999":   "≥ $70,000 and < $89,999",
+                "From $90,000 to $109,999":  "≥ $90,000 and < $109,999",
+                "From $110,000 to $129,999": "≥ $110,000 and < $129,999",
+                "From $130,000 to $149,999": "≥ $130,000 and < $149,999",
+                "From $150,000 to $199,999": "≥ $150,000 and < $199,999",
+                "More than $150,000":        "≥ $150,000",
+            },
+            inplace=True
+        )
+    df["socio4"] = (
+        df.loc[:, df.columns.str.startswith("socio4")]
+        .fillna("")
+        .agg("".join, axis=1)
+        .map(str.strip)
+    )
+    df = df[['Country', 'Year', 'socio4']]
+    df.columns = ['Country', 'Year', salary_col]
+
+    return df
+
+
 @make_report(__file__)
 def run(survey_year, data="data/public_merged.csv"):
+    survey_prev_year = get_previous_survey_year(survey_year)
+
     df = read_cache("processed_data")
+
+    # Import salary data
+    # NB fix: changed from 2018 method, where salary data for both years was imported within overview_and_sampling.py,
+    #         since we're dealing with this now as a separated CSV (similarly to how other sensitive data types are
+    #         handled). As a result, 2018_salary.csv has been reformatted (data itself unchanged) to also adopt the
+    #         new method and format used for 2022
+    salary_df_year = prepare_salary_data(read_anonymised_data(survey_year, 'data/' + str(survey_year) + '_salary.csv'))
+    salary_df_prev_year = prepare_salary_data(read_anonymised_data(survey_prev_year, 'data/' + str(survey_prev_year) + '_salary.csv'))
+    df_salary = pd.concat([salary_df_year, salary_df_prev_year], ignore_index=True)
+
+    # Ensure we re-label countries not in targeted countries as 'World'
+    df_salary["Country"] = df_salary["Country"].apply(lambda x: x if x in COUNTRIES else "World")
+
+    # Drop all records with empty strings in salary column
+    df_salary[salary_col] = df_salary[salary_col].replace('', np.nan)
+    df_salary = df_salary[df_salary[salary_col].notna()]
+
     countries = []
 
     current_field = [
@@ -158,33 +213,28 @@ def run(survey_year, data="data/public_merged.csv"):
             multi_choice = category in ["In which field", "Type of funding"]
 
             # Fix: process salary, unless the country isn't defined in the salary_ranges data,
-            # in which case just do default
+            # in which case just do it using default method
             if category == "Annual salary" and country in salary_ranges:
                 order_question = salary_ranges[country]
                 try:
-                    df_salary = get_sampled_df(df, salary)
-                    sl = df_salary[df_salary["Country"] == country]["socio4. Please select the range of your salary"].unique()
+                    sl = df_salary[df_salary["Country"] == country][salary_col].unique()
                     assert (
                         len(order_question)
                         - len(
-                            df_salary[df_salary["Country"] == country][
-                                "socio4. Please select the range of your salary"
-                            ].unique()
+                            df_salary[df_salary["Country"] == country][salary_col].unique()
                         )
                         in [-2, -1, 0]
                     )
                 except AssertionError:
                     print(
                         set(
-                            df_salary[df_salary["Country"] == country][
-                                "socio4. Please select the range of your salary"
-                            ].unique()
+                            df_salary[df_salary["Country"] == country][salary_col].unique()
                         )
                         - set(order_question)
                     )
                     raise
                 result = count_diff(
-                    df,
+                    df_salary,
                     salary,
                     category=category,
                     country=country,
@@ -217,8 +267,10 @@ def run(survey_year, data="data/public_merged.csv"):
                 countries[-1].update(figure_country(country, name, plt))
 
             else:  # general case
+                # Fix: special case: use salary df, not general one, since we deal with salaries as protected now
+                use_df = df_salary if category == "Annual salary" else df
                 result = count_diff(
-                    df,
+                    use_df,
                     columns,
                     category=category,
                     country=country,

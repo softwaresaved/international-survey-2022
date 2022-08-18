@@ -10,11 +10,9 @@ sys.path.insert(1, '.')
 
 from clean_scripts.cleaning import apply_actions
 
-from survey.overview_and_sampling import read_salary
 from survey.sociodemography import read_anonymised_data
 
 
-SALARY_COL = 'socio4. Please select the range of your salary'
 DEVEXP_COL = 'soft1can. How many years of software development experience do you have?'
 SOFTPROJ_COL = 'proj1can. How many software projects are you currently involved in?'
 PREVEMP1_COL = 'prevEmp1. Where was your previous job based?'
@@ -33,7 +31,7 @@ fix_df['Year'] = 2022
 # The reference (2018) data to use
 # We need to assemble it from its different parts
 ref_df = pd.read_csv('data/2018.csv', encoding='utf-8')
-ref_df = ref_df.merge(read_salary('data/2018_salary.csv'), on='startdate. Date started')
+#ref_df = ref_df.merge(read_salary('data/2018_salary.csv'), on='startdate. Date started')
 
 # Column processing
 # Go through mapping CSV which indicates what to do with each 2022 column

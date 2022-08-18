@@ -10,9 +10,6 @@ from lib.analysis import get_previous_survey_year
 from lib.report import table, figure, make_report, convert_time, write_cache, COUNTRIES
 
 
-US_SALARY_COL = 'socio4qus._.Please select the range of your salary'
-SALARY_COL = 'socio4. Please select the range of your salary'
-
 PROJ5ZAF_GIT1_COL = 'proj5zaf. Which version control tools do you use for software development?. [Git]'
 PROJ5ZAF_GIT2_COL = 'proj5zaf. Which version control tools do you use for software development?. [GIT]'
 
@@ -26,36 +23,6 @@ EDU1_COL = "edu1. What is the highest level of education you have attained?"
 EDU2_COL = "edu2. In which discipline is your highest academic qualification?"
 
 
-def read_salary(data):
-    """Converts any US 2018-style salary ranges to 2022 format and merges salary information from countries into a single column"""
-    df = pd.read_csv(data, dtype=str)
-    if US_SALARY_COL in df.columns:
-        df[US_SALARY_COL].replace(
-            {
-                "Less than $30,000":         "< $30,000",
-                "From $30,000 to $49,999":   "≥ $30,000 and < $49,999",
-                "From $50,000 to $69,999":   "≥ $50,000 and < $69,999",
-                "From $70,000 to $89,999":   "≥ $70,000 and < $89,999",
-                "From $90,000 to $109,999":  "≥ $90,000 and < $109,999",
-                "From $110,000 to $129,999": "≥ $110,000 and < $129,999",
-                "From $130,000 to $149,999": "≥ $130,000 and < $149,999",
-                "From $150,000 to $199,999": "≥ $150,000 and < $199,999",
-                "More than $150,000":        "≥ $150,000",
-            },
-            inplace=True
-        )
-    df["socio4"] = (
-        df.loc[:, df.columns.str.startswith("socio4")]
-        .fillna("")
-        .agg("".join, axis=1)
-        .map(str.strip)
-    )
-    df = df[['startdate._.Date started', 'socio4']]
-    df.columns = ['startdate. Date started', SALARY_COL]
-
-    return df
-
-
 @make_report(__file__)
 def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     """Prepares overview report and sampling.
@@ -67,13 +34,7 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     survey_prev_year = get_previous_survey_year(survey_year)
 
     df_year = pd.read_csv(data_year)
-    df_year = df_year.merge(read_salary(data_year[:-4] + '_salary.csv'), on='startdate. Date started')
-
-    # Fix: for 2022 data, remove uuid from startdate column (needed for prior salary data re-merging step)
-    df_year['startdate. Date started'] = df_year['startdate. Date started'].map(lambda x: x[:x.index('==')])
-
     df_prev_year = pd.read_csv(data_prev_year)
-    df_prev_year = df_prev_year.merge(read_salary(data_prev_year[:-4] + '_salary.csv'), on='startdate. Date started')
     df = pd.concat([df_year, df_prev_year], ignore_index=True)
 
     # The cleaning is about renaming some countries and create a globa category
@@ -87,7 +48,6 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
         },
         inplace=True,
     )
-    #df = df[df["socio1. In which country do you work?"] != "Canada"]
 
     # Fix: extra cleaning, to move a duplicated column's contents into the actual column
     df.drop(columns=[PROJ5ZAF_GIT2_COL], inplace=True)

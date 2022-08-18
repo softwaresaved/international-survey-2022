@@ -15,7 +15,6 @@ import pandas as pd
 sys.path.insert(1, '.')
 
 from clean_scripts.cleaning import apply_actions
-from survey.overview_and_sampling import read_salary
 
 
 def convert_time(x):
@@ -50,7 +49,7 @@ fix_df['Year'] = 2022
 # The reference (2018) data to use
 # We need to assemble it from its different parts
 ref_df = pd.read_csv('data/2018.csv', encoding='utf-8')
-ref_df = ref_df.merge(read_salary('data/2018_salary.csv'), on='startdate. Date started')
+#ref_df = ref_df.merge(read_salary('data/2018_salary.csv'), on='startdate. Date started')
 
 # Column processing
 # Load mapping CSV which indicates what to do with each 2022 column
@@ -64,10 +63,10 @@ fix_df[STARTDATE_COL] = fix_df[STARTDATE_COL].apply(lambda x: convert_time(x))
 # We need to fix the 'startdate' column to be unique, which it isn't,
 # to ensure the salary data is merged correctly into the main dataset
 # when preparing the data for analysis
-fix_df[STARTDATE_COL] = fix_df[STARTDATE_COL].map(lambda x: x + '==' + str(uuid.uuid4()))
-sal_df = fix_df.loc[:, (fix_df.columns.str.startswith("socio4") | fix_df.columns.str.startswith(STARTDATE_COL))]
-sal_df = sal_df.rename(columns={STARTDATE_COL: 'startdate._.Date started'})
-sal_df.to_csv('data/2022_salary.csv', index=False)
+#fix_df[STARTDATE_COL] = fix_df[STARTDATE_COL].map(lambda x: x + '==' + str(uuid.uuid4()))
+#sal_df = fix_df.loc[:, (fix_df.columns.str.startswith("socio4") | fix_df.columns.str.startswith(STARTDATE_COL))]
+#sal_df = sal_df.rename(columns={STARTDATE_COL: 'startdate._.Date started'})
+#sal_df.to_csv('data/2022_salary.csv', index=False)
 
 # Focus on only deleting unnecessary or sensitive columns in this preclean step
 actions_delete_df = mapping_df[mapping_df['Action'] == 'Delete']
