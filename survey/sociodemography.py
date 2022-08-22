@@ -38,6 +38,7 @@ disability = [
 ]
 
 
+# TODO: move this into lib
 def read_anonymised_data(survey_year, data, fillna=None):
     df = pd.read_csv(data)
     if fillna:

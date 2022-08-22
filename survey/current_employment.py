@@ -56,7 +56,7 @@ salary_col = salary[0]
 us_salary_col = 'socio4qus._.Please select the range of your salary'
 
 salary_de = [
-    "socio10de. Please select your renumeration group according to your collective bargaining agreement"
+    "socio10deqde. Please select your remuneration group according to your collective bargaining agreement"
 ]
 
 # Note: not used
