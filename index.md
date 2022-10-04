@@ -13,7 +13,7 @@ demographics, job satisfaction, and practices of research software engineers
 (RSEs) in the UK. To support and broaden this work, the institute will conduct the survey
 at regular intervals and extend the geographical coverage to
 facilitate inter-country comparisons. The results of the surveys, anonymised
-and open licensed, will act as a a valuable resource to
+and open licensed, will act as a valuable resource to
 understand and improve the working conditions for RSEs.
 
 In **2017** we also surveyed Canadian RSEs and we added four countries,
